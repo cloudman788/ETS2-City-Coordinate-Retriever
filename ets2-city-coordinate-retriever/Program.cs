@@ -86,7 +86,7 @@ Once the operation is complete, all coordinates will be stored in:
                             Keyboard.KeyPress(Keys.Oemtilde);
                             Thread.Sleep(250);
                             Keyboard.KeyPress(Keys.Back);
-                            Thread.Sleep(50);
+                            Thread.Sleep(100);
                             Keyboard.KeyPress(Keys.G);
                             Thread.Sleep(50);
                             Keyboard.KeyPress(Keys.O);
