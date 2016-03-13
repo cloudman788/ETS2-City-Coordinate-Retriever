@@ -17,7 +17,7 @@ namespace ets2_city_coordinate_retriever
 
     class Program
     {
-        private const string CITYCHARACTERS = "ABCDEFGHIJKLMNOPQRSTUVWXYZ_";
+        private const string CityCharacters = "ABCDEFGHIJKLMNOPQRSTUVWXYZ_";
 
         [DllImport("kernel32.dll", ExactSpelling = true)]
         public static extern IntPtr GetConsoleWindow();
@@ -84,7 +84,7 @@ Once the operation is complete, all coordinates will be stored in:
                             }
 
                             Keyboard.KeyPress(Keys.Oemtilde);
-                            Thread.Sleep(100);
+                            Thread.Sleep(250);
                             Keyboard.KeyPress(Keys.Back);
                             Thread.Sleep(50);
                             Keyboard.KeyPress(Keys.G);
@@ -99,7 +99,7 @@ Once the operation is complete, all coordinates will be stored in:
                             Thread.Sleep(50);
                             foreach (char index in cityName)
                             {
-                                if (CITYCHARACTERS.Contains(index.ToString().ToUpper()))
+                                if (CityCharacters.Contains(index.ToString().ToUpper()))
                                 {
                                     Keyboard.KeyPress(
                                         (Keys) System.Enum.Parse(typeof (Keys), index.ToString().ToUpper()));
@@ -112,6 +112,15 @@ Once the operation is complete, all coordinates will be stored in:
                             Thread.Sleep(100);
                             Keyboard.KeyPress(Keys.F11);
                             Thread.Sleep(100);
+                            foreach (char index in cityName)
+                            {
+                                if (CityCharacters.Contains(index.ToString().ToUpper()))
+                                {
+                                    Keyboard.KeyPress(
+                                        (Keys)System.Enum.Parse(typeof(Keys), index.ToString().ToUpper()));
+                                    Thread.Sleep(50);
+                                }
+                            }
                             Keyboard.KeyPress(Keys.Escape);
                             Thread.Sleep(100);
                             if (!debugMode)
