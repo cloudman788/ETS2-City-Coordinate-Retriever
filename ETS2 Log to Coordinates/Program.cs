@@ -29,11 +29,23 @@ namespace ETS2_Log_to_Coordinates
 
             Cities cities = new Cities();
 
+            string previousX = "";
+            string previousY = "";
+            string previousZ = "";
+
             foreach (string line in outputArray)
             {
                 string lineContent = line.Replace(" ", "");
                 string[] lineContentArray = lineContent.Split(new char[] { ';' });
-                cities.citiesList.Add(lineContentArray);
+                if (
+                    !(lineContentArray[2] == previousX && lineContentArray[3] == previousY &&
+                      lineContentArray[4] == previousZ))
+                {
+                    cities.citiesList.Add(lineContentArray);
+                    previousX = lineContentArray[2];
+                    previousY = lineContentArray[3];
+                    previousZ = lineContentArray[4];
+                }
             }
             string jsonCitiesList = Newtonsoft.Json.JsonConvert.SerializeObject(cities, Formatting.Indented);
             Console.Write(jsonCitiesList);
