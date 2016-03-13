@@ -121,7 +121,7 @@ Once the operation is complete, all coordinates will be stored in:
                                     Thread.Sleep(50);
                                 }
                             }
-                            Keyboard.KeyPress(Keys.Escape);
+                            Keyboard.KeyPress(Keys.Enter);
                             Thread.Sleep(100);
                             if (!debugMode)
                             {
