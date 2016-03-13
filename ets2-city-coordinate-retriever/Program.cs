@@ -84,36 +84,36 @@ Once the operation is complete, all coordinates will be stored in:
                             }
 
                             Keyboard.KeyPress(Keys.Oemtilde);
-                            Thread.Sleep(1000);
+                            Thread.Sleep(100);
                             Keyboard.KeyPress(Keys.Back);
-                            Thread.Sleep(100);
+                            Thread.Sleep(50);
                             Keyboard.KeyPress(Keys.G);
-                            Thread.Sleep(100);
+                            Thread.Sleep(50);
                             Keyboard.KeyPress(Keys.O);
-                            Thread.Sleep(100);
+                            Thread.Sleep(50);
                             Keyboard.KeyPress(Keys.T);
-                            Thread.Sleep(100);
+                            Thread.Sleep(50);
                             Keyboard.KeyPress(Keys.O);
-                            Thread.Sleep(100);
+                            Thread.Sleep(50);
                             Keyboard.KeyPress(Keys.Space, 10);
-                            Thread.Sleep(100);
+                            Thread.Sleep(50);
                             foreach (char index in cityName)
                             {
                                 if (CITYCHARACTERS.Contains(index.ToString().ToUpper()))
                                 {
                                     Keyboard.KeyPress(
                                         (Keys) System.Enum.Parse(typeof (Keys), index.ToString().ToUpper()));
-                                    Thread.Sleep(100);
+                                    Thread.Sleep(50);
                                 }
                             }
                             Keyboard.KeyPress(Keys.Enter);
                             Thread.Sleep(3000);
                             Keyboard.KeyPress(Keys.Oemtilde);
-                            Thread.Sleep(1000);
+                            Thread.Sleep(100);
                             Keyboard.KeyPress(Keys.F11);
-                            Thread.Sleep(1000);
+                            Thread.Sleep(100);
                             Keyboard.KeyPress(Keys.Escape);
-                            Thread.Sleep(1000);
+                            Thread.Sleep(100);
                             if (!debugMode)
                             {
                                 DrawProgressBar(i + 1, numberOfCities, new decimal(.5)*Console.WindowWidth, '=', '-');
