@@ -6,6 +6,7 @@ using System.Text;
 using System.Threading;
 using System.Threading.Tasks;
 using System.Configuration;
+using System.Globalization;
 using System.IO;
 using System.Windows.Forms;
 using System.Xml;
@@ -16,6 +17,7 @@ namespace ets2_city_coordinate_retriever
 
     class Program
     {
+        private const string CITYCHARACTERS = "ABCDEFGHIJKLMNOPQRSTUVWXYZ_";
 
         [DllImport("kernel32.dll", ExactSpelling = true)]
         public static extern IntPtr GetConsoleWindow();
@@ -66,12 +68,16 @@ Once the operation is complete, all coordinates will be stored in:
                 {
                     foreach (var line in outputArray)
                     {
-                        if (line.Trim().StartsWith("city_name:"))
+                        if (line.Trim().StartsWith("city_data: city."))
                         {
-                            int nameIndex = line.IndexOf("\"");
-                            string cityName = line.Substring(nameIndex + 1,
-                                line.IndexOf("\"", nameIndex + 1) - nameIndex - 1);
-
+                            //int nameIndex = line.IndexOf("\"");
+                            //string cityName = line.Substring(nameIndex + 1,
+                            //    line.IndexOf("\"", nameIndex + 1) - nameIndex - 1);
+                            string cityName = line.Replace("city_data: city.", "");
+                            if (cityName.Contains("{"))
+                            {
+                                cityName = cityName.Remove(cityName.IndexOf("{"));
+                            }
                             if (debugMode)
                             {
                                 Console.WriteLine($"Processing city {cityName} ({i + 1} / {numberOfCities})");
@@ -93,8 +99,12 @@ Once the operation is complete, all coordinates will be stored in:
                             Thread.Sleep(100);
                             foreach (char index in cityName)
                             {
-                                Keyboard.KeyPress((Keys) System.Enum.Parse(typeof (Keys), index.ToString().ToUpper()));
-                                Thread.Sleep(100);
+                                if (CITYCHARACTERS.Contains(index.ToString().ToUpper()))
+                                {
+                                    Keyboard.KeyPress(
+                                        (Keys) System.Enum.Parse(typeof (Keys), index.ToString().ToUpper()));
+                                    Thread.Sleep(100);
+                                }
                             }
                             Keyboard.KeyPress(Keys.Enter);
                             Thread.Sleep(3000);
@@ -115,6 +125,11 @@ Once the operation is complete, all coordinates will be stored in:
                 catch (Exception ex)
                 {
                     Console.WriteLine(ex.ToString());
+                    for (int a = 0; a <= 20; a++)
+                    {
+                        Keyboard.KeyPress(Keys.Back);
+                    }
+                    Thread.Sleep(1000);
                 }
             }
 
