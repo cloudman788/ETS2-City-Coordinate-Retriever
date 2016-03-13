@@ -1,0 +1,74 @@
+
+city_data: city.gardermoen
+{
+	city_name: "Gardermoen"
+	short_city_name: "Gardermoen"
+	city_name_uppercase: "GARDERMOEN"
+	country: norway
+
+	map_x_offsets[]: 0
+	map_x_offsets[]: 0
+	map_x_offsets[]: 0
+	map_x_offsets[]: 0
+	map_x_offsets[]: 0
+	map_x_offsets[]: 0
+	map_x_offsets[]: 0
+	map_x_offsets[]: 0
+
+	map_y_offsets[]: 0
+	map_y_offsets[]: 0
+	map_y_offsets[]: 0
+	map_y_offsets[]: 0
+	map_y_offsets[]: 0
+	map_y_offsets[]: 0
+	map_y_offsets[]: 0
+	map_y_offsets[]: 0
+
+	### SERVICE CITY ###
+	city_pin_scale_factor[]: 1.0
+	city_pin_scale_factor[]: 1.0  
+	city_pin_scale_factor[]: 0.6  // close zoom for minimap
+	city_pin_scale_factor[]: 0.6  // far zoom for monimap
+	city_pin_scale_factor[]: 0.8  // city zoom for world map
+	city_pin_scale_factor[]: 0.8  // closest zoom for world map
+	city_pin_scale_factor[]: 0.6  // middle zoom for world map
+	city_pin_scale_factor[]: 0.4  // whole world map zoom
+
+	truck_lp_template[]:"0 12222"
+ 
+	truck_lp_def0[]:"CC"
+	truck_lp_def0[]:"CE"
+	truck_lp_def0[]:"CF"
+	truck_lp_def0[]:"CH"
+	truck_lp_def0[]:"CJ"
+	truck_lp_def0[]:"CK"
+	truck_lp_def0[]:"CL"
+	truck_lp_def0[]:"CN"
+	truck_lp_def0[]:"CP"
+	truck_lp_def0[]:"CR"
+	truck_lp_def0[]:"CS"
+	truck_lp_def0[]:"CT"
+	truck_lp_def0[]:"CU"
+
+	truck_lp_def1[]:"1"
+	truck_lp_def1[]:"2"
+	truck_lp_def1[]:"3"
+	truck_lp_def1[]:"4"
+	truck_lp_def1[]:"5"
+	truck_lp_def1[]:"6"
+	truck_lp_def1[]:"7"
+	truck_lp_def1[]:"8"
+	truck_lp_def1[]:"9"
+
+	truck_lp_def2[]:"0"
+	truck_lp_def2[]:"1"
+	truck_lp_def2[]:"2"
+	truck_lp_def2[]:"3"
+	truck_lp_def2[]:"4"
+	truck_lp_def2[]:"5"
+	truck_lp_def2[]:"6"
+	truck_lp_def2[]:"7"
+	truck_lp_def2[]:"8"
+	truck_lp_def2[]:"9"
+}
+

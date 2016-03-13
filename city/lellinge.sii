@@ -1,0 +1,28 @@
+
+city_data: city.lellinge
+{
+	city_name: "Lellinge"
+	short_city_name: "Lellinge"
+	city_name_uppercase: "LELLINGE"
+	country: denmark
+
+	map_x_offsets[]: 0
+	map_x_offsets[]: 0
+	map_x_offsets[]: 0
+	map_x_offsets[]: 0
+	map_x_offsets[]: 0
+	map_x_offsets[]: 0
+	map_x_offsets[]: 0
+	map_x_offsets[]: 0
+
+	map_y_offsets[]: 0
+	map_y_offsets[]: 0
+	map_y_offsets[]: 0
+	map_y_offsets[]: 0
+	map_y_offsets[]: 0
+	map_y_offsets[]: 0
+	map_y_offsets[]: 0
+	map_y_offsets[]: 0
+
+}
+
