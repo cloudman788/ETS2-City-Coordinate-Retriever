@@ -1,2479 +1,362 @@
-04:53:04.414 : goto aalborg
-04:53:07.398 : ui t console:system_02
-04:53:07.500 : Position : < 855.258 46.6875 -35995.1 >
-04:53:08.056 : ui t console:system_02
-04:53:09.022 : goto aarhus
-04:53:12.018 : ui t console:system_02
-04:53:12.129 : Position : < 1808.59 37.4844 -30744.9 >
-04:53:12.647 : ui t console:system_02
-04:53:13.677 : goto akranes
-04:53:16.658 : ui t console:system_02
-04:53:16.761 : Position : < -91465 61.9805 -101511 >
-04:53:17.308 : ui t console:system_02
-04:53:18.340 : goto akureyri
-04:53:21.339 : ui t console:system_02
-04:53:21.440 : Position : < -77145.7 70.7461 -101575 >
-04:53:22.063 : ui t console:system_02
-04:53:23.076 : goto ancona
-04:53:23.083 : <ERROR> City 'ancona' not found!
-04:53:26.075 : ui t console:system_02
-04:53:26.177 : Position : < -77145.7 70.7461 -101575 >
-04:53:26.709 : ui t console:system_02
-04:53:27.692 : goto andorra
-04:53:30.676 : ui t console:system_02
-04:53:30.777 : Position : < -39815.9 140.875 42009.7 >
-04:53:31.342 : ui t console:system_02
-04:53:32.276 : goto angers
-04:53:35.260 : ui t console:system_02
-04:53:35.370 : Position : < -43531.5 64 12968.1 >
-04:53:35.860 : ui t console:system_02
-04:53:36.859 : goto antwerp
-04:53:37.435 : <ERROR> [traffic] Unable to determine road lane -2 for road item (0x22B110CADB401B1). Please check prefab<->road connection!
-04:53:37.736 : <ERROR> [prefab_desc] No priority set for intersection curve 74 'prefabloc652' (/prefab/tollgate/belgium/tollgate.ppd)
-04:53:37.736 : <ERROR> [prefab_desc] No priority set for intersection curve 77 'prefabloc655' (/prefab/tollgate/belgium/tollgate.ppd)
-04:53:39.844 : ui t console:system_02
-04:53:39.945 : Position : < -21215.1 82 -5293.52 >
-04:53:40.510 : ui t console:system_02
-04:53:41.327 : goto arad
-04:53:44.311 : ui t console:system_02
-04:53:44.415 : Position : < 41265.9 126.992 24603.7 >
-04:53:44.832 : ui t console:system_02
-04:53:45.761 : goto aranda
-04:53:48.745 : ui t console:system_02
-04:53:48.847 : Position : < 37318.5 99.9023 -86889.9 >
-04:53:49.361 : ui t console:system_02
-04:53:50.294 : goto arnhem
-04:53:50.300 : <ERROR> City 'arnhem' not found!
-04:53:53.279 : ui t console:system_02
-04:53:53.380 : Position : < 37318.5 99.9023 -86889.9 >
-04:53:53.879 : ui t console:system_02
-04:53:54.812 : goto athina
-04:53:54.818 : <ERROR> City 'athina' not found!
-04:53:57.796 : ui t console:system_02
-04:53:57.899 : Position : < 37318.5 99.9023 -86889.9 >
-04:53:58.413 : ui t console:system_02
-04:53:59.446 : goto babruysk
-04:54:02.430 : ui t console:system_02
-04:54:02.531 : Position : < 64394.4 60.5742 -18096.8 >
-04:54:03.146 : ui t console:system_02
-04:54:04.030 : goto bacau
-04:54:07.013 : ui t console:system_02
-04:54:07.116 : Position : < 62751.6 127.434 20434.6 >
-04:54:07.563 : ui t console:system_02
-04:54:08.397 : goto bado
-04:54:11.398 : ui t console:system_02
-04:54:11.499 : Position : < -5724.91 99.8438 -9493.73 >
-04:54:11.914 : ui t console:system_02
-04:54:12.931 : goto baiamare
-04:54:15.915 : ui t console:system_02
-04:54:16.015 : Position : < 49264.7 130 15764.6 >
-04:54:16.631 : ui t console:system_02
-04:54:17.514 : goto balti
-04:54:20.498 : ui t console:system_02
-04:54:20.600 : Position : < 65823.7 120 12512 >
-04:54:21.065 : ui t console:system_02
-04:54:22.248 : goto baranovichi
-04:54:25.249 : ui t console:system_02
-04:54:25.352 : Position : < 54554.7 64.0586 -16169.5 >
-04:54:26.116 : ui t console:system_02
-04:54:27.199 : goto barcelona
-04:54:27.206 : <ERROR> City 'barcelona' not found!
-04:54:30.183 : ui t console:system_02
-04:54:30.285 : Position : < 54554.7 64.0586 -16169.5 >
-04:54:30.950 : ui t console:system_02
-04:54:31.833 : goto basel
-04:54:34.817 : ui t console:system_02
-04:54:34.919 : Position : < -11649.5 107.949 17001.7 >
-04:54:35.367 : ui t console:system_02
-04:54:36.367 : goto bayonne
-04:54:39.351 : ui t console:system_02
-04:54:39.455 : Position : < -52014.3 64.1016 33499 >
-04:54:40.017 : ui t console:system_02
-04:54:40.951 : goto bbiala
-04:54:43.934 : ui t console:system_02
-04:54:44.037 : Position : < 31289 150.082 5747.38 >
-04:54:44.551 : ui t console:system_02
-04:54:45.535 : goto belfast
-04:54:45.545 : <ERROR> City 'belfast' not found!
-04:54:48.518 : ui t console:system_02
-04:54:48.620 : Position : < 31289 150.082 5747.38 >
-04:54:49.202 : ui t console:system_02
-04:54:50.118 : goto bergen
-04:54:53.102 : ui t console:system_02
-04:54:53.203 : Position : < -10371.6 52.6406 -55777.6 >
-04:54:53.719 : ui t console:system_02
-04:54:54.802 : goto bielskpdl
-04:54:54.808 : <ERROR> City 'bielskpdl' not found!
-04:54:57.786 : ui t console:system_02
-04:54:57.887 : Position : < -10371.6 52.6406 -55777.6 >
-04:54:58.553 : ui t console:system_02
-04:54:59.486 : goto bilbao
-04:54:59.493 : <ERROR> City 'bilbao' not found!
-04:55:02.487 : ui t console:system_02
-04:55:02.604 : Position : < -10371.6 52.6406 -55777.6 >
-04:55:03.104 : ui t console:system_02
-04:55:04.153 : goto blonduos
-04:55:04.673 : <ERROR> [model] Unknown look name 'snow' on model '/road_template/sc/curb.pmd'
-04:55:04.673 : <ERROR> [model] Unknown look name 'snow' on model '/road_template/sc/curb.pmd'
-04:55:04.673 : <ERROR> [model] Unknown look name 'snow_tracks' on model '/road_template/sc/curb.pmd'
-04:55:04.673 : <ERROR> [model] Unknown look name 'snow_tracks' on model '/road_template/sc/curb.pmd'
-04:55:04.673 : <ERROR> [model] Unknown look name 'asphalt' on model '/road_template/sc/curb.pmd'
-04:55:04.673 : <ERROR> [model] Unknown look name 'asphalt' on model '/road_template/sc/curb.pmd'
-04:55:04.673 : <ERROR> [model] Unknown look name 'asphalt11' on model '/road_template/sc/curb.pmd'
-04:55:04.673 : <ERROR> [model] Unknown look name 'asphalt11' on model '/road_template/sc/curb.pmd'
-04:55:04.673 : <ERROR> [model] Unknown look name 'asphalt11' on model '/road_template/sc/curb.pmd'
-04:55:04.674 : <ERROR> [model] Unknown look name 'asphalt11' on model '/road_template/sc/curb.pmd'
-04:55:04.674 : <ERROR> [model] Unknown look name 'asphalt2pl' on model '/road_template/sc/sidewalk.pmd'
-04:55:07.137 : ui t console:system_02
-04:55:07.240 : Position : < -82233.6 61.9805 -104774 >
-04:55:07.854 : ui t console:system_02
-04:55:08.904 : goto bobolice
-04:55:08.911 : <ERROR> City 'bobolice' not found!
-04:55:11.888 : ui t console:system_02
-04:55:11.989 : Position : < -82233.6 61.9805 -104774 >
-04:55:12.021 : <ERROR> Maximal water level count (2) exceeded!
-04:55:12.021 : Failed to register water level for item: 0x466e0adc2d00001
-04:55:12.022 : <ERROR> Maximal water level count (2) exceeded!
-04:55:12.022 : Failed to register water level for item: 0x466e0942f800001
-04:55:12.605 : ui t console:system_02
-04:55:12.850 : <ERROR> Maximal water level count (2) exceeded!
-04:55:12.850 : Failed to register water level for item: 0x37f62f9be2d0002
-04:55:12.850 : <ERROR> Maximal water level count (2) exceeded!
-04:55:12.850 : Failed to register water level for item: 0x37f62f94a2d0004
-04:55:12.850 : <ERROR> Maximal water level count (2) exceeded!
-04:55:12.850 : Failed to register water level for item: 0x37f645096cd0002
-04:55:12.850 : <ERROR> Maximal water level count (2) exceeded!
-04:55:12.850 : Failed to register water level for item: 0x37f6463b97d0002
-04:55:12.851 : <ERROR> Maximal water level count (2) exceeded!
-04:55:12.851 : Failed to register water level for item: 0x379bbaac65d0002
-04:55:12.851 : <ERROR> Maximal water level count (2) exceeded!
-04:55:12.851 : Failed to register water level for item: 0x37f62efee1d0001
-04:55:12.851 : <ERROR> Maximal water level count (2) exceeded!
-04:55:12.851 : Failed to register water level for item: 0x37f62f0da5d0001
-04:55:12.851 : <ERROR> Maximal water level count (2) exceeded!
-04:55:12.851 : Failed to register water level for item: 0x385e563a80d0001
-04:55:12.851 : <ERROR> Maximal water level count (2) exceeded!
-04:55:12.851 : Failed to register water level for item: 0x385e563481d0003
-04:55:12.851 : <ERROR> Maximal water level count (2) exceeded!
-04:55:12.851 : Failed to register water level for item: 0x385e56338fd0005
-04:55:12.851 : <ERROR> Maximal water level count (2) exceeded!
-04:55:12.851 : Failed to register water level for item: 0x385e564120d0001
-04:55:12.851 : <ERROR> Maximal water level count (2) exceeded!
-04:55:12.851 : Failed to register water level for item: 0x3860403a45d0001
-04:55:12.851 : <ERROR> Maximal water level count (2) exceeded!
-04:55:12.851 : Failed to register water level for item: 0x3860404f91d0001
-04:55:12.851 : <ERROR> Maximal water level count (2) exceeded!
-04:55:12.851 : Failed to register water level for item: 0x386040547ed0001
-04:55:12.851 : <ERROR> Maximal water level count (2) exceeded!
-04:55:12.851 : Failed to register water level for item: 0x3980984e94d0001
-04:55:13.588 : goto bologna
-04:55:16.596 : ui t console:system_02
-04:55:16.693 : Position : < 1914.67 80.3516 35291 >
-04:55:17.239 : ui t console:system_02
-04:55:18.022 : goto bor
-04:55:21.006 : ui t console:system_02
-04:55:21.120 : Position : < -47905.3 62 27492.5 >
-04:55:21.489 : ui t console:system_02
-04:55:22.373 : goto borde
-04:55:24.827 : <ERROR> Maximal water level count (2) exceeded!
-04:55:24.827 : Failed to register water level for item: 0x1f4c3909410002a
-04:55:24.827 : <ERROR> Maximal water level count (2) exceeded!
-04:55:24.827 : Failed to register water level for item: 0x1f2e7281c100218
-04:55:25.356 : ui t console:system_02
-04:55:25.464 : Position : < -47905.3 62 27492.5 >
-04:55:25.923 : ui t console:system_02
-04:55:27.056 : goto borgarnes
-04:55:29.613 : <ERROR> Maximal water level count (2) exceeded!
-04:55:29.613 : Failed to register water level for item: 0x343f9f0ea0d0002
-04:55:30.040 : ui t console:system_02
-04:55:30.142 : Position : < -89285.6 79.3555 -102462 >
-04:55:30.807 : ui t console:system_02
-04:55:31.857 : goto borlange
-04:55:31.863 : <ERROR> City 'borlange' not found!
-04:55:34.841 : ui t console:system_02
-04:55:34.943 : Position : < -89285.6 79.3555 -102462 >
-04:55:35.558 : ui t console:system_02
-04:55:36.441 : goto brect
-04:55:38.067 : <ERROR> Maximal water level count (2) exceeded!
-04:55:38.067 : Failed to register water level for item: 0x1ed7ddf82400366
-04:55:38.067 : <ERROR> Maximal water level count (2) exceeded!
-04:55:38.067 : Failed to register water level for item: 0x1ed7ec40e700368
-04:55:38.067 : <ERROR> Maximal water level count (2) exceeded!
-04:55:38.067 : Failed to register water level for item: 0x1ed7ec9b2b0036b
-04:55:38.068 : <ERROR> Maximal water level count (2) exceeded!
-04:55:38.068 : Failed to register water level for item: 0x1ed7edf32f0036e
-04:55:38.069 : <ERROR> Maximal water level count (2) exceeded!
-04:55:38.069 : Failed to register water level for item: 0x1ed7ef0c1f00371
-04:55:38.069 : <ERROR> Maximal water level count (2) exceeded!
-04:55:38.069 : Failed to register water level for item: 0x1ed7ef762000374
-04:55:39.428 : ui t console:system_02
-04:55:39.531 : Position : < 46698.6 103.68 -9542.98 >
-04:55:39.992 : ui t console:system_02
-04:55:40.891 : goto brest
-04:55:43.876 : ui t console:system_02
-04:55:43.977 : Position : < 46698.6 103.68 -9542.98 >
-04:55:44.425 : ui t console:system_02
-04:55:45.409 : goto bryansk
-04:55:47.864 : <ERROR> Maximal water level count (2) exceeded!
-04:55:47.864 : Failed to register water level for item: 0x3e12ad5c6800005
-04:55:47.864 : <ERROR> Maximal water level count (2) exceeded!
-04:55:47.865 : Failed to register water level for item: 0x3e12ad5add00018
-04:55:47.865 : <ERROR> Maximal water level count (2) exceeded!
-04:55:47.865 : Failed to register water level for item: 0x3e12ad5b2200026
-04:55:47.865 : <ERROR> Maximal water level count (2) exceeded!
-04:55:47.865 : Failed to register water level for item: 0x3e12ad57740009b
-04:55:47.865 : <ERROR> Maximal water level count (2) exceeded!
-04:55:47.865 : Failed to register water level for item: 0x3e12ad57fe004f0
-04:55:47.865 : <ERROR> Maximal water level count (2) exceeded!
-04:55:47.865 : Failed to register water level for item: 0x3e12ad54f8001d2
-04:55:47.865 : <ERROR> Maximal water level count (2) exceeded!
-04:55:47.865 : Failed to register water level for item: 0x3e12ad579100273
-04:55:47.865 : <ERROR> Maximal water level count (2) exceeded!
-04:55:47.865 : Failed to register water level for item: 0x3e12ad5351003a8
-04:55:47.866 : <ERROR> Maximal water level count (2) exceeded!
-04:55:47.866 : Failed to register water level for item: 0x3e12ad568400459
-04:55:47.866 : <ERROR> Maximal water level count (2) exceeded!
-04:55:47.866 : Failed to register water level for item: 0x3e12ad547200496
-04:55:47.866 : <ERROR> Maximal water level count (2) exceeded!
-04:55:47.866 : Failed to register water level for item: 0x3e12ad56f2004ef
-04:55:48.393 : ui t console:system_02
-04:55:48.496 : Position : < 82100 61.7188 -22682.4 >
-04:55:49.076 : ui t console:system_02
-04:55:50.159 : goto bucuresti
-04:55:53.184 : ui t console:system_02
-04:55:53.326 : Position : < 61238.3 127.949 32579 >
-04:55:53.963 : ui t console:system_02
-04:55:55.093 : goto budejovice
-04:55:55.099 : <ERROR> City 'budejovice' not found!
-04:55:58.094 : ui t console:system_02
-04:55:58.196 : Position : < 61238.3 127.949 32579 >
-04:55:58.984 : ui t console:system_02
-04:55:59.844 : goto burg
-04:56:02.813 : ui t console:system_02
-04:56:02.913 : Position : < 4095.55 55.3281 -21142.2 >
-04:56:03.346 : ui t console:system_02
-04:56:04.278 : goto burgos
-04:56:04.284 : <ERROR> City 'burgos' not found!
-04:56:05.014 : <ERROR> Maximal water level count (2) exceeded!
-04:56:05.014 : Failed to register water level for item: 0x420298a7474000d
-04:56:05.014 : <ERROR> Maximal water level count (2) exceeded!
-04:56:05.014 : Failed to register water level for item: 0x420298a4af4004e
-04:56:05.014 : <ERROR> Maximal water level count (2) exceeded!
-04:56:05.014 : Failed to register water level for item: 0x420298aa7e400d4
-04:56:05.014 : <ERROR> Maximal water level count (2) exceeded!
-04:56:05.014 : Failed to register water level for item: 0x420298a03940041
-04:56:05.014 : <ERROR> Maximal water level count (2) exceeded!
-04:56:05.014 : Failed to register water level for item: 0x420298a7f54008f
-04:56:05.014 : <ERROR> Maximal water level count (2) exceeded!
-04:56:05.014 : Failed to register water level for item: 0x420298a0fe4014a
-04:56:05.015 : <ERROR> Maximal water level count (2) exceeded!
-04:56:05.015 : Failed to register water level for item: 0x420298a10140175
-04:56:05.497 : <ERROR> Maximal water level count (2) exceeded!
-04:56:05.497 : Failed to register water level for item: 0xb1d151d2a02e9a
-04:56:05.932 : <ERROR> Maximal water level count (2) exceeded!
-04:56:05.932 : Failed to register water level for item: 0x420298a04f40156
-04:56:05.932 : <ERROR> Maximal water level count (2) exceeded!
-04:56:05.932 : Failed to register water level for item: 0x420298acb140177
-04:56:05.932 : <ERROR> Maximal water level count (2) exceeded!
-04:56:05.932 : Failed to register water level for item: 0x420298a3fd4017d
-04:56:06.082 : <ERROR> Maximal water level count (2) exceeded!
-04:56:06.082 : Failed to register water level for item: 0x42169ce17e4009f
-04:56:07.262 : ui t console:system_02
-04:56:07.363 : Position : < 4095.55 55.3281 -21142.2 >
-04:56:07.862 : ui t console:system_02
-04:56:08.745 : goto busko
-04:56:08.752 : <ERROR> City 'busko' not found!
-04:56:11.729 : ui t console:system_02
-04:56:11.830 : Position : < 4095.55 55.3281 -21142.2 >
-04:56:12.296 : ui t console:system_02
-04:56:13.379 : goto bydgoszcz
-04:56:16.364 : ui t console:system_02
-04:56:16.467 : Position : < 26440.3 110.004 -13850.1 >
-04:56:17.114 : ui t console:system_02
-04:56:17.997 : goto cadiz
-04:56:18.005 : <ERROR> City 'cadiz' not found!
-04:56:20.980 : ui t console:system_02
-04:56:21.099 : Position : < 26440.3 110.004 -13850.1 >
-04:56:21.547 : ui t console:system_02
-04:56:22.380 : goto caen
-04:56:25.367 : ui t console:system_02
-04:56:25.484 : Position : < -40904.6 54.5 3042.14 >
-04:56:25.499 : <ERROR> Maximal water level count (2) exceeded!
-04:56:25.499 : Failed to register water level for item: 0xc981db4980002d
-04:56:25.915 : ui t console:system_02
-04:56:26.848 : goto calais
-04:56:29.832 : ui t console:system_02
-04:56:29.936 : Position : < -30243 92.2344 -4985.64 >
-04:56:30.449 : ui t console:system_02
-04:56:31.482 : goto carlisle
-04:56:34.466 : ui t console:system_02
-04:56:34.567 : Position : < -45889.2 153 -39573.5 >
-04:56:35.182 : ui t console:system_02
-04:56:36.266 : goto charleroi
-04:56:36.271 : <ERROR> City 'charleroi' not found!
-04:56:39.251 : ui t console:system_02
-04:56:39.352 : Position : < -45889.2 153 -39573.5 >
-04:56:40.016 : ui t console:system_02
-04:56:41.150 : goto chelmsford
-04:56:44.134 : ui t console:system_02
-04:56:44.237 : Position : < -36472.1 98.1016 -12878.6 >
-04:56:44.951 : ui t console:system_02
-04:56:45.834 : goto cherb
-04:56:48.818 : ui t console:system_02
-04:56:48.919 : Position : < -45091.8 52.5352 -447.961 >
-04:56:49.385 : ui t console:system_02
-04:56:50.534 : goto chernivtsi
-04:56:50.540 : <ERROR> City 'chernivtsi' not found!
-04:56:53.371 : <ERROR> Maximal water level count (2) exceeded!
-04:56:53.371 : Failed to register water level for item: 0xd4c43ba1400025
-04:56:53.371 : <ERROR> Maximal water level count (2) exceeded!
-04:56:53.371 : Failed to register water level for item: 0xd4c43de5a00027
-04:56:53.519 : ui t console:system_02
-04:56:53.620 : Position : < -45091.8 52.5352 -447.961 >
-04:56:54.321 : ui t console:system_02
-04:56:55.385 : goto chisinau
-04:56:58.369 : ui t console:system_02
-04:56:58.471 : Position : < 70134.7 120 16235.3 >
-04:56:59.086 : ui t console:system_02
-04:57:00.086 : goto cieszyn
-04:57:03.070 : ui t console:system_02
-04:57:03.171 : Position : < 29295.3 128.898 6348.3 >
-04:57:03.737 : ui t console:system_02
-04:57:04.620 : goto clerm
-04:57:04.626 : <ERROR> City 'clerm' not found!
-04:57:07.604 : ui t console:system_02
-04:57:07.705 : Position : < 29295.3 128.898 6348.3 >
-04:57:08.188 : ui t console:system_02
-04:57:09.020 : goto cluj
-04:57:12.017 : ui t console:system_02
-04:57:12.136 : Position : < 49554.8 120 20421.1 >
-04:57:12.521 : ui t console:system_02
-04:57:13.545 : goto coimbra
-04:57:13.552 : <ERROR> City 'coimbra' not found!
-04:57:16.539 : ui t console:system_02
-04:57:16.640 : Position : < 49554.8 120 20421.1 >
-04:57:17.206 : ui t console:system_02
-04:57:18.288 : goto constanta
-04:57:18.958 : <ERROR> Maximal water level count (2) exceeded!
-04:57:18.958 : Failed to register water level for item: 0x3f4906071d00b42
-04:57:19.378 : <ERROR> Maximal water level count (2) exceeded!
-04:57:19.378 : Failed to register water level for item: 0x3f4905c4db00b40
-04:57:19.379 : <ERROR> Maximal water level count (2) exceeded!
-04:57:19.379 : Failed to register water level for item: 0x3f490585de00b3e
-04:57:19.379 : <ERROR> Maximal water level count (2) exceeded!
-04:57:19.379 : Failed to register water level for item: 0x3f4904d09700b3a
-04:57:19.379 : <ERROR> Maximal water level count (2) exceeded!
-04:57:19.379 : Failed to register water level for item: 0x3f4904aa5400b38
-04:57:19.379 : <ERROR> Maximal water level count (2) exceeded!
-04:57:19.379 : Failed to register water level for item: 0x3f490518f600b3c
-04:57:19.379 : <ERROR> Maximal water level count (2) exceeded!
-04:57:19.379 : Failed to register water level for item: 0x3f48f19d3700b2b
-04:57:21.273 : ui t console:system_02
-04:57:21.374 : Position : < 71837.5 120 32816.9 >
-04:57:22.040 : ui t console:system_02
-04:57:22.872 : goto cork
-04:57:22.879 : <ERROR> City 'cork' not found!
-04:57:25.856 : ui t console:system_02
-04:57:25.958 : Position : < 71837.5 120 32816.9 >
-04:57:26.356 : ui t console:system_02
-04:57:27.340 : goto craiova
-04:57:30.324 : ui t console:system_02
-04:57:30.426 : Position : < 52254.7 120 34444.2 >
-04:57:30.990 : ui t console:system_02
-04:57:31.957 : goto croydon
-04:57:34.941 : ui t console:system_02
-04:57:35.078 : Position : < -39570.6 152.719 -10454.6 >
-04:57:35.625 : ui t console:system_02
-04:57:36.675 : goto czluchow
-04:57:36.684 : <ERROR> City 'czluchow' not found!
-04:57:39.659 : ui t console:system_02
-04:57:39.760 : Position : < -39570.6 152.719 -10454.6 >
-04:57:40.375 : ui t console:system_02
-04:57:41.508 : goto daugavpils
-04:57:41.514 : <ERROR> City 'daugavpils' not found!
-04:57:44.492 : ui t console:system_02
-04:57:44.594 : Position : < -39570.6 152.719 -10454.6 >
-04:57:45.292 : ui t console:system_02
-04:57:46.176 : goto dijon
-04:57:48.947 : <ERROR> Maximal water level count (2) exceeded!
-04:57:48.947 : Failed to register water level for item: 0x3294e64bbc0018b
-04:57:49.161 : ui t console:system_02
-04:57:49.262 : Position : < -22312 97.3984 16721.5 >
-04:57:49.710 : ui t console:system_02
-04:57:50.743 : goto donostia
-04:57:52.463 : <ERROR> [model] Unknown look name 'light_gray' on model '/road_template/pro/land/rl2_pro_de.pmd'
-04:57:52.463 : <ERROR> [model] Unknown look name 'asphalt' on model '/road_template/sc/sidewalk.pmd'
-04:57:52.463 : <ERROR> [model] Unknown look name 'asphalt' on model '/road_template/sc/sidewalk.pmd'
-04:57:52.463 : <ERROR> [model] Unknown look name 'asphalt' on model '/road_template/sc/sidewalk.pmd'
-04:57:52.463 : <ERROR> [model] Unknown look name 'asphalt' on model '/road_template/sc/sidewalk.pmd'
-04:57:52.464 : <ERROR> [model] Unknown look name 'light_gray' on model '/road_template/pro/land/rl2_half_pro_de.pmd'
-04:57:52.464 : <ERROR> [model] Unknown variant name 'no_lines' on model '/road_template/pro/land/rl2_half_pro_de.pmd'
-04:57:52.464 : <ERROR> [model] Unknown variant name 'no_lines' on model '/road_template/pro/land/rl2_half_pro_de.pmd'
-04:57:52.464 : <ERROR> [model] Unknown look name 'asphalt' on model '/road_template/sc/sidewalk.pmd'
-04:57:52.464 : <ERROR> [model] Unknown look name 'asphalt' on model '/road_template/sc/sidewalk.pmd'
-04:57:52.464 : <ERROR> [model] Unknown look name 'asphalt' on model '/road_template/sc/sidewalk.pmd'
-04:57:52.464 : <ERROR> [model] Unknown look name 'asphalt' on model '/road_template/sc/sidewalk.pmd'
-04:57:52.464 : <ERROR> [model] Unknown look name 'asphalt' on model '/road_template/sc/sidewalk.pmd'
-04:57:52.464 : <ERROR> [model] Unknown look name 'asphalt' on model '/road_template/sc/sidewalk.pmd'
-04:57:52.464 : <ERROR> [model] Unknown look name 'asphalt' on model '/road_template/sc/sidewalk.pmd'
-04:57:52.478 : <ERROR> [model] Unknown look name 'light_gray' on model '/road_template/road/shoulder_fld.pmd'
-04:57:52.478 : <ERROR> [model] Unknown look name 'light_gray' on model '/road_template/road/shoulder_fld.pmd'
-04:57:52.478 : <ERROR> [model] Unknown look name 'light_gray' on model '/road_template/road/shoulder_fld.pmd'
-04:57:52.478 : <ERROR> [model] Unknown look name 'light_gray' on model '/road_template/road/shoulder_fld.pmd'
-04:57:52.478 : <ERROR> [model] Unknown look name 'light_gray' on model '/road_template/road/shoulder_fld.pmd'
-04:57:52.478 : <ERROR> [model] Unknown look name 'light_gray' on model '/road_template/road/shoulder_fld.pmd'
-04:57:52.479 : <ERROR> [model] Unknown look name 'light_gray' on model '/road_template/road/shoulder_fld.pmd'
-04:57:52.479 : <ERROR> [model] Unknown look name 'light_gray' on model '/road_template/road/shoulder_fld.pmd'
-04:57:52.479 : <ERROR> [model] Unknown variant name 'dash1' on model '/road_template/pro/hw/hw1b_ow_pro_de.pmd'
-04:57:52.479 : <ERROR> [model] Unknown variant name 'dash1' on model '/road_template/pro/hw/hw1b_ow_pro_de.pmd'
-04:57:52.479 : <ERROR> [model] Unknown look name 'light_gray' on model '/road_template/road/shoulder_fld.pmd'
-04:57:52.479 : <ERROR> [model] Unknown look name 'light_gray' on model '/road_template/road/shoulder_fld.pmd'
-04:57:52.480 : <ERROR> [model] Unknown look name 'light_gray' on model '/road_template/road/shoulder_fld.pmd'
-04:57:52.480 : <ERROR> [model] Unknown look name 'light_gray' on model '/road_template/road/shoulder_fld.pmd'
-04:57:52.480 : <ERROR> [model] Unknown look name 'light_gray' on model '/road_template/road/shoulder_fld.pmd'
-04:57:52.480 : <ERROR> [model] Unknown look name 'light_gray' on model '/road_template/road/shoulder_fld.pmd'
-04:57:52.636 : <ERROR> [prefab_desc] No priority set for intersection curve 2 'fld_line_2' (/prefab/land_2/2_t_small_2m_1a.ppd)
-04:57:52.642 : <ERROR> [prefab_desc] No priority set for intersection curve 5 'fld_line_5' (/prefab/land_2/2_t_small_2m_1a.ppd)
-04:57:53.342 : <ERROR> Unable to find road transition material! (/road_template/pro/land/rl2_half_pro_de.pmd)
-04:57:53.741 : ui t console:system_02
-04:57:53.847 : Position : < -53789.7 62.7109 34870.4 >
-04:57:54.461 : ui t console:system_02
-04:57:55.444 : goto douglas
-04:57:55.449 : <ERROR> City 'douglas' not found!
-04:57:56.913 : <ERROR> Maximal water level count (2) exceeded!
-04:57:56.913 : Failed to register water level for item: 0x4b704a7ece003eb
-04:57:57.380 : <ERROR> Maximal water level count (2) exceeded!
-04:57:57.380 : Failed to register water level for item: 0x2139279e1c00039
-04:57:58.429 : ui t console:system_02
-04:57:58.530 : Position : < -53789.7 62.7109 34870.4 >
-04:57:58.780 : <ERROR> Maximal water level count (2) exceeded!
-04:57:58.780 : Failed to register water level for item: 0x4b704a778b00238
-04:57:58.780 : <ERROR> Maximal water level count (2) exceeded!
-04:57:58.780 : Failed to register water level for item: 0x4b704a71a400263
-04:57:58.780 : <ERROR> Maximal water level count (2) exceeded!
-04:57:58.780 : Failed to register water level for item: 0x4b704a79c400239
-04:57:58.780 : <ERROR> Maximal water level count (2) exceeded!
-04:57:58.780 : Failed to register water level for item: 0x4b704a7f2500282
-04:57:58.780 : <ERROR> Maximal water level count (2) exceeded!
-04:57:58.780 : Failed to register water level for item: 0x4b704a7aa0002ba
-04:57:58.780 : <ERROR> Maximal water level count (2) exceeded!
-04:57:58.780 : Failed to register water level for item: 0x4b704a7509002c1
-04:57:58.780 : <ERROR> Maximal water level count (2) exceeded!
-04:57:58.780 : Failed to register water level for item: 0x4b704a7e94002c6
-04:57:58.780 : <ERROR> Maximal water level count (2) exceeded!
-04:57:58.780 : Failed to register water level for item: 0x4b704a7a02002d7
-04:57:58.780 : <ERROR> Maximal water level count (2) exceeded!
-04:57:58.780 : Failed to register water level for item: 0x52d1106c1200000
-04:57:58.780 : <ERROR> Maximal water level count (2) exceeded!
-04:57:58.780 : Failed to register water level for item: 0x52d110d3e900000
-04:57:58.780 : <ERROR> Maximal water level count (2) exceeded!
-04:57:58.780 : Failed to register water level for item: 0x5215b1a30800000
-04:57:58.780 : <ERROR> Maximal water level count (2) exceeded!
-04:57:58.780 : Failed to register water level for item: 0x5215b205ee00000
-04:57:58.780 : <ERROR> Maximal water level count (2) exceeded!
-04:57:58.780 : Failed to register water level for item: 0x5215b155cb00000
-04:57:58.780 : <ERROR> Maximal water level count (2) exceeded!
-04:57:58.780 : Failed to register water level for item: 0x5219c1e0eb00000
-04:57:58.780 : <ERROR> Maximal water level count (2) exceeded!
-04:57:58.781 : Failed to register water level for item: 0x5215b2623000000
-04:57:58.781 : <ERROR> Maximal water level count (2) exceeded!
-04:57:58.781 : Failed to register water level for item: 0x52d10f679100000
-04:57:58.781 : <ERROR> Maximal water level count (2) exceeded!
-04:57:58.781 : Failed to register water level for item: 0x52d11d484e00000
-04:57:58.781 : <ERROR> Maximal water level count (2) exceeded!
-04:57:58.781 : Failed to register water level for item: 0x52d10ff0bd00000
-04:57:58.796 : <ERROR> Maximal water level count (2) exceeded!
-04:57:58.796 : Failed to register water level for item: 0x4b81df39a600000
-04:57:59.080 : <ERROR> Maximal water level count (2) exceeded!
-04:57:59.081 : Failed to register water level for item: 0x4b704a706b0095b
-04:57:59.081 : <ERROR> Maximal water level count (2) exceeded!
-04:57:59.081 : Failed to register water level for item: 0x4b704a71a100b0b
-04:57:59.081 : <ERROR> Maximal water level count (2) exceeded!
-04:57:59.081 : Failed to register water level for item: 0x4b704a7f9f00d49
-04:57:59.081 : <ERROR> Maximal water level count (2) exceeded!
-04:57:59.081 : Failed to register water level for item: 0x5101efd80400000
-04:57:59.095 : ui t console:system_02
-04:57:59.986 : goto dover
-04:58:02.970 : ui t console:system_02
-04:58:03.064 : Position : < -33321.9 99.3984 -7884.36 >
-04:58:03.545 : ui t console:system_02
-04:58:04.479 : goto dublin
-04:58:04.486 : <ERROR> City 'dublin' not found!
-04:58:07.463 : ui t console:system_02
-04:58:07.564 : Position : < -33321.9 99.3984 -7884.36 >
-04:58:08.063 : ui t console:system_02
-04:58:09.096 : goto duisburg
-04:58:11.970 : <ERROR> Maximal water level count (2) exceeded!
-04:58:11.970 : Failed to register water level for item: 0x2935df3b9062b7
-04:58:12.080 : ui t console:system_02
-04:58:12.182 : Position : < -12913.6 50 -6170.93 >
-04:58:12.815 : ui t console:system_02
-04:58:13.947 : goto dziwnowek
-04:58:13.953 : <ERROR> City 'dziwnowek' not found!
-04:58:16.931 : ui t console:system_02
-04:58:17.032 : Position : < -12913.6 50 -6170.93 >
-04:58:17.698 : ui t console:system_02
-04:58:18.781 : goto eindhoven
-04:58:18.789 : <ERROR> City 'eindhoven' not found!
-04:58:21.765 : ui t console:system_02
-04:58:21.866 : Position : < -12913.6 50 -6170.93 >
-04:58:22.531 : ui t console:system_02
-04:58:23.515 : goto esbjerg
-04:58:23.714 : <ERROR> Maximal water level count (2) exceeded!
-04:58:23.714 : Failed to register water level for item: 0x3e4af0a42360000
-04:58:23.763 : <ERROR> Maximal water level count (2) exceeded!
-04:58:23.763 : Failed to register water level for item: 0x3e4ad07e2360000
-04:58:23.763 : <ERROR> Maximal water level count (2) exceeded!
-04:58:23.763 : Failed to register water level for item: 0x3e4af086b160000
-04:58:23.764 : <ERROR> Maximal water level count (2) exceeded!
-04:58:23.764 : Failed to register water level for item: 0x3e4af0c35360000
-04:58:26.499 : ui t console:system_02
-04:58:26.601 : Position : < -4699.43 69.6875 -27555.9 >
-04:58:27.182 : ui t console:system_02
-04:58:28.265 : goto europoort
-04:58:31.266 : ui t console:system_02
-04:58:31.367 : Position : < -21791.1 78.5234 -8987.42 >
-04:58:32.016 : ui t console:system_02
-04:58:32.916 : goto evora
-04:58:32.925 : <ERROR> City 'evora' not found!
-04:58:33.451 : <ERROR> Maximal water level count (2) exceeded!
-04:58:33.451 : Failed to register water level for item: 0x2935e66fc00d17
-04:58:33.451 : <ERROR> Maximal water level count (2) exceeded!
-04:58:33.451 : Failed to register water level for item: 0x2935e609600d27
-04:58:33.452 : <ERROR> Maximal water level count (2) exceeded!
-04:58:33.452 : Failed to register water level for item: 0x2935e65da00db0
-04:58:33.452 : <ERROR> Maximal water level count (2) exceeded!
-04:58:33.452 : Failed to register water level for item: 0x2935e6dd800da8
-04:58:33.452 : <ERROR> Maximal water level count (2) exceeded!
-04:58:33.452 : Failed to register water level for item: 0x2935e60e400d02
-04:58:33.452 : <ERROR> Maximal water level count (2) exceeded!
-04:58:33.452 : Failed to register water level for item: 0x2935e6d3800dcb
-04:58:33.452 : <ERROR> Maximal water level count (2) exceeded!
-04:58:33.452 : Failed to register water level for item: 0x2935e69fb00dd7
-04:58:33.452 : <ERROR> Maximal water level count (2) exceeded!
-04:58:33.452 : Failed to register water level for item: 0x2935e6aee00dd3
-04:58:33.452 : <ERROR> Maximal water level count (2) exceeded!
-04:58:33.452 : Failed to register water level for item: 0x2935e6bc000da6
-04:58:33.452 : <ERROR> Maximal water level count (2) exceeded!
-04:58:33.452 : Failed to register water level for item: 0x2935e673900dba
-04:58:33.452 : <ERROR> Maximal water level count (2) exceeded!
-04:58:33.452 : Failed to register water level for item: 0x2935e6d4300d69
-04:58:33.452 : <ERROR> Maximal water level count (2) exceeded!
-04:58:33.452 : Failed to register water level for item: 0x2935e64f700b65
-04:58:33.684 : <ERROR> Maximal water level count (2) exceeded!
-04:58:33.684 : Failed to register water level for item: 0x21b8d4089e001fa
-04:58:33.684 : <ERROR> Maximal water level count (2) exceeded!
-04:58:33.684 : Failed to register water level for item: 0x21b94560b10028e
-04:58:33.684 : <ERROR> Maximal water level count (2) exceeded!
-04:58:33.684 : Failed to register water level for item: 0x21b949d2f7002a8
-04:58:33.684 : <ERROR> Maximal water level count (2) exceeded!
-04:58:33.684 : Failed to register water level for item: 0x21b8d0b8ec001f1
-04:58:33.684 : <ERROR> Maximal water level count (2) exceeded!
-04:58:33.684 : Failed to register water level for item: 0x217548190e00063
-04:58:33.684 : <ERROR> Maximal water level count (2) exceeded!
-04:58:33.684 : Failed to register water level for item: 0x2935e80260a7ef
-04:58:33.684 : <ERROR> Maximal water level count (2) exceeded!
-04:58:33.684 : Failed to register water level for item: 0x2935e89e00a7f8
-04:58:35.900 : ui t console:system_02
-04:58:36.001 : Position : < -21791.1 78.5234 -8987.42 >
-04:58:36.468 : ui t console:system_02
-04:58:37.350 : goto falun
-04:58:37.355 : <ERROR> City 'falun' not found!
-04:58:40.334 : ui t console:system_02
-04:58:40.435 : Position : < -21791.1 78.5234 -8987.42 >
-04:58:41.117 : ui t console:system_02
-04:58:41.285 : Creating save-game file (/home/profiles/4B6F656E2054534D/save/autosave_drive/game.sii) ...
-04:58:41.406 : Game has been auto-saved.
-04:58:42.251 : goto felixstowe
-04:58:45.252 : ui t console:system_02
-04:58:45.354 : Position : < -31664.6 101.398 -13837.2 >
-04:58:46.085 : ui t console:system_02
-04:58:47.051 : goto firenze
-04:58:47.058 : <ERROR> City 'firenze' not found!
-04:58:50.052 : ui t console:system_02
-04:58:50.153 : Position : < -31664.6 101.398 -13837.2 >
-04:58:50.719 : ui t console:system_02
-04:58:51.885 : goto fjardabyggd
-04:58:51.891 : <ERROR> City 'fjardabyggd' not found!
-04:58:54.869 : ui t console:system_02
-04:58:54.970 : Position : < -31664.6 101.398 -13837.2 >
-04:58:55.753 : ui t console:system_02
-04:58:56.836 : goto flensburg
-04:58:59.820 : ui t console:system_02
-04:58:59.923 : Position : < -780.336 50.293 -22997.3 >
-04:58:59.990 : <ERROR> Maximal water level count (2) exceeded!
-04:58:59.990 : Failed to register water level for item: 0xb1d154874079c5
-04:59:00.596 : ui t console:system_02
-04:59:01.803 : goto frederikshv
-04:59:04.788 : ui t console:system_02
-04:59:04.889 : Position : < 2711.7 46.6875 -38141.5 >
-04:59:05.667 : ui t console:system_02
-04:59:06.771 : goto ftwilliam
-04:59:09.755 : ui t console:system_02
-04:59:09.873 : Position : < -50854.3 115.898 -56132.7 >
-04:59:10.538 : ui t console:system_02
-04:59:11.538 : goto funchal
-04:59:11.546 : <ERROR> City 'funchal' not found!
-04:59:12.125 : <ERROR> Maximal water level count (2) exceeded!
-04:59:12.125 : Failed to register water level for item: 0x35d3a5443400002
-04:59:14.522 : ui t console:system_02
-04:59:14.624 : Position : < -50854.3 115.898 -56132.7 >
-04:59:15.189 : ui t console:system_02
-04:59:16.122 : goto galway
-04:59:16.130 : <ERROR> City 'galway' not found!
-04:59:19.106 : ui t console:system_02
-04:59:19.207 : Position : < -50854.3 115.898 -56132.7 >
-04:59:19.706 : ui t console:system_02
-04:59:20.839 : goto gardermoen
-04:59:20.845 : <ERROR> City 'gardermoen' not found!
-04:59:23.823 : ui t console:system_02
-04:59:23.924 : Position : < -50854.3 115.898 -56132.7 >
-04:59:24.657 : ui t console:system_02
-04:59:25.540 : goto gavle
-04:59:26.894 : <ERROR> Maximal water level count (2) exceeded!
-04:59:26.894 : Failed to register water level for item: 0x44a7eac6eb00001
-04:59:26.894 : <ERROR> Maximal water level count (2) exceeded!
-04:59:26.894 : Failed to register water level for item: 0x44a7eadb7e00001
-04:59:26.894 : <ERROR> Maximal water level count (2) exceeded!
-04:59:26.894 : Failed to register water level for item: 0x44a7ead15200003
-04:59:26.894 : <ERROR> Maximal water level count (2) exceeded!
-04:59:26.894 : Failed to register water level for item: 0x45c7df6c4e00002
-04:59:26.894 : <ERROR> Maximal water level count (2) exceeded!
-04:59:26.894 : Failed to register water level for item: 0x45c7df7f5b00001
-04:59:26.894 : <ERROR> Maximal water level count (2) exceeded!
-04:59:26.894 : Failed to register water level for item: 0x44a8b3cff900001
-04:59:26.894 : <ERROR> Maximal water level count (2) exceeded!
-04:59:26.894 : Failed to register water level for item: 0x45c7df8ad000001
-04:59:26.894 : <ERROR> Maximal water level count (2) exceeded!
-04:59:26.894 : Failed to register water level for item: 0x44a8b3eae200001
-04:59:26.894 : <ERROR> Maximal water level count (2) exceeded!
-04:59:26.894 : Failed to register water level for item: 0x44a8b3f79e00001
-04:59:26.894 : <ERROR> Maximal water level count (2) exceeded!
-04:59:26.894 : Failed to register water level for item: 0x44a8b407ec00001
-04:59:26.895 : <ERROR> Maximal water level count (2) exceeded!
-04:59:26.895 : Failed to register water level for item: 0x45c7cf5ae700001
-04:59:26.895 : <ERROR> Maximal water level count (2) exceeded!
-04:59:26.895 : Failed to register water level for item: 0x45c7cf6c8f00001
-04:59:26.895 : <ERROR> Maximal water level count (2) exceeded!
-04:59:26.895 : Failed to register water level for item: 0x47b1567cbf00001
-04:59:26.895 : <ERROR> Maximal water level count (2) exceeded!
-04:59:26.895 : Failed to register water level for item: 0x45c7cf8f3900001
-04:59:27.631 : <ERROR> Maximal water level count (2) exceeded!
-04:59:27.631 : Failed to register water level for item: 0x46361f1a5e00001
-04:59:27.631 : <ERROR> Maximal water level count (2) exceeded!
-04:59:27.631 : Failed to register water level for item: 0x4636150d1500001
-04:59:28.516 : ui t console:system_02
-04:59:28.651 : Position : < 23069.2 64.2813 -55929.9 >
-04:59:29.126 : ui t console:system_02
-04:59:30.080 : goto gdynia
-04:59:31.337 : <ERROR> Maximal water level count (2) exceeded!
-04:59:31.337 : Failed to register water level for item: 0x10550a88520183b
-04:59:33.059 : ui t console:system_02
-04:59:33.178 : Position : < 28154.4 124.887 -22045.9 >
-04:59:33.677 : ui t console:system_02
-04:59:34.632 : goto gedser
-04:59:37.609 : ui t console:system_02
-04:59:37.710 : Position : < 6271.11 52.3789 -22000.3 >
-04:59:38.226 : ui t console:system_02
-04:59:38.761 : <ERROR> Maximal water level count (2) exceeded!
-04:59:38.761 : Failed to register water level for item: 0x42169ce17e4009f
-04:59:38.763 : <ERROR> Maximal water level count (2) exceeded!
-04:59:38.763 : Failed to register water level for item: 0x319a47c16940001
-04:59:38.764 : <ERROR> Maximal water level count (2) exceeded!
-04:59:38.764 : Failed to register water level for item: 0x319a42e51840000
-04:59:39.142 : goto geilo
-04:59:39.148 : <ERROR> City 'geilo' not found!
-04:59:42.127 : ui t console:system_02
-04:59:42.227 : Position : < 6271.11 52.3789 -22000.3 >
-04:59:42.693 : ui t console:system_02
-04:59:43.609 : goto genova
-04:59:44.203 : <ERROR> [traffic] Unable to determine road lane 1 for road item (0x1A21B5DA590002E). Please check prefab<->road connection.
-04:59:46.593 : ui t console:system_02
-04:59:46.700 : Position : < -7493.95 102.129 35487.7 >
-04:59:47.227 : ui t console:system_02
-04:59:48.227 : goto gizycko
-04:59:48.234 : <ERROR> City 'gizycko' not found!
-04:59:51.211 : ui t console:system_02
-04:59:51.312 : Position : < -7493.95 102.129 35487.7 >
-04:59:51.894 : ui t console:system_02
-04:59:52.811 : goto gomel
-04:59:55.795 : ui t console:system_02
-04:59:55.897 : Position : < 71456.1 50.7578 -15102.4 >
-04:59:56.362 : ui t console:system_02
-04:59:57.294 : goto gorzow
-05:00:00.279 : ui t console:system_02
-05:00:00.380 : Position : < 17502.4 100.926 -11074.3 >
-05:00:00.895 : ui t console:system_02
-05:00:01.945 : goto goteborg
-05:00:04.929 : ui t console:system_02
-05:00:05.031 : Position : < 7235.89 73.875 -40227.5 >
-05:00:05.662 : ui t console:system_02
-05:00:06.646 : goto grimsby
-05:00:09.630 : ui t console:system_02
-05:00:09.731 : Position : < -36117.9 124.66 -26575.2 >
-05:00:10.313 : ui t console:system_02
-05:00:11.279 : goto groedig
-05:00:12.232 : <ERROR> [traffic] Unable to determine road lane 1 for road item (0x4A2958AE3300001). Please check prefab<->road connection.
-05:00:12.233 : <ERROR> [traffic] Unable to determine road lane 1 for road item (0x4A29AE138200001). Please check prefab<->road connection.
-05:00:12.233 : <ERROR> [traffic] Unable to determine road lane 1 for road item (0x4A297A688100001). Please check prefab<->road connection.
-05:00:12.234 : <ERROR> [traffic] Unable to determine road lane 1 for road item (0x4A29A4001700000). Please check prefab<->road connection.
-05:00:14.280 : ui t console:system_02
-05:00:14.381 : Position : < 8008.66 103.914 16688.1 >
-05:00:14.930 : ui t console:system_02
-05:00:16.063 : goto grudziadz
-05:00:19.047 : ui t console:system_02
-05:00:19.148 : Position : < 31238 81.1992 -16550.4 >
-05:00:19.831 : ui t console:system_02
-05:00:20.981 : goto gudalajara
-05:00:20.993 : <ERROR> City 'gudalajara' not found!
-05:00:23.964 : ui t console:system_02
-05:00:24.065 : Position : < 31238 81.1992 -16550.4 >
-05:00:24.798 : ui t console:system_02
-05:00:25.981 : goto hameenlinna
-05:00:28.965 : ui t console:system_02
-05:00:29.066 : Position : < 42545.3 106.004 -59899.2 >
-05:00:29.848 : ui t console:system_02
-05:00:30.948 : goto haparanda
-05:00:33.932 : ui t console:system_02
-05:00:34.035 : Position : < 37318.5 99.9023 -86889.9 >
-05:00:34.699 : ui t console:system_02
-05:00:35.682 : goto harwich
-05:00:35.689 : <ERROR> City 'harwich' not found!
-05:00:38.666 : ui t console:system_02
-05:00:38.785 : Position : < 37318.5 99.9023 -86889.9 >
-05:00:39.350 : ui t console:system_02
-05:00:40.216 : goto havre
-05:00:43.217 : ui t console:system_02
-05:00:43.318 : Position : < -38340.7 52 1479.85 >
-05:00:43.767 : ui t console:system_02
-05:00:44.950 : goto helsingborg
-05:00:47.934 : ui t console:system_02
-05:00:48.036 : Position : < 9405.2 66.1016 -29882.4 >
-05:00:48.801 : ui t console:system_02
-05:00:49.834 : goto helsinki
-05:00:50.675 : <ERROR> Sign template item with id 149684224 does not exist in template 'Panel - 2 lanes straight green, 3 lines'
-05:00:52.818 : ui t console:system_02
-05:00:52.920 : Position : < 44357.5 137.906 -55531.1 >
-05:00:53.535 : ui t console:system_02
-05:00:54.518 : goto herning
-05:00:57.502 : ui t console:system_02
-05:00:57.604 : Position : < -3455.63 50.0469 -30797 >
-05:00:58.168 : ui t console:system_02
-05:00:59.152 : goto heysham
-05:00:59.159 : <ERROR> City 'heysham' not found!
-05:01:02.136 : ui t console:system_02
-05:01:02.254 : Position : < -3455.63 50.0469 -30797 >
-05:01:02.819 : ui t console:system_02
-05:01:03.919 : goto hirtshals
-05:01:06.903 : ui t console:system_02
-05:01:07.004 : Position : < 1425.47 54.4688 -38873.3 >
-05:01:07.670 : ui t console:system_02
-05:01:08.520 : goto hofn
-05:01:11.503 : ui t console:system_02
-05:01:11.605 : Position : < -73990.5 50 -88514.8 >
-05:01:12.004 : ui t console:system_02
-05:01:13.053 : goto holmavik
-05:01:13.701 : <ERROR> [model] Unknown look name 'asphalt_00' on model '/road_template/pro/land/rl0_pro_mo_bad.pmd'
-05:01:13.701 : <ERROR> [model] Unknown look name 'plates1' on model '/road_template/pro/land/rl1_pro_ee.pmd'
-05:01:16.037 : ui t console:system_02
-05:01:16.139 : Position : < -84765.7 77.4609 -106902 >
-05:01:16.754 : ui t console:system_02
-05:01:17.821 : goto holstebro
-05:01:20.805 : ui t console:system_02
-05:01:20.906 : Position : < -3816.61 57.25 -32659.8 >
-05:01:21.571 : ui t console:system_02
-05:01:22.605 : goto honefoss
-05:01:22.616 : <ERROR> City 'honefoss' not found!
-05:01:25.588 : ui t console:system_02
-05:01:25.690 : Position : < -3816.61 57.25 -32659.8 >
-05:01:26.305 : ui t console:system_02
-05:01:27.138 : goto hrkr
-05:01:27.145 : <ERROR> City 'hrkr' not found!
-05:01:30.122 : ui t console:system_02
-05:01:30.240 : Position : < -3816.61 57.25 -32659.8 >
-05:01:30.656 : ui t console:system_02
-05:01:31.472 : goto hull
-05:01:34.456 : ui t console:system_02
-05:01:34.558 : Position : < -35543.9 121.809 -29239.1 >
-05:01:34.973 : ui t console:system_02
-05:01:35.973 : goto iisalmi
-05:01:35.979 : <ERROR> City 'iisalmi' not found!
-05:01:38.957 : ui t console:system_02
-05:01:39.058 : Position : < -35543.9 121.809 -29239.1 >
-05:01:39.623 : ui t console:system_02
-05:01:40.657 : goto ijmuiden
-05:01:43.641 : ui t console:system_02
-05:01:43.742 : Position : < -19700.3 75.3477 -12077.1 >
-05:01:44.341 : ui t console:system_02
-05:01:45.174 : goto ilza
-05:01:45.181 : <ERROR> City 'ilza' not found!
-05:01:48.160 : ui t console:system_02
-05:01:48.259 : Position : < -19700.3 75.3477 -12077.1 >
-05:01:48.676 : ui t console:system_02
-05:01:49.758 : goto inverness
-05:01:52.742 : ui t console:system_02
-05:01:52.743 : <ERROR> Maximal water level count (2) exceeded!
-05:01:52.743 : Failed to register water level for item: 0x35a7569bc900001
-05:01:52.850 : Position : < -46444.2 115.898 -59141.8 >
-05:01:53.309 : <ERROR> Maximal water level count (2) exceeded!
-05:01:53.309 : Failed to register water level for item: 0x35d3ab2ebf00001
-05:01:53.492 : ui t console:system_02
-05:01:54.347 : goto irun
-05:01:56.016 : <ERROR> Maximal water level count (2) exceeded!
-05:01:56.016 : Failed to register water level for item: 0x4b704a706b0095b
-05:01:56.278 : <ERROR> [model] Unknown look name 'light_gray' on model '/road_template/road/shoulder_fld.pmd'
-05:01:56.278 : <ERROR> [model] Unknown look name 'light_gray' on model '/road_template/road/shoulder_fld.pmd'
-05:01:56.278 : <ERROR> [model] Unknown look name 'light_gray' on model '/road_template/road/shoulder_fld.pmd'
-05:01:56.279 : <ERROR> [model] Unknown look name 'light_gray' on model '/road_template/road/shoulder_fld.pmd'
-05:01:56.279 : <ERROR> [model] Unknown look name 'light_gray' on model '/road_template/road/shoulder_fld.pmd'
-05:01:56.279 : <ERROR> [model] Unknown look name 'light_gray' on model '/road_template/road/shoulder_fld.pmd'
-05:01:56.320 : <ERROR> Maximal water level count (2) exceeded!
-05:01:56.320 : Failed to register water level for item: 0x5101efd80400000
-05:01:56.320 : <ERROR> Maximal water level count (2) exceeded!
-05:01:56.320 : Failed to register water level for item: 0x510281af3300000
-05:01:56.320 : <ERROR> Maximal water level count (2) exceeded!
-05:01:56.320 : Failed to register water level for item: 0x4b704a71a100b0b
-05:01:56.320 : <ERROR> Maximal water level count (2) exceeded!
-05:01:56.320 : Failed to register water level for item: 0x4b704a7f9f00d49
-05:01:56.513 : <ERROR> [traffic] Unable to determine road lane 1 for road item (0x51AD8C7B2F00000). Please check prefab<->road connection.
-05:01:57.405 : ui t console:system_02
-05:01:57.469 : Position : < -52624.1 64.875 35167.4 >
-05:01:57.860 : ui t console:system_02
-05:01:59.054 : irungoto isafjordur
-05:01:59.054 : <ERROR> [cmd] 'irungoto isafjordur' - unknown command
-05:02:00.646 : <ERROR> Maximal water level count (2) exceeded!
-05:02:00.647 : Failed to register water level for item: 0x2139279e1c00039
-05:02:02.050 : ui t console:system_02
-05:02:02.924 : ui t console:system_02
-05:02:04.024 : goto ivanofrank
-05:02:04.029 : <ERROR> City 'ivanofrank' not found!
-05:02:06.999 : ui t console:system_02
-05:02:07.099 : Position : < -52624.1 64.875 35167.4 >
-05:02:07.827 : ui t console:system_02
-05:02:08.710 : goto janow
-05:02:08.716 : <ERROR> City 'janow' not found!
-05:02:11.694 : ui t console:system_02
-05:02:11.796 : Position : < -52624.1 64.875 35167.4 >
-05:02:12.261 : ui t console:system_02
-05:02:13.244 : goto joensuu
-05:02:15.428 : <ERROR> Maximal water level count (2) exceeded!
-05:02:15.428 : Failed to register water level for item: 0x4aaab77196d0001
-05:02:16.222 : ui t console:system_02
-05:02:16.326 : Position : < 54766.7 112 -70556.7 >
-05:02:16.913 : ui t console:system_02
-05:02:18.045 : goto jonkoping
-05:02:21.066 : ui t console:system_02
-05:02:21.135 : Position : < 14177.3 70.543 -39575.6 >
-05:02:21.152 : <ERROR> Maximal water level count (2) exceeded!
-05:02:21.152 : Failed to register water level for item: 0x19a07b88d56030f
-05:02:21.152 : <ERROR> Maximal water level count (2) exceeded!
-05:02:21.152 : Failed to register water level for item: 0x19a07b6c756030d
-05:02:21.153 : <ERROR> Maximal water level count (2) exceeded!
-05:02:21.153 : Failed to register water level for item: 0x19a07c559b60315
-05:02:21.153 : <ERROR> Maximal water level count (2) exceeded!
-05:02:21.153 : Failed to register water level for item: 0x19a07ba9dc60311
-05:02:21.796 : ui t console:system_02
-05:02:22.091 : <ERROR> Maximal water level count (2) exceeded!
-05:02:22.091 : Failed to register water level for item: 0x436aa0039340000
-05:02:22.830 : goto jonquera
-05:02:22.836 : <ERROR> City 'jonquera' not found!
-05:02:25.841 : ui t console:system_02
-05:02:25.931 : Position : < 14177.3 70.543 -39575.6 >
-05:02:26.563 : ui t console:system_02
-05:02:27.629 : goto jyvaskyla
-05:02:29.803 : <ERROR> Maximal water level count (2) exceeded!
-05:02:29.803 : Failed to register water level for item: 0x21274bee4500500
-05:02:29.803 : <ERROR> Maximal water level count (2) exceeded!
-05:02:29.803 : Failed to register water level for item: 0x212750b43900506
-05:02:29.804 : <ERROR> Maximal water level count (2) exceeded!
-05:02:29.804 : Failed to register water level for item: 0x2275a7b18a00554
-05:02:30.613 : ui t console:system_02
-05:02:30.715 : Position : < 44157.9 106.805 -67666.3 >
-05:02:31.397 : ui t console:system_02
-05:02:32.397 : goto kajaani
-05:02:32.404 : <ERROR> City 'kajaani' not found!
-05:02:35.381 : ui t console:system_02
-05:02:35.482 : Position : < 44157.9 106.805 -67666.3 >
-05:02:36.047 : ui t console:system_02
-05:02:36.964 : goto kalmar
-05:02:39.718 : <ERROR> Maximal water level count (2) exceeded!
-05:02:39.718 : Failed to register water level for item: 0x3edeafcd19a0000
-05:02:39.718 : <ERROR> Maximal water level count (2) exceeded!
-05:02:39.718 : Failed to register water level for item: 0x3edf3357e7a0000
-05:02:39.718 : <ERROR> Maximal water level count (2) exceeded!
-05:02:39.718 : Failed to register water level for item: 0x3edec40342a0000
-05:02:39.718 : <ERROR> Maximal water level count (2) exceeded!
-05:02:39.718 : Failed to register water level for item: 0x3ede61e12ca0001
-05:02:39.718 : <ERROR> Maximal water level count (2) exceeded!
-05:02:39.718 : Failed to register water level for item: 0x3ede9edb55a0001
-05:02:39.718 : <ERROR> Maximal water level count (2) exceeded!
-05:02:39.718 : Failed to register water level for item: 0x3edead67faa0000
-05:02:39.985 : ui t console:system_02
-05:02:40.083 : Position : < 20559.5 70.3945 -33634.5 >
-05:02:40.581 : ui t console:system_02
-05:02:41.562 : goto kaluga
-05:02:44.533 : ui t console:system_02
-05:02:44.633 : Position : < 86328.6 67.8984 -31348.2 >
-05:02:45.149 : ui t console:system_02
-05:02:45.840 : <ERROR> Maximal water level count (2) exceeded!
-05:02:45.840 : Failed to register water level for item: 0x505314a7f300000
-05:02:45.840 : <ERROR> Maximal water level count (2) exceeded!
-05:02:45.840 : Failed to register water level for item: 0x50530a4e8600000
-05:02:45.841 : <ERROR> Maximal water level count (2) exceeded!
-05:02:45.841 : Failed to register water level for item: 0x506738b49b00000
-05:02:46.232 : goto kamianets
-05:02:46.238 : <ERROR> City 'kamianets' not found!
-05:02:49.216 : ui t console:system_02
-05:02:49.317 : Position : < 86328.6 67.8984 -31348.2 >
-05:02:49.983 : ui t console:system_02
-05:02:51.116 : goto karlskrona
-05:02:53.576 : <ERROR> Maximal water level count (2) exceeded!
-05:02:53.576 : Failed to register water level for item: 0x221c923dcb6036c
-05:02:53.576 : <ERROR> Maximal water level count (2) exceeded!
-05:02:53.576 : Failed to register water level for item: 0x221c9f32b260373
-05:02:53.576 : <ERROR> Maximal water level count (2) exceeded!
-05:02:53.576 : Failed to register water level for item: 0x221c9f366960371
-05:02:53.576 : <ERROR> Maximal water level count (2) exceeded!
-05:02:53.576 : Failed to register water level for item: 0x251102d95e6003d
-05:02:53.576 : <ERROR> Maximal water level count (2) exceeded!
-05:02:53.576 : Failed to register water level for item: 0x221c9f636160375
-05:02:53.576 : <ERROR> Maximal water level count (2) exceeded!
-05:02:53.576 : Failed to register water level for item: 0x221f09069160ce8
-05:02:54.117 : ui t console:system_02
-05:02:54.214 : Position : < 17145.6 46.6875 -30862.4 >
-05:02:54.982 : ui t console:system_02
-05:02:56.034 : goto karlstad
-05:02:56.168 : <ERROR> [model] Unknown look name 'asphalt10' on model '/road_template/sc/curb.pmd'
-05:02:56.168 : <ERROR> [model] Unknown look name 'asphalt10' on model '/road_template/sc/curb.pmd'
-05:02:56.168 : <ERROR> [model] Unknown look name 'asphalt10' on model '/road_template/sc/curb.pmd'
-05:02:56.168 : <ERROR> [model] Unknown look name 'asphalt10' on model '/road_template/sc/curb.pmd'
-05:02:56.169 : <ERROR> [model] Unknown look name 'asphalt10' on model '/road_template/sc/curb.pmd'
-05:02:56.169 : <ERROR> [model] Unknown look name 'asphalt10' on model '/road_template/sc/sidewalk.pmd'
-05:02:56.169 : <ERROR> [model] Unknown look name 'asphalt10' on model '/road_template/sc/sidewalk.pmd'
-05:02:56.169 : <ERROR> [model] Unknown look name 'asphalt10' on model '/road_template/sc/curb.pmd'
-05:02:56.169 : <ERROR> [model] Unknown look name 'asphalt10' on model '/road_template/sc/curb.pmd'
-05:02:56.169 : <ERROR> [model] Unknown look name 'asphalt10' on model '/road_template/sc/sidewalk.pmd'
-05:02:56.169 : <ERROR> [model] Unknown look name 'asphalt10' on model '/road_template/sc/sidewalk.pmd'
-05:02:56.169 : <ERROR> [model] Unknown look name 'asphalt10' on model '/road_template/sc/curb.pmd'
-05:02:56.169 : <ERROR> [model] Unknown look name 'asphalt10' on model '/road_template/sc/curb.pmd'
-05:02:56.169 : <ERROR> [model] Unknown look name 'asphalt10' on model '/road_template/sc/sidewalk.pmd'
-05:02:56.169 : <ERROR> [model] Unknown look name 'asphalt10' on model '/road_template/sc/sidewalk.pmd'
-05:02:56.169 : <ERROR> [model] Unknown look name 'asphalt10' on model '/road_template/sc/curb.pmd'
-05:02:56.169 : <ERROR> [model] Unknown look name 'asphalt10' on model '/road_template/sc/curb.pmd'
-05:02:56.169 : <ERROR> [model] Unknown look name 'asphalt10' on model '/road_template/sc/curb.pmd'
-05:02:59.017 : ui t console:system_02
-05:02:59.118 : Position : < 12989.8 60.5 -48643.2 >
-05:02:59.735 : ui t console:system_02
-05:03:00.470 : <ERROR> Maximal water level count (2) exceeded!
-05:03:00.470 : Failed to register water level for item: 0x1f75222db270020
-05:03:00.470 : <ERROR> Maximal water level count (2) exceeded!
-05:03:00.470 : Failed to register water level for item: 0x1f7527a1377002c
-05:03:00.470 : <ERROR> Maximal water level count (2) exceeded!
-05:03:00.470 : Failed to register water level for item: 0x1f7523583870022
-05:03:00.818 : goto karsamaki
-05:03:03.802 : ui t console:system_02
-05:03:03.903 : Position : < 43370.3 100.133 -77032.8 >
-05:03:04.568 : ui t console:system_02
-05:03:05.485 : goto kaunas
-05:03:08.469 : ui t console:system_02
-05:03:08.588 : Position : < 45413.9 104 -24878.1 >
-05:03:09.085 : ui t console:system_02
-05:03:10.119 : goto keflavik
-05:03:13.103 : ui t console:system_02
-05:03:13.204 : Position : < -94118.3 57.3203 -98004 >
-05:03:13.819 : ui t console:system_02
-05:03:14.653 : goto kemi
-05:03:17.636 : ui t console:system_02
-05:03:17.738 : Position : < 40102.5 105.012 -85560.6 >
-05:03:18.136 : ui t console:system_02
-05:03:19.386 : goto khmelnytskyi
-05:03:19.392 : <ERROR> City 'khmelnytskyi' not found!
-05:03:22.370 : ui t console:system_02
-05:03:22.471 : Position : < 40102.5 105.012 -85560.6 >
-05:03:23.288 : ui t console:system_02
-05:03:23.689 : <ERROR> Maximal water level count (2) exceeded!
-05:03:23.689 : Failed to register water level for item: 0x4b29c6916500001
-05:03:24.187 : goto kholm
-05:03:27.188 : ui t console:system_02
-05:03:27.289 : Position : < 67228.7 57.25 -42842.4 >
-05:03:27.738 : ui t console:system_02
-05:03:28.671 : goto kielce
-05:03:31.655 : ui t console:system_02
-05:03:31.757 : Position : < 36896.1 116.113 -1011.63 >
-05:03:32.272 : ui t console:system_02
-05:03:33.205 : goto kiruna
-05:03:33.212 : <ERROR> City 'kiruna' not found!
-05:03:36.189 : ui t console:system_02
-05:03:36.290 : Position : < 36896.1 116.113 -1011.63 >
-05:03:36.806 : ui t console:system_02
-05:03:37.939 : goto klagenfurt
-05:03:40.923 : ui t console:system_02
-05:03:41.024 : Position : < 14001.3 49.6523 23027.6 >
-05:03:41.740 : ui t console:system_02
-05:03:42.773 : goto klaipeda
-05:03:42.782 : <ERROR> City 'klaipeda' not found!
-05:03:45.757 : ui t console:system_02
-05:03:45.857 : Position : < 14001.3 49.6523 23027.6 >
-05:03:46.474 : ui t console:system_02
-05:03:47.506 : goto klaksvik
-05:03:50.490 : ui t console:system_02
-05:03:50.591 : Position : < -49964 59.8984 -83155.7 >
-05:03:51.207 : ui t console:system_02
-05:03:52.057 : goto klin
-05:03:55.041 : ui t console:system_02
-05:03:55.142 : Position : < 84401.6 57.4492 -42236.8 >
-05:03:55.557 : ui t console:system_02
-05:03:56.641 : goto kobenhavn
-05:03:59.625 : ui t console:system_02
-05:03:59.727 : Position : < 8100.74 58.7266 -28097.8 >
-05:04:00.391 : ui t console:system_02
-05:04:01.358 : goto kokkola
-05:04:01.365 : <ERROR> City 'kokkola' not found!
-05:04:04.342 : ui t console:system_02
-05:04:04.443 : Position : < 8100.74 58.7266 -28097.8 >
-05:04:05.009 : ui t console:system_02
-05:04:05.992 : goto kolding
-05:04:05.999 : <ERROR> City 'kolding' not found!
-05:04:07.680 : <ERROR> Maximal water level count (2) exceeded!
-05:04:07.680 : Failed to register water level for item: 0x3e61ece078b0000
-05:04:07.680 : <ERROR> Maximal water level count (2) exceeded!
-05:04:07.680 : Failed to register water level for item: 0x3e628c2526b0001
-05:04:07.680 : <ERROR> Maximal water level count (2) exceeded!
-05:04:07.680 : Failed to register water level for item: 0x3e61ec9750b0000
-05:04:07.680 : <ERROR> Maximal water level count (2) exceeded!
-05:04:07.680 : Failed to register water level for item: 0x3e62113369b0001
-05:04:07.681 : <ERROR> Maximal water level count (2) exceeded!
-05:04:07.681 : Failed to register water level for item: 0x3e626440a1b0001
-05:04:07.681 : <ERROR> Maximal water level count (2) exceeded!
-05:04:07.681 : Failed to register water level for item: 0x3e61e78da9b0001
-05:04:08.976 : ui t console:system_02
-05:04:09.077 : Position : < 8100.74 58.7266 -28097.8 >
-05:04:09.659 : ui t console:system_02
-05:04:10.693 : goto korosten
-05:04:10.701 : <ERROR> City 'korosten' not found!
-05:04:13.677 : ui t console:system_02
-05:04:13.778 : Position : < 8100.74 58.7266 -28097.8 >
-05:04:14.393 : ui t console:system_02
-05:04:15.410 : goto koszalin
-05:04:18.394 : ui t console:system_02
-05:04:18.495 : Position : < 20313.1 125.449 -19445.3 >
-05:04:19.111 : ui t console:system_02
-05:04:19.199 : <ERROR> Maximal water level count (2) exceeded!
-05:04:19.199 : Failed to register water level for item: 0x2292d8c40f009ec
-05:04:20.094 : goto kouvola
-05:04:20.102 : <ERROR> City 'kouvola' not found!
-05:04:23.078 : ui t console:system_02
-05:04:23.180 : Position : < 20313.1 125.449 -19445.3 >
-05:04:23.795 : ui t console:system_02
-05:04:24.678 : goto kovel
-05:04:24.684 : <ERROR> City 'kovel' not found!
-05:04:26.080 : Creating save-game file (/home/profiles/4B6F656E2054534D/save/autosave_drive/game.sii) ...
-05:04:26.201 : Game has been auto-saved.
-05:04:27.662 : ui t console:system_02
-05:04:27.763 : Position : < 20313.1 125.449 -19445.3 >
-05:04:28.228 : ui t console:system_02
-05:04:29.162 : goto krafla
-05:04:31.036 : <ERROR> Maximal water level count (2) exceeded!
-05:04:31.036 : Failed to register water level for item: 0x37334663f3d0002
-05:04:32.146 : ui t console:system_02
-05:04:32.248 : Position : < -72508.4 96.1875 -99684.3 >
-05:04:32.746 : ui t console:system_02
-05:04:34.029 : goto kristiansand
-05:04:37.013 : ui t console:system_02
-05:04:37.114 : Position : < -4638.28 58 -42891.5 >
-05:04:37.930 : ui t console:system_02
-05:04:39.163 : goto kristianstad
-05:04:42.147 : ui t console:system_02
-05:04:42.248 : Position : < 13704.1 55.0781 -29967.9 >
-05:04:43.081 : ui t console:system_02
-05:04:44.013 : goto krosno
-05:04:47.014 : ui t console:system_02
-05:04:47.117 : Position : < 40842.8 176.02 4645.48 >
-05:04:47.631 : ui t console:system_02
-05:04:48.564 : goto kuopio
-05:04:51.548 : ui t console:system_02
-05:04:51.651 : Position : < 48984.6 106.898 -72219.8 >
-05:04:52.148 : ui t console:system_02
-05:04:53.031 : goto kursk
-05:04:56.015 : ui t console:system_02
-05:04:56.116 : Position : < 91396.1 74.1797 -16073.8 >
-05:04:56.582 : ui t console:system_02
-05:04:57.548 : goto kuusamo
-05:04:57.556 : <ERROR> City 'kuusamo' not found!
-05:05:00.532 : ui t console:system_02
-05:05:00.634 : Position : < 91396.1 74.1797 -16073.8 >
-05:05:01.199 : ui t console:system_02
-05:05:02.032 : goto kyiv
-05:05:02.038 : <ERROR> City 'kyiv' not found!
-05:05:05.016 : ui t console:system_02
-05:05:05.117 : Position : < 91396.1 74.1797 -16073.8 >
-05:05:05.516 : ui t console:system_02
-05:05:05.803 : <ERROR> Maximal water level count (2) exceeded!
-05:05:05.803 : Failed to register water level for item: 0x51e62de1c100000
-05:05:06.399 : goto lahti
-05:05:09.384 : ui t console:system_02
-05:05:09.485 : Position : < 45112.6 104.199 -60580.5 >
-05:05:10.017 : ui t console:system_02
-05:05:11.267 : goto lappeenranta
-05:05:11.274 : <ERROR> City 'lappeenranta' not found!
-05:05:14.251 : ui t console:system_02
-05:05:14.352 : Position : < 45112.6 104.199 -60580.5 >
-05:05:15.168 : ui t console:system_02
-05:05:16.234 : goto laspezia
-05:05:16.241 : <ERROR> City 'laspezia' not found!
-05:05:18.958 : <ERROR> Maximal water level count (2) exceeded!
-05:05:18.958 : Failed to register water level for item: 0x15331a1456007de
-05:05:18.959 : <ERROR> Maximal water level count (2) exceeded!
-05:05:18.959 : Failed to register water level for item: 0x1efba18a8600234
-05:05:18.959 : <ERROR> Maximal water level count (2) exceeded!
-05:05:18.959 : Failed to register water level for item: 0x148602f41700052
-05:05:19.224 : ui t console:system_02
-05:05:19.333 : Position : < 45112.6 104.199 -60580.5 >
-05:05:19.961 : ui t console:system_02
-05:05:20.932 : goto lebork
-05:05:20.938 : <ERROR> City 'lebork' not found!
-05:05:23.919 : ui t console:system_02
-05:05:24.020 : Position : < 45112.6 104.199 -60580.5 >
-05:05:24.552 : ui t console:system_02
-05:05:25.570 : goto lellinge
-05:05:25.578 : <ERROR> City 'lellinge' not found!
-05:05:28.552 : ui t console:system_02
-05:05:28.654 : Position : < 45112.6 104.199 -60580.5 >
-05:05:29.286 : ui t console:system_02
-05:05:30.169 : goto liege
-05:05:32.773 : <ERROR> Maximal water level count (2) exceeded!
-05:05:32.773 : Failed to register water level for item: 0x22dd6ada6d404fb
-05:05:32.773 : <ERROR> Maximal water level count (2) exceeded!
-05:05:32.773 : Failed to register water level for item: 0x22dd6ac24b404f9
-05:05:33.153 : ui t console:system_02
-05:05:33.255 : Position : < -17181.5 108.012 -1231.25 >
-05:05:33.437 : <ERROR> Maximal water level count (2) exceeded!
-05:05:33.437 : Failed to register water level for item: 0x2935e4bf40dd3a
-05:05:33.438 : <ERROR> Maximal water level count (2) exceeded!
-05:05:33.438 : Failed to register water level for item: 0x2935e4abb0dd15
-05:05:33.438 : <ERROR> Maximal water level count (2) exceeded!
-05:05:33.438 : Failed to register water level for item: 0x2935e4d630dd06
-05:05:33.438 : <ERROR> Maximal water level count (2) exceeded!
-05:05:33.438 : Failed to register water level for item: 0x2935e43450e026
-05:05:33.438 : <ERROR> Maximal water level count (2) exceeded!
-05:05:33.438 : Failed to register water level for item: 0x2935e4af60e042
-05:05:33.438 : <ERROR> Maximal water level count (2) exceeded!
-05:05:33.438 : Failed to register water level for item: 0x2935e460f0e03d
-05:05:33.739 : ui t console:system_02
-05:05:34.753 : goto liepaja
-05:05:34.760 : <ERROR> City 'liepaja' not found!
-05:05:37.737 : ui t console:system_02
-05:05:37.838 : Position : < -17181.5 108.012 -1231.25 >
-05:05:38.404 : ui t console:system_02
-05:05:39.287 : goto lille
-05:05:42.272 : ui t console:system_02
-05:05:42.373 : Position : < -26495.9 92.6211 -2483.4 >
-05:05:42.821 : ui t console:system_02
-05:05:43.871 : goto limerick
-05:05:43.879 : <ERROR> City 'limerick' not found!
-05:05:46.855 : ui t console:system_02
-05:05:46.957 : Position : < -26495.9 92.6211 -2483.4 >
-05:05:47.572 : ui t console:system_02
-05:05:48.555 : goto limoges
-05:05:48.874 : <ERROR> [model] Unknown look name 'default' on model '/road_template/pro/land/rl2_pro_fr.pmd'
-05:05:48.874 : <ERROR> [model] Unknown look name 'default' on model '/road_template/sc/shoulder.pmd'
-05:05:48.875 : <ERROR> [model] Unknown look name 'default' on model '/road_template/sc/shoulder.pmd'
-05:05:48.875 : <ERROR> [model] Unknown look name 'default' on model '/road_template/pro/land/rl1_pro_fr.pmd'
-05:05:48.875 : <ERROR> [model] Unknown look name 'default' on model '/road_template/sc/shoulder.pmd'
-05:05:48.875 : <ERROR> [model] Unknown look name 'default' on model '/road_template/sc/shoulder.pmd'
-05:05:51.019 : <ERROR> Maximal water level count (2) exceeded!
-05:05:51.019 : Failed to register water level for item: 0x3824f25ba300001
-05:05:51.019 : <ERROR> Maximal water level count (2) exceeded!
-05:05:51.019 : Failed to register water level for item: 0x3731fa6ab000002
-05:05:51.539 : ui t console:system_02
-05:05:51.657 : Position : < -38531.9 97.4023 22567.9 >
-05:05:52.189 : ui t console:system_02
-05:05:53.308 : goto linkoping
-05:05:56.306 : ui t console:system_02
-05:05:56.409 : Position : < 18586.1 61 -43325.2 >
-05:05:57.073 : ui t console:system_02
-05:05:58.023 : goto lisboa
-05:05:58.030 : <ERROR> City 'lisboa' not found!
-05:06:00.325 : <ERROR> Maximal water level count (2) exceeded!
-05:06:00.325 : Failed to register water level for item: 0x183a124bbe6025c
-05:06:00.325 : <ERROR> Maximal water level count (2) exceeded!
-05:06:00.325 : Failed to register water level for item: 0x183a1221df6025a
-05:06:00.325 : <ERROR> Maximal water level count (2) exceeded!
-05:06:00.325 : Failed to register water level for item: 0x2b7e0a024030162
-05:06:00.325 : <ERROR> Maximal water level count (2) exceeded!
-05:06:00.325 : Failed to register water level for item: 0x2b7e08354b3015f
-05:06:00.325 : <ERROR> Maximal water level count (2) exceeded!
-05:06:00.325 : Failed to register water level for item: 0x2b7d5928bc30059
-05:06:00.326 : <ERROR> Maximal water level count (2) exceeded!
-05:06:00.326 : Failed to register water level for item: 0x183a1216e560258
-05:06:01.007 : ui t console:system_02
-05:06:01.109 : Position : < 18586.1 61 -43325.2 >
-05:06:01.608 : ui t console:system_02
-05:06:01.712 : <ERROR> Maximal water level count (2) exceeded!
-05:06:01.712 : Failed to register water level for item: 0x2b7dde8d5630119
-05:06:01.712 : <ERROR> Maximal water level count (2) exceeded!
-05:06:01.713 : Failed to register water level for item: 0x2b6d1fcf6731e8c
-05:06:01.713 : <ERROR> Maximal water level count (2) exceeded!
-05:06:01.713 : Failed to register water level for item: 0x199e6e5ace60180
-05:06:01.739 : <ERROR> Maximal water level count (2) exceeded!
-05:06:01.739 : Failed to register water level for item: 0x4a548f779460001
-05:06:01.739 : <ERROR> Maximal water level count (2) exceeded!
-05:06:01.739 : Failed to register water level for item: 0x4a2d82a9e260001
-05:06:01.740 : <ERROR> Maximal water level count (2) exceeded!
-05:06:01.740 : Failed to register water level for item: 0x4a2d7e4d3260001
-05:06:01.740 : <ERROR> Maximal water level count (2) exceeded!
-05:06:01.740 : Failed to register water level for item: 0x4a2d7df04760001
-05:06:01.740 : <ERROR> Maximal water level count (2) exceeded!
-05:06:01.740 : Failed to register water level for item: 0x4a2d7dd6cf60001
-05:06:01.740 : <ERROR> Maximal water level count (2) exceeded!
-05:06:01.740 : Failed to register water level for item: 0x4a2d7d895f60001
-05:06:01.741 : <ERROR> Maximal water level count (2) exceeded!
-05:06:01.741 : Failed to register water level for item: 0x4a2d83fcac60001
-05:06:01.741 : <ERROR> Maximal water level count (2) exceeded!
-05:06:01.741 : Failed to register water level for item: 0x4a2d84552a60001
-05:06:01.741 : <ERROR> Maximal water level count (2) exceeded!
-05:06:01.741 : Failed to register water level for item: 0x4a2d84d65560001
-05:06:01.745 : <ERROR> Maximal water level count (2) exceeded!
-05:06:01.745 : Failed to register water level for item: 0x4a2d84abde60001
-05:06:01.746 : <ERROR> Maximal water level count (2) exceeded!
-05:06:01.746 : Failed to register water level for item: 0x4a5411da2060001
-05:06:01.746 : <ERROR> Maximal water level count (2) exceeded!
-05:06:01.746 : Failed to register water level for item: 0x4a53eb909560001
-05:06:01.746 : <ERROR> Maximal water level count (2) exceeded!
-05:06:01.746 : Failed to register water level for item: 0x4a53ebc52c60001
-05:06:01.746 : <ERROR> Maximal water level count (2) exceeded!
-05:06:01.746 : Failed to register water level for item: 0x4a2d79738f60000
-05:06:01.746 : <ERROR> Maximal water level count (2) exceeded!
-05:06:01.746 : Failed to register water level for item: 0x4a53b3271560001
-05:06:01.746 : <ERROR> Maximal water level count (2) exceeded!
-05:06:01.746 : Failed to register water level for item: 0x4a2d84f3f960001
-05:06:01.746 : <ERROR> Maximal water level count (2) exceeded!
-05:06:01.746 : Failed to register water level for item: 0x4a542fa6d860001
-05:06:01.746 : <ERROR> Maximal water level count (2) exceeded!
-05:06:01.746 : Failed to register water level for item: 0x4a5103ff0360001
-05:06:02.619 : goto lisburn
-05:06:02.625 : <ERROR> City 'lisburn' not found!
-05:06:05.636 : ui t console:system_02
-05:06:05.747 : Position : < 18586.1 61 -43325.2 >
-05:06:06.310 : ui t console:system_02
-05:06:07.298 : goto livorno
-05:06:07.304 : <ERROR> City 'livorno' not found!
-05:06:10.275 : ui t console:system_02
-05:06:10.377 : Position : < 18586.1 61 -43325.2 >
-05:06:10.942 : ui t console:system_02
-05:06:12.020 : goto ljubljana
-05:06:15.016 : ui t console:system_02
-05:06:15.104 : Position : < 14709.9 96.9883 26484 >
-05:06:16.007 : ui t console:system_02
-05:06:16.791 : goto lleida
-05:06:16.798 : <ERROR> City 'lleida' not found!
-05:06:18.185 : <ERROR> Maximal water level count (2) exceeded!
-05:06:18.186 : Failed to register water level for item: 0x2f7cc3e707000fa
-05:06:18.186 : <ERROR> Maximal water level count (2) exceeded!
-05:06:18.186 : Failed to register water level for item: 0x2f7cc4069c000fc
-05:06:18.186 : <ERROR> Maximal water level count (2) exceeded!
-05:06:18.186 : Failed to register water level for item: 0x2f7cc41074000fe
-05:06:18.186 : <ERROR> Maximal water level count (2) exceeded!
-05:06:18.186 : Failed to register water level for item: 0x2f88677a49000b0
-05:06:18.186 : <ERROR> Maximal water level count (2) exceeded!
-05:06:18.186 : Failed to register water level for item: 0x2f7cc3ed28000f8
-05:06:18.186 : <ERROR> Maximal water level count (2) exceeded!
-05:06:18.186 : Failed to register water level for item: 0x2f7cc1a41f000ea
-05:06:18.186 : <ERROR> Maximal water level count (2) exceeded!
-05:06:18.186 : Failed to register water level for item: 0x2fd07c3266000fa
-05:06:18.186 : <ERROR> Maximal water level count (2) exceeded!
-05:06:18.186 : Failed to register water level for item: 0x2f888d35760010d
-05:06:18.186 : <ERROR> Maximal water level count (2) exceeded!
-05:06:18.186 : Failed to register water level for item: 0x305b2dcdd0000b3
-05:06:18.186 : <ERROR> Maximal water level count (2) exceeded!
-05:06:18.186 : Failed to register water level for item: 0x2fe3b79ef6000b8
-05:06:18.187 : <ERROR> Maximal water level count (2) exceeded!
-05:06:18.187 : Failed to register water level for item: 0x305b2dc67b000b5
-05:06:18.187 : <ERROR> Maximal water level count (2) exceeded!
-05:06:18.187 : Failed to register water level for item: 0x305b2dd909000b7
-05:06:18.188 : <ERROR> Maximal water level count (2) exceeded!
-05:06:18.188 : Failed to register water level for item: 0x305b2e1ce2000b9
-05:06:18.188 : <ERROR> Maximal water level count (2) exceeded!
-05:06:18.188 : Failed to register water level for item: 0x305b2edd6c000bb
-05:06:18.189 : <ERROR> Maximal water level count (2) exceeded!
-05:06:18.189 : Failed to register water level for item: 0x305b2eef30000bd
-05:06:18.189 : <ERROR> Maximal water level count (2) exceeded!
-05:06:18.189 : Failed to register water level for item: 0x305b2ef03e000bf
-05:06:18.190 : <ERROR> Maximal water level count (2) exceeded!
-05:06:18.190 : Failed to register water level for item: 0x371dce003500000
-05:06:18.190 : <ERROR> Maximal water level count (2) exceeded!
-05:06:18.190 : Failed to register water level for item: 0x305b02f04900059
-05:06:18.190 : <ERROR> Maximal water level count (2) exceeded!
-05:06:18.190 : Failed to register water level for item: 0x305b02ed1900057
-05:06:18.191 : <ERROR> Maximal water level count (2) exceeded!
-05:06:18.191 : Failed to register water level for item: 0x305b02cb4900055
-05:06:18.191 : <ERROR> Maximal water level count (2) exceeded!
-05:06:18.191 : Failed to register water level for item: 0x305b02a12600053
-05:06:18.191 : <ERROR> Maximal water level count (2) exceeded!
-05:06:18.191 : Failed to register water level for item: 0x305b035ca30005c
-05:06:19.768 : ui t console:system_02
-05:06:19.854 : Position : < 14709.9 96.9883 26484 >
-05:06:20.387 : ui t console:system_02
-05:06:21.290 : goto lomza
-05:06:21.298 : <ERROR> City 'lomza' not found!
-05:06:24.257 : ui t console:system_02
-05:06:24.363 : Position : < 14709.9 96.9883 26484 >
-05:06:24.842 : ui t console:system_02
-05:06:26.083 : goto longyearbyen
-05:06:26.088 : <ERROR> City 'longyearbyen' not found!
-05:06:29.057 : ui t console:system_02
-05:06:29.169 : Position : < 14709.9 96.9883 26484 >
-05:06:29.981 : ui t console:system_02
-05:06:30.956 : goto lorient
-05:06:32.397 : <ERROR> Maximal water level count (2) exceeded!
-05:06:32.397 : Failed to register water level for item: 0x13d9d23508000b6
-05:06:33.429 : <ERROR> Maximal water level count (2) exceeded!
-05:06:33.429 : Failed to register water level for item: 0x13897ad66900051
-05:06:33.430 : <ERROR> Maximal water level count (2) exceeded!
-05:06:33.430 : Failed to register water level for item: 0x138950940100040
-05:06:33.455 : <ERROR> Maximal water level count (2) exceeded!
-05:06:33.455 : Failed to register water level for item: 0x138ee52b530008c
-05:06:33.456 : <ERROR> Maximal water level count (2) exceeded!
-05:06:33.456 : Failed to register water level for item: 0x14fe66680c00094
-05:06:33.929 : ui t console:system_02
-05:06:34.031 : Position : < -54828.6 62 8687.19 >
-05:06:34.597 : ui t console:system_02
-05:06:35.495 : goto luga
-05:06:38.479 : ui t console:system_02
-05:06:38.581 : Position : < 59757.7 91.0195 -50098.2 >
-05:06:38.996 : ui t console:system_02
-05:06:39.829 : goto luki
-05:06:42.813 : ui t console:system_02
-05:06:42.915 : Position : < 65110.6 47.0703 -37441.8 >
-05:06:43.313 : ui t console:system_02
-05:06:44.196 : goto lulea
-05:06:44.202 : <ERROR> City 'lulea' not found!
-05:06:47.180 : ui t console:system_02
-05:06:47.281 : Position : < 65110.6 47.0703 -37441.8 >
-05:06:47.747 : ui t console:system_02
-05:06:48.432 : <ERROR> Maximal water level count (2) exceeded!
-05:06:48.432 : Failed to register water level for item: 0x3e47c2545100027
-05:06:48.630 : goto lutsk
-05:06:51.614 : ui t console:system_02
-05:06:51.715 : Position : < 59477.4 55.1211 -16285.8 >
-05:06:52.181 : ui t console:system_02
-05:06:53.314 : goto luxembourg
-05:06:56.298 : ui t console:system_02
-05:06:56.400 : Position : < -16134.2 152.621 4382.97 >
-05:06:57.115 : ui t console:system_02
-05:06:57.948 : goto lviv
-05:06:57.954 : <ERROR> City 'lviv' not found!
-05:07:00.932 : ui t console:system_02
-05:07:01.033 : Position : < -16134.2 152.621 4382.97 >
-05:07:01.448 : ui t console:system_02
-05:07:02.298 : goto lyon
-05:07:05.299 : ui t console:system_02
-05:07:05.401 : Position : < -23869.8 139.359 25892.3 >
-05:07:05.799 : ui t console:system_02
-05:07:06.915 : goto maidstone
-05:07:06.928 : <ERROR> City 'maidstone' not found!
-05:07:07.970 : <ERROR> Maximal water level count (2) exceeded!
-05:07:07.970 : Failed to register water level for item: 0x2935e8293060f3
-05:07:07.970 : <ERROR> Maximal water level count (2) exceeded!
-05:07:07.970 : Failed to register water level for item: 0x2935e8419060c0
-05:07:07.970 : <ERROR> Maximal water level count (2) exceeded!
-05:07:07.970 : Failed to register water level for item: 0x2935e871905ff5
-05:07:07.970 : <ERROR> Maximal water level count (2) exceeded!
-05:07:07.970 : Failed to register water level for item: 0x2935e8fb205ed7
-05:07:07.970 : <ERROR> Maximal water level count (2) exceeded!
-05:07:07.970 : Failed to register water level for item: 0x2935e862605eb5
-05:07:07.970 : <ERROR> Maximal water level count (2) exceeded!
-05:07:07.970 : Failed to register water level for item: 0x2935e828605e7f
-05:07:07.970 : <ERROR> Maximal water level count (2) exceeded!
-05:07:07.970 : Failed to register water level for item: 0x2935e831105f69
-05:07:07.970 : <ERROR> Maximal water level count (2) exceeded!
-05:07:07.970 : Failed to register water level for item: 0x2935e86a205e8a
-05:07:07.970 : <ERROR> Maximal water level count (2) exceeded!
-05:07:07.970 : Failed to register water level for item: 0x3aec80b28d00001
-05:07:07.970 : <ERROR> Maximal water level count (2) exceeded!
-05:07:07.971 : Failed to register water level for item: 0x2935e820205e69
-05:07:07.971 : <ERROR> Maximal water level count (2) exceeded!
-05:07:07.971 : Failed to register water level for item: 0x3aec803d3d00001
-05:07:07.971 : <ERROR> Maximal water level count (2) exceeded!
-05:07:07.971 : Failed to register water level for item: 0x3aec80111600001
-05:07:08.954 : <ERROR> Maximal water level count (2) exceeded!
-05:07:08.954 : Failed to register water level for item: 0x2935e5bd60e0b9
-05:07:08.955 : <ERROR> Maximal water level count (2) exceeded!
-05:07:08.955 : Failed to register water level for item: 0x2935e8ef805eb2
-05:07:08.955 : <ERROR> Maximal water level count (2) exceeded!
-05:07:08.955 : Failed to register water level for item: 0x2935e519f0e07f
-05:07:08.955 : <ERROR> Maximal water level count (2) exceeded!
-05:07:08.955 : Failed to register water level for item: 0x2935e55a60df48
-05:07:08.955 : <ERROR> Maximal water level count (2) exceeded!
-05:07:08.955 : Failed to register water level for item: 0x2935e58340dd58
-05:07:08.955 : <ERROR> Maximal water level count (2) exceeded!
-05:07:08.955 : Failed to register water level for item: 0x2935e5af00db84
-05:07:08.955 : <ERROR> Maximal water level count (2) exceeded!
-05:07:08.955 : Failed to register water level for item: 0x2935e5d1d0da08
-05:07:09.900 : ui t console:system_02
-05:07:10.002 : Position : < -23869.8 139.359 25892.3 >
-05:07:10.684 : ui t console:system_02
-05:07:11.566 : goto malmo
-05:07:14.550 : ui t console:system_02
-05:07:14.653 : Position : < 10744.9 66.3398 -27481.2 >
-05:07:15.100 : ui t console:system_02
-05:07:15.304 : <ERROR> Maximal water level count (2) exceeded!
-05:07:15.304 : Failed to register water level for item: 0x3e61ec9750b0000
-05:07:15.304 : <ERROR> Maximal water level count (2) exceeded!
-05:07:15.304 : Failed to register water level for item: 0x3e62113369b0001
-05:07:16.015 : goto malmo
-05:07:19.001 : ui t console:system_02
-05:07:19.110 : Position : < 10744.9 66.3398 -27481.2 >
-05:07:19.584 : ui t console:system_02
-05:07:20.584 : goto manresa
-05:07:20.590 : <ERROR> City 'manresa' not found!
-05:07:23.570 : ui t console:system_02
-05:07:23.670 : Position : < 10744.9 66.3398 -27481.2 >
-05:07:24.235 : ui t console:system_02
-05:07:25.069 : goto mans
-05:07:27.000 : <ERROR> Maximal water level count (2) exceeded!
-05:07:27.000 : Failed to register water level for item: 0xc237f81b103032
-05:07:28.053 : ui t console:system_02
-05:07:28.156 : Position : < -40038.6 76 10523.9 >
-05:07:28.569 : ui t console:system_02
-05:07:29.552 : goto maribor
-05:07:32.553 : ui t console:system_02
-05:07:32.654 : Position : < 18319.2 79.1992 24176.3 >
-05:07:33.220 : ui t console:system_02
-05:07:34.102 : goto marse
-05:07:34.115 : <ERROR> City 'marse' not found!
-05:07:35.290 : <ERROR> Maximal water level count (2) exceeded!
-05:07:35.290 : Failed to register water level for item: 0x2d128ae870405ed
-05:07:35.290 : <ERROR> Maximal water level count (2) exceeded!
-05:07:35.290 : Failed to register water level for item: 0x2d128af9bc405ef
-05:07:35.290 : <ERROR> Maximal water level count (2) exceeded!
-05:07:35.290 : Failed to register water level for item: 0x2d1284a957405e1
-05:07:35.290 : <ERROR> Maximal water level count (2) exceeded!
-05:07:35.290 : Failed to register water level for item: 0x2d128add0f405eb
-05:07:35.290 : <ERROR> Maximal water level count (2) exceeded!
-05:07:35.290 : Failed to register water level for item: 0x2d1284e270405e3
-05:07:35.291 : <ERROR> Maximal water level count (2) exceeded!
-05:07:35.291 : Failed to register water level for item: 0x2d128b8c3c405f1
-05:07:35.291 : <ERROR> Maximal water level count (2) exceeded!
-05:07:35.291 : Failed to register water level for item: 0x2d128b9c6f405f3
-05:07:35.291 : <ERROR> Maximal water level count (2) exceeded!
-05:07:35.291 : Failed to register water level for item: 0x2d128f567740602
-05:07:35.291 : <ERROR> Maximal water level count (2) exceeded!
-05:07:35.291 : Failed to register water level for item: 0x2d128d20ed405fc
-05:07:35.291 : <ERROR> Maximal water level count (2) exceeded!
-05:07:35.291 : Failed to register water level for item: 0x2d1290cc8c4060e
-05:07:35.291 : <ERROR> Maximal water level count (2) exceeded!
-05:07:35.291 : Failed to register water level for item: 0x2d128f6df640604
-05:07:35.291 : <ERROR> Maximal water level count (2) exceeded!
-05:07:35.291 : Failed to register water level for item: 0x2d128f70ed40606
-05:07:35.291 : <ERROR> Maximal water level count (2) exceeded!
-05:07:35.291 : Failed to register water level for item: 0x2d1290d60040610
-05:07:35.291 : <ERROR> Maximal water level count (2) exceeded!
-05:07:35.291 : Failed to register water level for item: 0x2d1290e1a440612
-05:07:35.291 : <ERROR> Maximal water level count (2) exceeded!
-05:07:35.291 : Failed to register water level for item: 0x2d1290f1a640614
-05:07:35.291 : <ERROR> Maximal water level count (2) exceeded!
-05:07:35.292 : Failed to register water level for item: 0x2d128f7a6340608
-05:07:37.087 : ui t console:system_02
-05:07:37.189 : Position : < 18319.2 79.1992 24176.3 >
-05:07:37.654 : ui t console:system_02
-05:07:38.471 : goto metz
-05:07:41.471 : ui t console:system_02
-05:07:41.573 : Position : < -16294.5 104.516 7463.71 >
-05:07:41.725 : <ERROR> Maximal water level count (2) exceeded!
-05:07:41.725 : Failed to register water level for item: 0x2935e8644040eb
-05:07:41.725 : <ERROR> Maximal water level count (2) exceeded!
-05:07:41.725 : Failed to register water level for item: 0x2935e45750ac79
-05:07:41.988 : ui t console:system_02
-05:07:42.258 : <ERROR> Maximal water level count (2) exceeded!
-05:07:42.258 : Failed to register water level for item: 0x2935e8e83041b5
-05:07:42.258 : <ERROR> Maximal water level count (2) exceeded!
-05:07:42.258 : Failed to register water level for item: 0x2935e8d9804288
-05:07:42.258 : <ERROR> Maximal water level count (2) exceeded!
-05:07:42.258 : Failed to register water level for item: 0x2935e81e204285
-05:07:42.258 : <ERROR> Maximal water level count (2) exceeded!
-05:07:42.258 : Failed to register water level for item: 0x2935e8cdc04177
-05:07:42.808 : <ERROR> Maximal water level count (2) exceeded!
-05:07:42.808 : Failed to register water level for item: 0x2935e4b3507bca
-05:07:42.808 : <ERROR> Maximal water level count (2) exceeded!
-05:07:42.808 : Failed to register water level for item: 0x2935e40090ae20
-05:07:42.809 : <ERROR> Maximal water level count (2) exceeded!
-05:07:42.809 : Failed to register water level for item: 0x2935e487107b48
-05:07:42.809 : <ERROR> Maximal water level count (2) exceeded!
-05:07:42.809 : Failed to register water level for item: 0x2935e4b6107c83
-05:07:42.809 : <ERROR> Maximal water level count (2) exceeded!
-05:07:42.809 : Failed to register water level for item: 0x2935e4d1507cab
-05:07:42.809 : <ERROR> Maximal water level count (2) exceeded!
-05:07:42.809 : Failed to register water level for item: 0x2935e4f9507ca6
-05:07:43.238 : goto miedzyzdroje
-05:07:43.247 : <ERROR> City 'miedzyzdroje' not found!
-05:07:46.222 : ui t console:system_02
-05:07:46.324 : Position : < -16294.5 104.516 7463.71 >
-05:07:47.139 : ui t console:system_02
-05:07:48.122 : goto mikkeli
-05:07:51.106 : ui t console:system_02
-05:07:51.209 : Position : < 49304.6 111.875 -65111 >
-05:07:51.290 : <ERROR> Maximal water level count (2) exceeded!
-05:07:51.290 : Failed to register water level for item: 0x224bb601f3002b1
-05:07:51.806 : ui t console:system_02
-05:07:52.311 : <ERROR> Maximal water level count (2) exceeded!
-05:07:52.311 : Failed to register water level for item: 0x224b9cee6000289
-05:07:52.312 : <ERROR> Maximal water level count (2) exceeded!
-05:07:52.312 : Failed to register water level for item: 0x1f13d5375f00180
-05:07:52.312 : <ERROR> Maximal water level count (2) exceeded!
-05:07:52.312 : Failed to register water level for item: 0x159dd4f40800049
-05:07:52.312 : <ERROR> Maximal water level count (2) exceeded!
-05:07:52.312 : Failed to register water level for item: 0x1f1547f10e00272
-05:07:52.939 : goto mikolajki
-05:07:52.948 : <ERROR> City 'mikolajki' not found!
-05:07:55.923 : ui t console:system_02
-05:07:56.024 : Position : < 49304.6 111.875 -65111 >
-05:07:56.690 : ui t console:system_02
-05:07:57.557 : goto minsk
-05:07:59.485 : <ERROR> Maximal water level count (2) exceeded!
-05:07:59.485 : Failed to register water level for item: 0x41971401e400383
-05:07:59.485 : <ERROR> Maximal water level count (2) exceeded!
-05:07:59.485 : Failed to register water level for item: 0x4197140dc800cd4
-05:07:59.485 : <ERROR> Maximal water level count (2) exceeded!
-05:07:59.485 : Failed to register water level for item: 0x419714061400c6d
-05:07:59.485 : <ERROR> Maximal water level count (2) exceeded!
-05:07:59.486 : Failed to register water level for item: 0x4197140184010af
-05:07:59.486 : <ERROR> Maximal water level count (2) exceeded!
-05:07:59.486 : Failed to register water level for item: 0x41971404fe00f58
-05:07:59.486 : <ERROR> Maximal water level count (2) exceeded!
-05:07:59.486 : Failed to register water level for item: 0x419714058e00dce
-05:07:59.486 : <ERROR> Maximal water level count (2) exceeded!
-05:07:59.486 : Failed to register water level for item: 0x4197140b8e00ff0
-05:07:59.486 : <ERROR> Maximal water level count (2) exceeded!
-05:07:59.486 : Failed to register water level for item: 0x4197140d69001ef
-05:07:59.486 : <ERROR> Maximal water level count (2) exceeded!
-05:07:59.486 : Failed to register water level for item: 0x41971401380083b
-05:07:59.486 : <ERROR> Maximal water level count (2) exceeded!
-05:07:59.486 : Failed to register water level for item: 0x41971405c400138
-05:07:59.486 : <ERROR> Maximal water level count (2) exceeded!
-05:07:59.486 : Failed to register water level for item: 0x41971408f90077f
-05:07:59.486 : <ERROR> Maximal water level count (2) exceeded!
-05:07:59.486 : Failed to register water level for item: 0x4197140a7900a1f
-05:07:59.487 : <ERROR> Maximal water level count (2) exceeded!
-05:07:59.487 : Failed to register water level for item: 0x4197140e2800ba4
-05:07:59.487 : <ERROR> Maximal water level count (2) exceeded!
-05:07:59.487 : Failed to register water level for item: 0x41971408f70049b
-05:07:59.487 : <ERROR> Maximal water level count (2) exceeded!
-05:07:59.487 : Failed to register water level for item: 0x4197140a9700249
-05:08:00.547 : ui t console:system_02
-05:08:00.655 : Position : < 58358.6 31.0117 -22095.2 >
-05:08:01.110 : ui t console:system_02
-05:08:02.091 : goto modena
-05:08:05.103 : ui t console:system_02
-05:08:05.214 : Position : < 662.281 82.9961 34036.3 >
-05:08:05.713 : ui t console:system_02
-05:08:06.724 : goto mogilev
-05:08:09.709 : ui t console:system_02
-05:08:09.811 : Position : < 67307.6 39.5039 -23216.2 >
-05:08:10.358 : ui t console:system_02
-05:08:11.275 : goto montp
-05:08:11.286 : <ERROR> City 'montp' not found!
-05:08:14.259 : ui t console:system_02
-05:08:14.360 : Position : < 67307.6 39.5039 -23216.2 >
-05:08:14.809 : ui t console:system_02
-05:08:15.742 : goto moscow
-05:08:18.726 : ui t console:system_02
-05:08:18.828 : Position : < 88533.5 46.5 -39575.5 >
-05:08:19.326 : ui t console:system_02
-05:08:20.459 : goto moskushamn
-05:08:20.465 : <ERROR> City 'moskushamn' not found!
-05:08:23.443 : ui t console:system_02
-05:08:23.562 : Position : < 88533.5 46.5 -39575.5 >
-05:08:24.260 : ui t console:system_02
-05:08:24.796 : <ERROR> Maximal water level count (2) exceeded!
-05:08:24.796 : Failed to register water level for item: 0x40d8178b34009d6
-05:08:24.796 : <ERROR> Maximal water level count (2) exceeded!
-05:08:24.797 : Failed to register water level for item: 0x40d81783e1009d4
-05:08:25.143 : goto mozir
-05:08:28.127 : ui t console:system_02
-05:08:28.230 : Position : < 65983 53.5898 -12548.9 >
-05:08:28.694 : ui t console:system_02
-05:08:29.777 : goto mstislavl
-05:08:29.897 : <ERROR> Failed to place trailer at 71279.7;14.7188;-25986.4
-05:08:29.914 : <ERROR> Failed to place trailer at 71289.5;14.7188;-25996.1
-05:08:32.761 : ui t console:system_02
-05:08:32.880 : Position : < 71206.8 65.4023 -26136.8 >
-05:08:33.545 : ui t console:system_02
-05:08:34.628 : goto mukacheve
-05:08:37.628 : ui t console:system_02
-05:08:37.731 : Position : < 45497.1 124.898 11834.6 >
-05:08:38.395 : ui t console:system_02
-05:08:39.328 : goto nantes
-05:08:42.330 : ui t console:system_02
-05:08:42.514 : Position : < -47921.5 54 13123.5 >
-05:08:42.929 : ui t console:system_02
-05:08:44.012 : goto napapiiri
-05:08:46.996 : ui t console:system_02
-05:08:47.098 : Position : < 41580.4 120 -92240.3 >
-05:08:47.763 : ui t console:system_02
-05:08:48.646 : goto narva
-05:08:49.067 : <ERROR> [traffic] Unable to determine road lane 1 for road item (0x2CD26E164B002E5). Please check prefab<->road connection.
-05:08:51.630 : ui t console:system_02
-05:08:51.731 : Position : < 54064.4 68.1758 -52405.2 >
-05:08:52.181 : ui t console:system_02
-05:08:53.063 : goto nevel
-05:08:53.246 : <ERROR> Maximal water level count (2) exceeded!
-05:08:53.246 : Failed to register water level for item: 0x3e5058b8ab00000
-05:08:53.246 : <ERROR> Maximal water level count (2) exceeded!
-05:08:53.246 : Failed to register water level for item: 0x3e5061570800000
-05:08:53.246 : <ERROR> Maximal water level count (2) exceeded!
-05:08:53.246 : Failed to register water level for item: 0x3e5055133900000
-05:08:53.246 : <ERROR> Maximal water level count (2) exceeded!
-05:08:53.246 : Failed to register water level for item: 0x3e47c2545100027
-05:08:53.246 : <ERROR> Maximal water level count (2) exceeded!
-05:08:53.246 : Failed to register water level for item: 0x3e47c2591b00012
-05:08:56.047 : ui t console:system_02
-05:08:56.149 : Position : < 63689.5 44.1406 -35678.8 >
-05:08:56.614 : ui t console:system_02
-05:08:57.447 : goto nice
-05:08:57.454 : <ERROR> City 'nice' not found!
-05:09:00.431 : ui t console:system_02
-05:09:00.550 : Position : < 63689.5 44.1406 -35678.8 >
-05:09:00.965 : ui t console:system_02
-05:09:02.015 : goto novgorod
-05:09:05.015 : ui t console:system_02
-05:09:05.116 : Position : < 65052.4 85.5625 -49111.5 >
-05:09:05.749 : ui t console:system_02
-05:09:06.949 : goto novohradvol
-05:09:06.956 : <ERROR> City 'novohradvol' not found!
-05:09:09.933 : ui t console:system_02
-05:09:10.034 : Position : < 65052.4 85.5625 -49111.5 >
-05:09:10.816 : ui t console:system_02
-05:09:11.999 : goto novovolynsk
-05:09:12.009 : <ERROR> City 'novovolynsk' not found!
-05:09:14.983 : ui t console:system_02
-05:09:15.085 : Position : < 65052.4 85.5625 -49111.5 >
-05:09:15.850 : ui t console:system_02
-05:09:16.055 : <ERROR> Maximal water level count (2) exceeded!
-05:09:16.055 : Failed to register water level for item: 0x3e66ccfe5d004f1
-05:09:16.055 : <ERROR> Maximal water level count (2) exceeded!
-05:09:16.055 : Failed to register water level for item: 0x3e66ccf67200562
-05:09:16.055 : <ERROR> Maximal water level count (2) exceeded!
-05:09:16.055 : Failed to register water level for item: 0x3e66ccf2f1004f2
-05:09:16.055 : <ERROR> Maximal water level count (2) exceeded!
-05:09:16.055 : Failed to register water level for item: 0x3e66ccfc8e004c7
-05:09:16.056 : <ERROR> Maximal water level count (2) exceeded!
-05:09:16.056 : Failed to register water level for item: 0x3e66ccfbe4005d9
-05:09:16.056 : <ERROR> Maximal water level count (2) exceeded!
-05:09:16.056 : Failed to register water level for item: 0x3e66ccff430074f
-05:09:16.056 : <ERROR> Maximal water level count (2) exceeded!
-05:09:16.056 : Failed to register water level for item: 0x3e66ccf5510095b
-05:09:16.056 : <ERROR> Maximal water level count (2) exceeded!
-05:09:16.056 : Failed to register water level for item: 0x3e66ccfcb900a16
-05:09:16.056 : <ERROR> Maximal water level count (2) exceeded!
-05:09:16.056 : Failed to register water level for item: 0x3e66ccf39200a7e
-05:09:16.056 : <ERROR> Maximal water level count (2) exceeded!
-05:09:16.056 : Failed to register water level for item: 0x3e66ccfb870035e
-05:09:16.057 : <ERROR> Maximal water level count (2) exceeded!
-05:09:16.057 : Failed to register water level for item: 0x3e66ccfecd0023d
-05:09:16.057 : <ERROR> Maximal water level count (2) exceeded!
-05:09:16.057 : Failed to register water level for item: 0x3e66ccf767002a3
-05:09:16.057 : <ERROR> Maximal water level count (2) exceeded!
-05:09:16.057 : Failed to register water level for item: 0x3e66ccfaab002bb
-05:09:16.057 : <ERROR> Maximal water level count (2) exceeded!
-05:09:16.057 : Failed to register water level for item: 0x3e66ccf3df00a90
-05:09:16.966 : goto nowogard
-05:09:19.951 : ui t console:system_02
-05:09:20.069 : Position : < 17888.8 98.0313 -16557.9 >
-05:09:20.668 : ui t console:system_02
-05:09:21.767 : goto nynashamn
-05:09:24.751 : ui t console:system_02
-05:09:24.853 : Position : < 26448.2 62.6484 -46165.7 >
-05:09:25.518 : ui t console:system_02
-05:09:26.334 : goto oban
-05:09:29.335 : ui t console:system_02
-05:09:29.437 : Position : < -53420.4 111.898 -53500.1 >
-05:09:29.835 : ui t console:system_02
-05:09:30.985 : goto oberhausen
-05:09:31.870 : <ERROR> Maximal water level count (2) exceeded!
-05:09:31.870 : Failed to register water level for item: 0x2935dff6a064db
-05:09:33.969 : ui t console:system_02
-05:09:34.071 : Position : < -11793.2 93.957 -5322.95 >
-05:09:34.807 : ui t console:system_02
-05:09:35.819 : goto obninsk
-05:09:38.803 : ui t console:system_02
-05:09:38.905 : Position : < 85332.9 66.6289 -35073.1 >
-05:09:39.469 : ui t console:system_02
-05:09:40.319 : goto odda
-05:09:40.328 : <ERROR> City 'odda' not found!
-05:09:43.303 : ui t console:system_02
-05:09:43.405 : Position : < 85332.9 66.6289 -35073.1 >
-05:09:43.803 : ui t console:system_02
-05:09:44.736 : goto odense
-05:09:44.973 : <ERROR> Maximal water level count (2) exceeded!
-05:09:44.973 : Failed to register water level for item: 0x2ef3e051b210001
-05:09:47.737 : ui t console:system_02
-05:09:47.839 : Position : < 1617.69 69.9023 -26700.4 >
-05:09:48.337 : ui t console:system_02
-05:09:49.270 : goto odessa
-05:09:49.278 : <ERROR> City 'odessa' not found!
-05:09:52.244 : ui t console:system_02
-05:09:52.357 : Position : < 1617.69 69.9023 -26700.4 >
-05:09:52.855 : ui t console:system_02
-05:09:53.888 : goto olafsvik
-05:09:53.896 : <ERROR> City 'olafsvik' not found!
-05:09:56.872 : ui t console:system_02
-05:09:56.973 : Position : < 1617.69 69.9023 -26700.4 >
-05:09:57.573 : <ERROR> Maximal water level count (2) exceeded!
-05:09:57.574 : Failed to register water level for item: 0x48ebf6f7b040000
-05:09:57.574 : <ERROR> Maximal water level count (2) exceeded!
-05:09:57.574 : Failed to register water level for item: 0x48eda70d0040000
-05:09:57.588 : ui t console:system_02
-05:09:58.471 : goto olbia
-05:09:58.478 : <ERROR> City 'olbia' not found!
-05:09:58.591 : <ERROR> Maximal water level count (2) exceeded!
-05:09:58.592 : Failed to register water level for item: 0x12a2c294786019f
-05:09:58.593 : <ERROR> Maximal water level count (2) exceeded!
-05:09:58.593 : Failed to register water level for item: 0x10b6c9ef5e2006d
-05:09:58.593 : <ERROR> Maximal water level count (2) exceeded!
-05:09:58.593 : Failed to register water level for item: 0x10b6ca090a2006f
-05:09:58.593 : <ERROR> Maximal water level count (2) exceeded!
-05:09:58.593 : Failed to register water level for item: 0x10e1fcc5f820061
-05:09:58.593 : <ERROR> Maximal water level count (2) exceeded!
-05:09:58.593 : Failed to register water level for item: 0x10b6ca8bf320071
-05:10:01.456 : ui t console:system_02
-05:10:01.557 : Position : < 1617.69 69.9023 -26700.4 >
-05:10:02.006 : ui t console:system_02
-05:10:02.889 : goto opole
-05:10:05.873 : ui t console:system_02
-05:10:05.975 : Position : < 27536.9 139.586 -679.391 >
-05:10:06.440 : ui t console:system_02
-05:10:07.356 : goto oradea
-05:10:08.030 : Creating save-game file (/home/profiles/4B6F656E2054534D/save/autosave_drive/game.sii) ...
-05:10:08.158 : Game has been auto-saved.
-05:10:10.357 : ui t console:system_02
-05:10:10.458 : Position : < 43493.9 120 19439.1 >
-05:10:10.957 : ui t console:system_02
-05:10:11.890 : goto orebro
-05:10:14.874 : ui t console:system_02
-05:10:14.976 : Position : < 17087.8 62 -48374.7 >
-05:10:15.474 : ui t console:system_02
-05:10:16.307 : goto orel
-05:10:19.291 : ui t console:system_02
-05:10:19.397 : Position : < 87658.2 61.8633 -23228 >
-05:10:19.808 : ui t console:system_02
-05:10:20.691 : goto orlea
-05:10:23.675 : ui t console:system_02
-05:10:23.778 : Position : < -33526.4 78.9414 11781.6 >
-05:10:24.225 : ui t console:system_02
-05:10:25.458 : goto ornskoldsvik
-05:10:25.465 : <ERROR> City 'ornskoldsvik' not found!
-05:10:28.442 : ui t console:system_02
-05:10:28.543 : Position : < -33526.4 78.9414 11781.6 >
-05:10:29.375 : ui t console:system_02
-05:10:30.259 : goto orsha
-05:10:33.259 : ui t console:system_02
-05:10:33.361 : Position : < 67891.2 40.5039 -26320.7 >
-05:10:33.809 : ui t console:system_02
-05:10:34.643 : goto oslo
-05:10:37.626 : ui t console:system_02
-05:10:37.729 : Position : < 4390.91 52.5117 -53410.5 >
-05:10:38.143 : ui t console:system_02
-05:10:39.226 : goto ostashkov
-05:10:42.210 : ui t console:system_02
-05:10:42.312 : Position : < 71691.7 67.3633 -44016.8 >
-05:10:42.977 : ui t console:system_02
-05:10:44.060 : goto ostersund
-05:10:44.068 : <ERROR> City 'ostersund' not found!
-05:10:47.044 : ui t console:system_02
-05:10:47.146 : Position : < 71691.7 67.3633 -44016.8 >
-05:10:47.828 : ui t console:system_02
-05:10:48.928 : goto ostroleka
-05:10:51.911 : ui t console:system_02
-05:10:52.015 : Position : < 38890.4 95.2539 -14259.3 >
-05:10:52.661 : ui t console:system_02
-05:10:53.495 : goto oulu
-05:10:56.479 : ui t console:system_02
-05:10:56.581 : Position : < 40906.9 98 -81971.1 >
-05:10:56.996 : ui t console:system_02
-05:10:57.979 : goto padborg
-05:11:00.963 : ui t console:system_02
-05:11:01.065 : Position : < -1608.62 55.5469 -24340.2 >
-05:11:01.663 : ui t console:system_02
-05:11:02.696 : goto pamplona
-05:11:02.704 : <ERROR> City 'pamplona' not found!
-05:11:05.680 : ui t console:system_02
-05:11:05.782 : Position : < -1608.62 55.5469 -24340.2 >
-05:11:06.380 : ui t console:system_02
-05:11:07.463 : goto panevezys
-05:11:10.447 : ui t console:system_02
-05:11:10.548 : Position : < 46296.1 111.961 -30215.8 >
-05:11:11.214 : ui t console:system_02
-05:11:12.114 : goto paris
-05:11:15.098 : ui t console:system_02
-05:11:15.200 : Position : < -30494.9 92.6211 6998.41 >
-05:11:15.648 : ui t console:system_02
-05:11:16.531 : goto parma
-05:11:19.515 : ui t console:system_02
-05:11:19.617 : Position : < -2194.13 81.6328 32558.9 >
-05:11:20.065 : ui t console:system_02
-05:11:20.948 : goto parnu
-05:11:23.932 : ui t console:system_02
-05:11:24.034 : Position : < 44787.3 74.5859 -44526.4 >
-05:11:24.499 : ui t console:system_02
-05:11:25.282 : goto pau
-05:11:28.266 : ui t console:system_02
-05:11:28.368 : Position : < -47944.2 111.109 36082.7 >
-05:11:28.716 : ui t console:system_02
-05:11:29.616 : goto perpi
-05:11:29.627 : <ERROR> City 'perpi' not found!
-05:11:32.600 : ui t console:system_02
-05:11:32.701 : Position : < -47944.2 111.109 36082.7 >
-05:11:33.167 : ui t console:system_02
-05:11:34.250 : goto peterburg
-05:11:37.233 : ui t console:system_02
-05:11:37.335 : Position : < 60356.8 96.6836 -56936 >
-05:11:37.983 : ui t console:system_02
-05:11:38.917 : goto piatra
-05:11:41.901 : ui t console:system_02
-05:11:42.003 : Position : < 59568.8 120 17749.3 >
-05:11:42.517 : ui t console:system_02
-05:11:43.367 : goto pila
-05:11:46.351 : ui t console:system_02
-05:11:46.454 : Position : < 21276.1 86.2734 -14380.2 >
-05:11:46.852 : ui t console:system_02
-05:11:47.734 : goto pinsk
-05:11:50.718 : ui t console:system_02
-05:11:50.821 : Position : < 55678.1 62.3516 -10592.7 >
-05:11:51.285 : ui t console:system_02
-05:11:52.168 : goto plock
-05:11:55.161 : ui t console:system_02
-05:11:55.272 : Position : < 32370.5 90.1992 -10795.9 >
-05:11:55.719 : ui t console:system_02
-05:11:56.752 : goto plymouth
-05:11:59.736 : ui t console:system_02
-05:11:59.838 : Position : < -60041.4 101.398 -7882.32 >
-05:12:00.453 : ui t console:system_02
-05:12:01.336 : goto plzen
-05:12:01.346 : <ERROR> City 'plzen' not found!
-05:12:04.320 : ui t console:system_02
-05:12:04.438 : Position : < -60041.4 101.398 -7882.32 >
-05:12:04.887 : ui t console:system_02
-05:12:05.920 : goto poitiers
-05:12:06.371 : <ERROR> [traffic] Unable to determine road lane -1 for road item (0x1BCC575BF300288). Please check prefab<->road connection!
-05:12:08.904 : ui t console:system_02
-05:12:09.007 : Position : < -41108 90.1406 18442.8 >
-05:12:09.637 : ui t console:system_02
-05:12:10.470 : goto pori
-05:12:13.455 : ui t console:system_02
-05:12:13.556 : Position : < 34896.6 109.898 -61757.5 >
-05:12:13.971 : ui t console:system_02
-05:12:14.954 : goto porkhov
-05:12:17.938 : ui t console:system_02
-05:12:18.046 : Position : < 60948.5 72.5273 -44020.6 >
-05:12:18.605 : ui t console:system_02
-05:12:19.638 : goto portimao
-05:12:19.646 : <ERROR> City 'portimao' not found!
-05:12:22.622 : ui t console:system_02
-05:12:22.724 : Position : < 60948.5 72.5273 -44020.6 >
-05:12:23.339 : ui t console:system_02
-05:12:24.222 : goto porto
-05:12:24.231 : <ERROR> City 'porto' not found!
-05:12:27.206 : ui t console:system_02
-05:12:27.307 : Position : < 60948.5 72.5273 -44020.6 >
-05:12:27.756 : ui t console:system_02
-05:12:28.906 : goto portsmouth
-05:12:31.890 : ui t console:system_02
-05:12:31.992 : Position : < -43034.2 121.809 -5752.09 >
-05:12:32.707 : ui t console:system_02
-05:12:33.623 : goto porvoo
-05:12:36.624 : ui t console:system_02
-05:12:36.725 : Position : < 47431.8 107.949 -57017.7 >
-05:12:37.224 : ui t console:system_02
-05:12:38.257 : goto przemysl
-05:12:41.241 : ui t console:system_02
-05:12:41.360 : Position : < 44638.9 110.391 3969.67 >
-05:12:41.974 : ui t console:system_02
-05:12:42.858 : goto pskov
-05:12:45.842 : ui t console:system_02
-05:12:45.943 : Position : < 56542.8 71.1953 -43761.7 >
-05:12:46.391 : ui t console:system_02
-05:12:47.541 : goto puttgarden
-05:12:50.525 : ui t console:system_02
-05:12:50.626 : Position : < 4001.17 43.8906 -21612.7 >
-05:12:51.342 : ui t console:system_02
-05:12:52.225 : goto radom
-05:12:55.226 : ui t console:system_02
-05:12:55.328 : Position : < 38543.6 115.695 -4837.94 >
-05:12:55.776 : ui t console:system_02
-05:12:56.709 : goto ramsey
-05:12:56.718 : <ERROR> City 'ramsey' not found!
-05:12:59.693 : ui t console:system_02
-05:12:59.794 : Position : < 38543.6 115.695 -4837.94 >
-05:13:00.310 : ui t console:system_02
-05:13:01.143 : goto reda
-05:13:01.151 : <ERROR> City 'reda' not found!
-05:13:04.127 : ui t console:system_02
-05:13:04.228 : Position : < 38543.6 115.695 -4837.94 >
-05:13:04.644 : ui t console:system_02
-05:13:05.527 : goto reims
-05:13:08.511 : ui t console:system_02
-05:13:08.612 : Position : < -24021.9 96.3086 5799.34 >
-05:13:09.078 : ui t console:system_02
-05:13:09.961 : goto renne
-05:13:12.945 : ui t console:system_02
-05:13:13.047 : Position : < -48307.4 63.7969 8223.08 >
-05:13:13.512 : ui t console:system_02
-05:13:14.428 : goto reydar
-05:13:17.412 : ui t console:system_02
-05:13:17.531 : Position : < -69235.1 50 -92368.9 >
-05:13:18.029 : ui t console:system_02
-05:13:19.312 : goto reydarfjordur
-05:13:19.323 : <ERROR> City 'reydarfjordur' not found!
-05:13:22.313 : ui t console:system_02
-05:13:22.415 : Position : < -69235.1 50 -92368.9 >
-05:13:23.313 : ui t console:system_02
-05:13:24.396 : goto reykjanes
-05:13:24.403 : <ERROR> City 'reykjanes' not found!
-05:13:27.380 : ui t console:system_02
-05:13:27.481 : Position : < -69235.1 50 -92368.9 >
-05:13:28.163 : ui t console:system_02
-05:13:29.230 : goto reykjavik
-05:13:32.230 : ui t console:system_02
-05:13:32.342 : Position : < -90723.9 57.3203 -98482.6 >
-05:13:33.003 : ui t console:system_02
-05:13:33.992 : goto rezekne
-05:13:34.000 : <ERROR> City 'rezekne' not found!
-05:13:36.989 : ui t console:system_02
-05:13:37.074 : Position : < -90723.9 57.3203 -98482.6 >
-05:13:37.644 : ui t console:system_02
-05:13:38.511 : goto rgev
-05:13:41.498 : ui t console:system_02
-05:13:41.600 : Position : < 77040.4 36.4648 -39807.6 >
-05:13:41.998 : ui t console:system_02
-05:13:42.832 : goto riga
-05:13:45.832 : ui t console:system_02
-05:13:45.922 : Position : < 44351.2 68.1758 -36490.8 >
-05:13:46.349 : ui t console:system_02
-05:13:47.299 : goto rimini
-05:13:47.310 : <ERROR> City 'rimini' not found!
-05:13:50.283 : ui t console:system_02
-05:13:50.401 : Position : < 44351.2 68.1758 -36490.8 >
-05:13:50.900 : ui t console:system_02
-05:13:51.799 : goto rivne
-05:13:51.809 : <ERROR> City 'rivne' not found!
-05:13:54.783 : ui t console:system_02
-05:13:54.886 : Position : < 44351.2 68.1758 -36490.8 >
-05:13:55.350 : ui t console:system_02
-05:13:56.433 : goto rodbyhavn
-05:13:59.417 : ui t console:system_02
-05:13:59.535 : Position : < 4378.43 49.1719 -22326.5 >
-05:14:00.184 : ui t console:system_02
-05:14:01.184 : goto roslavl
-05:14:04.168 : ui t console:system_02
-05:14:04.270 : Position : < 77169.5 61.0352 -25261.4 >
-05:14:04.818 : ui t console:system_02
-05:14:05.718 : goto rouen
-05:14:08.702 : ui t console:system_02
-05:14:08.804 : Position : < -34886.4 57 2583.58 >
-05:14:09.252 : ui t console:system_02
-05:14:10.335 : goto rovaniemi
-05:14:13.319 : ui t console:system_02
-05:14:13.421 : Position : < 40795.2 104.375 -91202.9 >
-05:14:14.086 : ui t console:system_02
-05:14:14.969 : goto rumia
-05:14:14.980 : <ERROR> City 'rumia' not found!
-05:14:17.953 : ui t console:system_02
-05:14:18.056 : Position : < 40795.2 104.375 -91202.9 >
-05:14:18.503 : ui t console:system_02
-05:14:19.353 : goto ruse
-05:14:19.617 : <ERROR> Maximal water level count (2) exceeded!
-05:14:19.617 : Failed to register water level for item: 0x3e91e11d47000d0
-05:14:19.617 : <ERROR> Maximal water level count (2) exceeded!
-05:14:19.617 : Failed to register water level for item: 0x3e91e10610000ce
-05:14:19.617 : <ERROR> Maximal water level count (2) exceeded!
-05:14:19.617 : Failed to register water level for item: 0x3e91e13ad0000d2
-05:14:22.337 : ui t console:system_02
-05:14:22.439 : Position : < 61661.9 120 36399.5 >
-05:14:22.854 : ui t console:system_02
-05:14:23.837 : goto rzeszow
-05:14:26.820 : ui t console:system_02
-05:14:26.924 : Position : < 42993.9 110.492 2919.09 >
-05:14:27.487 : ui t console:system_02
-05:14:28.421 : goto saldus
-05:14:28.430 : <ERROR> City 'saldus' not found!
-05:14:31.404 : ui t console:system_02
-05:14:31.506 : Position : < 42993.9 110.492 2919.09 >
-05:14:32.021 : ui t console:system_02
-05:14:33.204 : goto sanfernando
-05:14:33.212 : <ERROR> City 'sanfernando' not found!
-05:14:36.188 : ui t console:system_02
-05:14:36.291 : Position : < 42993.9 110.492 2919.09 >
-05:14:37.055 : ui t console:system_02
-05:14:37.955 : goto sanok
-05:14:40.939 : ui t console:system_02
-05:14:41.041 : Position : < 43027.8 153.367 5134.43 >
-05:14:41.506 : ui t console:system_02
-05:14:42.522 : goto santarem
-05:14:42.529 : <ERROR> City 'santarem' not found!
-05:14:45.506 : ui t console:system_02
-05:14:45.607 : Position : < 43027.8 153.367 5134.43 >
-05:14:46.223 : ui t console:system_02
-05:14:47.289 : goto satumare
-05:14:47.297 : <ERROR> City 'satumare' not found!
-05:14:50.273 : ui t console:system_02
-05:14:50.375 : Position : < 43027.8 153.367 5134.43 >
-05:14:51.007 : ui t console:system_02
-05:14:51.990 : goto selfoss
-05:14:52.024 : <ERROR> [model] Unknown look name 'hw_def_dk' on model '/road_template/sc/sidewalk.pmd'
-05:14:52.025 : <ERROR> [model] Unknown look name 'hw_def_dk' on model '/road_template/sc/sidewalk.pmd'
-05:14:52.025 : <ERROR> [model] Unknown look name 'hw_def_dk' on model '/road_template/sc/sidewalk.pmd'
-05:14:54.974 : ui t console:system_02
-05:14:55.076 : Position : < -89796.2 49.3047 -95809.1 >
-05:14:55.641 : ui t console:system_02
-05:14:56.624 : goto sevilla
-05:14:56.635 : <ERROR> City 'sevilla' not found!
-05:14:59.608 : ui t console:system_02
-05:14:59.709 : Position : < -89796.2 49.3047 -95809.1 >
-05:15:00.291 : ui t console:system_02
-05:15:01.241 : goto seydis
-05:15:04.225 : ui t console:system_02
-05:15:04.327 : Position : < -68112.5 46.3789 -93717.5 >
-05:15:04.825 : ui t console:system_02
-05:15:06.075 : goto shlisselburg
-05:15:09.059 : ui t console:system_02
-05:15:09.160 : Position : < 64110.6 113.523 -59343.8 >
-05:15:09.993 : ui t console:system_02
-05:15:11.026 : goto siauliai
-05:15:11.034 : <ERROR> City 'siauliai' not found!
-05:15:14.010 : ui t console:system_02
-05:15:14.111 : Position : < 64110.6 113.523 -59343.8 >
-05:15:14.726 : ui t console:system_02
-05:15:15.610 : goto sibiu
-05:15:15.935 : <ERROR> [traffic] Unable to determine road lane 2 for road item (0x4A83FA34B210001). Please check prefab<->road connection.
-05:15:15.935 : <ERROR> [traffic] Unable to determine road lane 1 for road item (0x4A83FA34B210001). Please check prefab<->road connection.
-05:15:15.935 : <ERROR> [traffic] Unable to determine road lane -2 for road item (0x4A83FA34B210001). Please check prefab<->road connection!
-05:15:16.418 : <ERROR> [traffic] Unable to determine road lane -2 for road item (0x4A83FA34B210001). Please check prefab<->road connection!
-05:15:18.594 : ui t console:system_02
-05:15:18.695 : Position : < 52251.6 132.074 26325.7 >
-05:15:19.161 : ui t console:system_02
-05:15:20.144 : goto siedlce
-05:15:20.151 : <ERROR> City 'siedlce' not found!
-05:15:23.127 : ui t console:system_02
-05:15:23.230 : Position : < 52251.6 132.074 26325.7 >
-05:15:23.778 : ui t console:system_02
-05:15:24.911 : goto skelleftea
-05:15:24.921 : <ERROR> City 'skelleftea' not found!
-05:15:27.895 : ui t console:system_02
-05:15:28.013 : Position : < 52251.6 132.074 26325.7 >
-05:15:28.728 : ui t console:system_02
-05:15:29.661 : goto skovde
-05:15:29.668 : <ERROR> City 'skovde' not found!
-05:15:32.645 : ui t console:system_02
-05:15:32.748 : Position : < 52251.6 132.074 26325.7 >
-05:15:33.279 : ui t console:system_02
-05:15:34.362 : goto slavgorod
-05:15:34.369 : <ERROR> City 'slavgorod' not found!
-05:15:37.346 : ui t console:system_02
-05:15:37.464 : Position : < 52251.6 132.074 26325.7 >
-05:15:38.130 : ui t console:system_02
-05:15:38.996 : goto sluck
-05:15:41.980 : ui t console:system_02
-05:15:42.082 : Position : < 59477.4 55.1211 -16285.8 >
-05:15:42.547 : ui t console:system_02
-05:15:43.580 : goto smolensk
-05:15:43.768 : Creating save-game file (/home/profiles/4B6F656E2054534D/save/autosave_drive/game.sii) ...
-05:15:43.896 : Game has been auto-saved.
-05:15:46.564 : ui t console:system_02
-05:15:46.666 : Position : < 73118.6 34.2422 -29374.4 >
-05:15:47.264 : ui t console:system_02
-05:15:48.347 : goto soderhamn
-05:15:51.331 : ui t console:system_02
-05:15:51.433 : Position : < 21956.2 84.3828 -59633.3 >
-05:15:52.098 : ui t console:system_02
-05:15:53.231 : goto sodertalje
-05:15:56.215 : ui t console:system_02
-05:15:56.316 : Position : < 23525.2 50.9922 -46319.9 >
-05:15:57.033 : ui t console:system_02
-05:15:57.932 : goto sopot
-05:15:57.939 : <ERROR> City 'sopot' not found!
-05:16:00.915 : ui t console:system_02
-05:16:01.019 : Position : < 23525.2 50.9922 -46319.9 >
-05:16:01.482 : ui t console:system_02
-05:16:02.516 : goto stargard
-05:16:02.523 : <ERROR> City 'stargard' not found!
-05:16:05.499 : ui t console:system_02
-05:16:05.601 : Position : < 23525.2 50.9922 -46319.9 >
-05:16:06.216 : ui t console:system_02
-05:16:07.299 : goto stavanger
-05:16:10.283 : ui t console:system_02
-05:16:10.385 : Position : < -10553.7 62.6094 -48126.8 >
-05:16:11.040 : ui t console:system_02
-05:16:12.133 : goto stockholm
-05:16:12.805 : <ERROR> Maximal water level count (2) exceeded!
-05:16:12.805 : Failed to register water level for item: 0x4313fcd9a24052c
-05:16:14.137 : <ERROR> Maximal water level count (2) exceeded!
-05:16:14.138 : Failed to register water level for item: 0x17a64e260460020
-05:16:14.138 : <ERROR> Maximal water level count (2) exceeded!
-05:16:14.138 : Failed to register water level for item: 0x17a64e4c1c60022
-05:16:14.139 : <ERROR> Maximal water level count (2) exceeded!
-05:16:14.139 : Failed to register water level for item: 0x17a64e55ce60024
-05:16:14.503 : <ERROR> Maximal water level count (2) exceeded!
-05:16:14.503 : Failed to register water level for item: 0x17a67b701260071
-05:16:14.503 : <ERROR> Maximal water level count (2) exceeded!
-05:16:14.504 : Failed to register water level for item: 0x17a64e7fa460026
-05:16:14.504 : <ERROR> Maximal water level count (2) exceeded!
-05:16:14.504 : Failed to register water level for item: 0x17a64e8c0560028
-05:16:14.504 : <ERROR> Maximal water level count (2) exceeded!
-05:16:14.504 : Failed to register water level for item: 0x17a64e93d86002a
-05:16:14.504 : <ERROR> Maximal water level count (2) exceeded!
-05:16:14.504 : Failed to register water level for item: 0x17a64ea9aa6002c
-05:16:14.504 : <ERROR> Maximal water level count (2) exceeded!
-05:16:14.504 : Failed to register water level for item: 0x17e2fcfb23600a5
-05:16:14.504 : <ERROR> Maximal water level count (2) exceeded!
-05:16:14.504 : Failed to register water level for item: 0x17e2fc990e600a1
-05:16:14.504 : <ERROR> Maximal water level count (2) exceeded!
-05:16:14.504 : Failed to register water level for item: 0x17e2fcca8e600a3
-05:16:14.505 : <ERROR> Maximal water level count (2) exceeded!
-05:16:14.505 : Failed to register water level for item: 0x17e6424b636001c
-05:16:15.118 : ui t console:system_02
-05:16:15.226 : Position : < 24747.3 68.7656 -47131.9 >
-05:16:15.923 : ui t console:system_02
-05:16:17.070 : goto strasbourg
-05:16:20.040 : ui t console:system_02
-05:16:20.154 : Position : < -10786.9 100 11198.7 >
-05:16:20.852 : ui t console:system_02
-05:16:21.751 : goto stryi
-05:16:21.759 : <ERROR> City 'stryi' not found!
-05:16:24.735 : ui t console:system_02
-05:16:24.837 : Position : < -10786.9 100 11198.7 >
-05:16:25.285 : ui t console:system_02
-05:16:26.552 : goto strzelcekraj
-05:16:26.562 : <ERROR> City 'strzelcekraj' not found!
-05:16:29.536 : ui t console:system_02
-05:16:29.638 : Position : < -10786.9 100 11198.7 >
-05:16:30.453 : ui t console:system_02
-05:16:31.536 : goto sundsvall
-05:16:34.520 : ui t console:system_02
-05:16:34.622 : Position : < 21950.3 84 -65749.8 >
-05:16:35.287 : ui t console:system_02
-05:16:36.287 : goto suwalki
-05:16:39.270 : ui t console:system_02
-05:16:39.373 : Position : < 43448.6 118.813 -21045.2 >
-05:16:39.921 : ui t console:system_02
-05:16:40.920 : goto swansea
-05:16:43.904 : ui t console:system_02
-05:16:44.006 : Position : < -56896 71.3984 -16881.9 >
-05:16:44.571 : ui t console:system_02
-05:16:45.754 : goto swinoujscie
-05:16:48.738 : ui t console:system_02
-05:16:48.857 : Position : < 13488.7 145.68 -17184.3 >
-05:16:49.605 : ui t console:system_02
-05:16:50.655 : goto szczecin
-05:16:53.639 : ui t console:system_02
-05:16:53.740 : Position : < 14764.7 96.5508 -15366.7 >
-05:16:54.372 : ui t console:system_02
-05:16:55.355 : goto tallinn
-05:16:58.359 : ui t console:system_02
-05:16:58.443 : Position : < 44770.9 78.0703 -50731.6 >
-05:16:59.023 : ui t console:system_02
-05:17:00.056 : goto tampere
-05:17:03.023 : ui t console:system_02
-05:17:03.143 : Position : < 40069.1 137.168 -62656.5 >
-05:17:03.690 : ui t console:system_02
-05:17:04.590 : goto tartu
-05:17:07.574 : ui t console:system_02
-05:17:07.676 : Position : < 51198.6 72.8086 -46116.1 >
-05:17:08.124 : ui t console:system_02
-05:17:09.141 : goto terendk
-05:17:09.148 : <ERROR> City 'terendk' not found!
-05:17:12.124 : ui t console:system_02
-05:17:12.226 : Position : < 51198.6 72.8086 -46116.1 >
-05:17:12.791 : ui t console:system_02
-05:17:13.419 : <ERROR> Maximal water level count (2) exceeded!
-05:17:13.419 : Failed to register water level for item: 0x3455778f4100001
-05:17:13.430 : <ERROR> Maximal water level count (2) exceeded!
-05:17:13.430 : Failed to register water level for item: 0x39402e65b200001
-05:17:13.431 : <ERROR> Maximal water level count (2) exceeded!
-05:17:13.431 : Failed to register water level for item: 0x344403b2d200000
-05:17:13.431 : <ERROR> Maximal water level count (2) exceeded!
-05:17:13.431 : Failed to register water level for item: 0x344403929a00001
-05:17:13.431 : <ERROR> Maximal water level count (2) exceeded!
-05:17:13.431 : Failed to register water level for item: 0x344403780d00001
-05:17:13.433 : <ERROR> Maximal water level count (2) exceeded!
-05:17:13.433 : Failed to register water level for item: 0x342a73051900001
-05:17:13.433 : <ERROR> Maximal water level count (2) exceeded!
-05:17:13.433 : Failed to register water level for item: 0x342a7165bf00002
-05:17:13.434 : <ERROR> Maximal water level count (2) exceeded!
-05:17:13.434 : Failed to register water level for item: 0x342a72c88300001
-05:17:13.434 : <ERROR> Maximal water level count (2) exceeded!
-05:17:13.434 : Failed to register water level for item: 0x342a72bfdc00001
-05:17:13.435 : <ERROR> Maximal water level count (2) exceeded!
-05:17:13.435 : Failed to register water level for item: 0x342d4fc04e00001
-05:17:13.435 : <ERROR> Maximal water level count (2) exceeded!
-05:17:13.435 : Failed to register water level for item: 0x342d4fb9c600000
-05:17:13.436 : <ERROR> Maximal water level count (2) exceeded!
-05:17:13.436 : Failed to register water level for item: 0x342d4fa76a00002
-05:17:13.436 : <ERROR> Maximal water level count (2) exceeded!
-05:17:13.436 : Failed to register water level for item: 0x346d48bd2f00001
-05:17:13.436 : <ERROR> Maximal water level count (2) exceeded!
-05:17:13.436 : Failed to register water level for item: 0x346d48a28e00001
-05:17:13.436 : <ERROR> Maximal water level count (2) exceeded!
-05:17:13.436 : Failed to register water level for item: 0x346d48902300002
-05:17:13.841 : goto ternopil
-05:17:13.849 : <ERROR> City 'ternopil' not found!
-05:17:16.839 : ui t console:system_02
-05:17:16.940 : Position : < 51198.6 72.8086 -46116.1 >
-05:17:17.559 : ui t console:system_02
-05:17:18.509 : goto thurso
-05:17:21.492 : ui t console:system_02
-05:17:21.594 : Position : < -41731.6 111.898 -66122.4 >
-05:17:22.093 : ui t console:system_02
-05:17:23.176 : goto timisoara
-05:17:23.533 : <ERROR> [traffic] Unable to determine road lane 1 for road item (0x4997C625CD10001). Please check prefab<->road connection.
-05:17:23.533 : <ERROR> [traffic] Unable to determine road lane 1 for road item (0x4997B360E110044). Please check prefab<->road connection.
-05:17:26.160 : ui t console:system_02
-05:17:26.262 : Position : < 40392.8 123.617 27328.8 >
-05:17:26.926 : ui t console:system_02
-05:17:27.860 : goto tornio
-05:17:30.844 : ui t console:system_02
-05:17:30.946 : Position : < 37743.5 99.9023 -86984.2 >
-05:17:31.460 : ui t console:system_02
-05:17:32.611 : goto torrevieja
-05:17:32.621 : <ERROR> City 'torrevieja' not found!
-05:17:35.594 : ui t console:system_02
-05:17:35.696 : Position : < 37743.5 99.9023 -86984.2 >
-05:17:36.428 : ui t console:system_02
-05:17:37.478 : goto torshavn
-05:17:40.462 : ui t console:system_02
-05:17:40.564 : Position : < -51298.5 59.8984 -81483.6 >
-05:17:41.178 : ui t console:system_02
-05:17:42.211 : goto toulouse
-05:17:43.026 : <ERROR> [traffic] Unable to determine road lane -1 for road item (0x406D2977E300001). Please check prefab<->road connection!
-05:17:45.195 : ui t console:system_02
-05:17:45.297 : Position : < -39911.4 65 34605.3 >
-05:17:45.912 : ui t console:system_02
-05:17:46.829 : goto tours
-05:17:49.813 : ui t console:system_02
-05:17:49.918 : Position : < -38487.6 75.3633 14301.3 >
-05:17:50.363 : ui t console:system_02
-05:17:51.513 : goto trelleborg
-05:17:51.793 : <ERROR> Maximal water level count (2) exceeded!
-05:17:51.793 : Failed to register water level for item: 0x3e61ec9750b0000
-05:17:51.793 : <ERROR> Maximal water level count (2) exceeded!
-05:17:51.793 : Failed to register water level for item: 0x3e62113369b0001
-05:17:51.796 : <ERROR> Maximal water level count (2) exceeded!
-05:17:51.796 : Failed to register water level for item: 0x3e6143b379b0001
-05:17:51.797 : <ERROR> Maximal water level count (2) exceeded!
-05:17:51.797 : Failed to register water level for item: 0x3e61988618b0001
-05:17:51.797 : <ERROR> Maximal water level count (2) exceeded!
-05:17:51.797 : Failed to register water level for item: 0x3e61375498b0001
-05:17:51.797 : <ERROR> Maximal water level count (2) exceeded!
-05:17:51.797 : Failed to register water level for item: 0x3e614aaea9b0001
-05:17:51.797 : <ERROR> Maximal water level count (2) exceeded!
-05:17:51.797 : Failed to register water level for item: 0x3e61708650b0001
-05:17:54.497 : ui t console:system_02
-05:17:54.598 : Position : < 10808.3 55.3242 -25887 >
-05:17:55.330 : ui t console:system_02
-05:17:56.481 : goto truckstope
-05:17:56.489 : <ERROR> City 'truckstope' not found!
-05:17:59.464 : ui t console:system_02
-05:17:59.566 : Position : < 10808.3 55.3242 -25887 >
-05:18:00.314 : ui t console:system_02
-05:18:01.347 : goto europabr
-05:18:01.354 : <ERROR> City 'europabr' not found!
-05:18:04.331 : ui t console:system_02
-05:18:04.434 : Position : < 10808.3 55.3242 -25887 >
-05:18:05.098 : ui t console:system_02
-05:18:05.943 : goto tula
-05:18:08.932 : ui t console:system_02
-05:18:09.035 : Position : < 91217.5 17.1016 -32713.7 >
-05:18:09.465 : ui t console:system_02
-05:18:10.349 : goto turku
-05:18:13.333 : ui t console:system_02
-05:18:13.435 : Position : < 36549 110.398 -56133.1 >
-05:18:13.899 : ui t console:system_02
-05:18:14.732 : goto tver
-05:18:17.717 : ui t console:system_02
-05:18:17.818 : Position : < 81110.4 39.7695 -43874.4 >
-05:18:18.216 : ui t console:system_02
-05:18:19.283 : goto tvoroyri
-05:18:19.290 : <ERROR> City 'tvoroyri' not found!
-05:18:22.267 : ui t console:system_02
-05:18:22.368 : Position : < 81110.4 39.7695 -43874.4 >
-05:18:22.984 : ui t console:system_02
-05:18:23.983 : goto ukmerge
-05:18:23.991 : <ERROR> City 'ukmerge' not found!
-05:18:26.967 : ui t console:system_02
-05:18:27.069 : Position : < 81110.4 39.7695 -43874.4 >
-05:18:27.634 : ui t console:system_02
-05:18:28.401 : goto ulm
-05:18:31.387 : ui t console:system_02
-05:18:31.542 : Position : < -2928.57 88.75 12657 >
-05:18:31.868 : ui t console:system_02
-05:18:32.701 : goto umea
-05:18:32.712 : <ERROR> City 'umea' not found!
-05:18:35.685 : ui t console:system_02
-05:18:35.804 : Position : < -2928.57 88.75 12657 >
-05:18:36.202 : ui t console:system_02
-05:18:37.185 : goto uppsala
-05:18:40.169 : ui t console:system_02
-05:18:40.272 : Position : < 24021.5 77.4219 -51634.5 >
-05:18:40.836 : ui t console:system_02
-05:18:41.902 : goto uzhhorod
-05:18:42.370 : <ERROR> [traffic] Unable to determine road lane 1 for road item (0x4C12F647D550001). Please check prefab<->road connection.
-05:18:44.886 : ui t console:system_02
-05:18:44.988 : Position : < 43781 124.5 11200.1 >
-05:18:45.603 : ui t console:system_02
-05:18:46.469 : goto vaasa
-05:18:46.477 : <ERROR> City 'vaasa' not found!
-05:18:49.453 : ui t console:system_02
-05:18:49.555 : Position : < 43781 124.5 11200.1 >
-05:18:50.020 : ui t console:system_02
-05:18:50.887 : goto vaduz
-05:18:53.870 : ui t console:system_02
-05:18:53.972 : Position : < -3865.21 93.3555 18906.6 >
-05:18:54.454 : ui t console:system_02
-05:18:55.387 : goto valday
-05:18:58.371 : ui t console:system_02
-05:18:58.473 : Position : < 70492.6 100.309 -49050 >
-05:18:58.988 : ui t console:system_02
-05:18:59.854 : goto valga
-05:19:02.855 : ui t console:system_02
-05:19:02.958 : Position : < 49770.1 68.3086 -42978.1 >
-05:19:03.405 : ui t console:system_02
-05:19:04.288 : goto valka
-05:19:07.272 : ui t console:system_02
-05:19:07.373 : Position : < 49463.9 68.3086 -42752.1 >
-05:19:07.839 : ui t console:system_02
-05:19:08.772 : goto vantaa
-05:19:11.756 : ui t console:system_02
-05:19:11.858 : Position : < 45004.3 117.699 -56661.7 >
-05:19:12.390 : ui t console:system_02
-05:19:13.373 : goto varkaus
-05:19:16.357 : ui t console:system_02
-05:19:16.458 : Position : < 50510.6 112.898 -68975.5 >
-05:19:17.007 : ui t console:system_02
-05:19:18.123 : goto vasteraas
-05:19:21.107 : ui t console:system_02
-05:19:21.209 : Position : < 20937.7 62.0859 -50468.3 >
-05:19:21.891 : ui t console:system_02
-05:19:22.757 : goto vaxjo
-05:19:25.741 : ui t console:system_02
-05:19:25.843 : Position : < 16044.4 82.3125 -34835.6 >
-05:19:26.308 : ui t console:system_02
-05:19:27.191 : goto velig
-05:19:30.175 : ui t console:system_02
-05:19:30.276 : Position : < 68466.5 38.4023 -34541.6 >
-05:19:30.742 : ui t console:system_02
-05:19:31.725 : goto venezia
-05:19:34.709 : ui t console:system_02
-05:19:34.811 : Position : < 5089.88 77.8789 30078.9 >
-05:19:35.375 : ui t console:system_02
-05:19:36.459 : goto ventspils
-05:19:39.443 : ui t console:system_02
-05:19:39.561 : Position : < 36547.4 59.9883 -37959.7 >
-05:19:40.244 : ui t console:system_02
-05:19:41.176 : goto verona
-05:19:44.160 : ui t console:system_02
-05:19:44.262 : Position : < 39.1094 78.4023 29453.3 >
-05:19:44.777 : ui t console:system_02
-05:19:45.710 : goto viborg
-05:19:48.694 : ui t console:system_02
-05:19:48.795 : Position : < -1033.26 57.7188 -33233.7 >
-05:19:49.328 : ui t console:system_02
-05:19:50.310 : goto vicenza
-05:19:53.294 : ui t console:system_02
-05:19:53.398 : Position : < 3032.82 75.1328 29533.5 >
-05:19:53.978 : ui t console:system_02
-05:19:55.128 : goto viitasaari
-05:19:58.111 : ui t console:system_02
-05:19:58.213 : Position : < 44214.6 109.898 -72353.1 >
-05:19:58.928 : ui t console:system_02
-05:19:59.711 : goto vik
-05:20:02.695 : ui t console:system_02
-05:20:02.797 : Position : < -86702.3 65.4219 -89729.3 >
-05:20:03.162 : ui t console:system_02
-05:20:04.145 : goto vilnius
-05:20:04.153 : <ERROR> City 'vilnius' not found!
-05:20:07.129 : ui t console:system_02
-05:20:07.230 : Position : < -86702.3 65.4219 -89729.3 >
-05:20:07.796 : ui t console:system_02
-05:20:08.896 : goto vinnytsia
-05:20:08.906 : <ERROR> City 'vinnytsia' not found!
-05:20:11.896 : ui t console:system_02
-05:20:11.998 : Position : < -86702.3 65.4219 -89729.3 >
-05:20:12.663 : ui t console:system_02
-05:20:13.546 : goto viseu
-05:20:13.555 : <ERROR> City 'viseu' not found!
-05:20:16.530 : ui t console:system_02
-05:20:16.631 : Position : < -86702.3 65.4219 -89729.3 >
-05:20:17.131 : ui t console:system_02
-05:20:18.114 : goto vitebsk
-05:20:21.099 : ui t console:system_02
-05:20:21.201 : Position : < 65443.4 57.4766 -32173.2 >
-05:20:21.764 : ui t console:system_02
-05:20:22.747 : goto vitoria
-05:20:22.754 : <ERROR> City 'vitoria' not found!
-05:20:25.731 : ui t console:system_02
-05:20:25.850 : Position : < 65443.4 57.4766 -32173.2 >
-05:20:26.398 : ui t console:system_02
-05:20:27.481 : goto volochyok
-05:20:30.482 : ui t console:system_02
-05:20:30.584 : Position : < 75473.5 75.5391 -46654.9 >
-05:20:31.249 : ui t console:system_02
-05:20:32.432 : goto volokolamsk
-05:20:35.416 : ui t console:system_02
-05:20:35.517 : Position : < 82679.4 70.2461 -40014.5 >
-05:20:36.283 : ui t console:system_02
-05:20:37.316 : goto voronezh
-05:20:40.300 : ui t console:system_02
-05:20:40.401 : Position : < 102488 93.0898 -19897.4 >
-05:20:41.017 : ui t console:system_02
-05:20:41.950 : goto vyazma
-05:20:44.934 : ui t console:system_02
-05:20:45.036 : Position : < 78418.8 43.2266 -33964.8 >
-05:20:45.534 : ui t console:system_02
-05:20:46.500 : goto vyborg
-05:20:49.484 : ui t console:system_02
-05:20:49.586 : Position : < 55014 101.477 -59566.4 >
-05:20:50.118 : ui t console:system_02
-05:20:51.201 : goto waterford
-05:20:51.207 : <ERROR> City 'waterford' not found!
-05:20:54.185 : ui t console:system_02
-05:20:54.305 : Position : < 55014 101.477 -59566.4 >
-05:20:54.985 : ui t console:system_02
-05:20:56.085 : goto wejherowo
-05:20:56.093 : <ERROR> City 'wejherowo' not found!
-05:20:59.069 : ui t console:system_02
-05:20:59.170 : Position : < 55014 101.477 -59566.4 >
-05:20:59.835 : ui t console:system_02
-05:21:00.669 : goto wick
-05:21:03.653 : ui t console:system_02
-05:21:03.754 : Position : < -39662.3 112.898 -64980.1 >
-05:21:04.153 : ui t console:system_02
-05:21:05.136 : goto yukhnov
-05:21:08.120 : ui t console:system_02
-05:21:08.223 : Position : < 80491.7 52.1523 -30929.9 >
-05:21:08.787 : ui t console:system_02
-05:21:09.737 : goto zagreb
-05:21:09.743 : <ERROR> City 'zagreb' not found!
-05:21:12.720 : ui t console:system_02
-05:21:12.822 : Position : < 80491.7 52.1523 -30929.9 >
-05:21:13.337 : ui t console:system_02
-05:21:14.287 : goto zamosc
-05:21:14.911 : <ERROR> [traffic] Unable to determine road lane 1 for road item (0x30DB30243400042). Please check prefab<->road connection.
-05:21:14.911 : <ERROR> [traffic] Unable to determine road lane 1 for road item (0x30DB30243400042). Please check prefab<->road connection.
-05:21:17.271 : ui t console:system_02
-05:21:17.373 : Position : < 46167.3 135.504 -1538.1 >
-05:21:17.888 : ui t console:system_02
-05:21:18.821 : goto zgierz
-05:21:18.828 : <ERROR> City 'zgierz' not found!
-05:21:21.673 : Creating save-game file (/home/profiles/4B6F656E2054534D/save/autosave_drive/game.sii) ...
-05:21:21.803 : Game has been auto-saved.
-05:21:21.810 : ui t console:system_02
-05:21:21.907 : Position : < 46167.3 135.504 -1538.1 >
-05:21:22.405 : ui t console:system_02
-05:21:23.438 : goto zhytomyr
-05:21:23.446 : <ERROR> City 'zhytomyr' not found!
-05:21:26.422 : ui t console:system_02
-05:21:26.524 : Position : < 46167.3 135.504 -1538.1 >
-05:21:27.139 : ui t console:system_02
-05:21:28.072 : goto zwolle
-05:21:31.056 : ui t console:system_02
-05:21:31.179 : Position : < -14526 105.766 -12292.1 >
+ aalborg ; [13/03/2016  19:24] (sec+0000-0009);855.258;46.6875;-35995.1
+ aarhus ; [13/03/2016  19:24] (sec+0000-0008);1808.59;37.4844;-30744.9
+ akranes ; [13/03/2016  19:24] (sec-0023-0026);-91465;61.9805;-101511
+ akureyri ; [13/03/2016  19:24] (sec-0020-0026);-77145.7;70.7461;-101575
+ ancona ; [13/03/2016  19:24] (sec-0020-0026);-77145.7;70.7461;-101575
+ andorra ; [13/03/2016  19:24] (sec-0010+0010);-39815.9;140.875;42009.7
+ angers ; [13/03/2016  19:24] (sec-0011+0003);-43531.5;64;12968.1
+ antwerp ; [13/03/2016  19:24] (sec-0006-0002);-21215.1;82;-5293.52
+ arad ; [13/03/2016  19:24] (sec+0010+0006);41265.9;126.992;24603.7
+ aranda ; [13/03/2016  19:24] (sec+0009-0022);37318.5;99.9023;-86889.9
+ arnhem ; [13/03/2016  19:24] (sec+0009-0022);37318.5;99.9023;-86889.9
+ athina ; [13/03/2016  19:24] (sec+0009-0022);37318.5;99.9023;-86889.9
+ babruysk ; [13/03/2016  19:24] (sec+0016-0005);64394.4;60.5742;-18096.8
+ bacau ; [13/03/2016  19:25] (sec+0015+0005);62751.6;127.434;20434.6
+ bado ; [13/03/2016  19:25] (sec-0002-0003);-5724.91;99.8438;-9493.73
+ baiamare ; [13/03/2016  19:25] (sec+0012+0003);49264.7;130;15764.6
+ balti ; [13/03/2016  19:25] (sec+0016+0003);65823.7;120;12512
+ baranovichi ; [13/03/2016  19:25] (sec+0013-0005);54554.7;64.0586;-16169.5
+ barcelona ; [13/03/2016  19:25] (sec+0013-0005);54554.7;64.0586;-16169.5
+ basel ; [13/03/2016  19:25] (sec-0003+0004);-11649.5;107.949;17001.7
+ bayonne ; [13/03/2016  19:25] (sec-0014+0008);-52014.3;64.1016;33499
+ bbiala ; [13/03/2016  19:25] (sec+0007+0001);31289;150.082;5747.38
+ belfast ; [13/03/2016  19:25] (sec+0007+0001);31289;150.082;5747.38
+ bergen ; [13/03/2016  19:25] (sec-0003-0014);-10371.6;52.6406;-55777.6
+ bielskpdl ; [13/03/2016  19:25] (sec-0003-0014);-10371.6;52.6406;-55777.6
+ bilbao ; [13/03/2016  19:25] (sec-0003-0014);-10371.6;52.6406;-55777.6
+ blonduos ; [13/03/2016  19:26] (sec-0021-0027);-82233.6;61.9805;-104774
+ bobolice ; [13/03/2016  19:26] (sec-0021-0027);-82233.6;61.9805;-104774
+ bologna ; [13/03/2016  19:26] (sec+0000+0008);1914.67;80.3516;35291
+ bor ; [13/03/2016  19:26] (sec-0012+0006);-47905.3;62;27492.5
+ borde ; [13/03/2016  19:26] (sec-0012+0006);-47905.3;62;27492.5
+ borgarnes ; [13/03/2016  19:26] (sec-0023-0026);-89285.6;79.3555;-102462
+ borlange ; [13/03/2016  19:26] (sec-0023-0026);-89285.6;79.3555;-102462
+ brect ; [13/03/2016  19:26] (sec+0011-0003);46698.6;103.68;-9542.98
+ brest ; [13/03/2016  19:26] (sec+0011-0003);46698.6;103.68;-9542.98
+ bryansk ; [13/03/2016  19:26] (sec+0020-0006);82100;61.7188;-22682.4
+ bucuresti ; [13/03/2016  19:26] (sec+0015+0008);61238.3;127.949;32579
+ budejovice ; [13/03/2016  19:26] (sec+0015+0008);61238.3;127.949;32579
+ burg ; [13/03/2016  19:26] (sec+0001-0006);4095.55;55.3281;-21142.2
+ burgos ; [13/03/2016  19:27] (sec+0001-0006);4095.55;55.3281;-21142.2
+ busko ; [13/03/2016  19:27] (sec+0001-0006);4095.55;55.3281;-21142.2
+ bydgoszcz ; [13/03/2016  19:27] (sec+0006-0004);26440.3;110.004;-13850.1
+ cadiz ; [13/03/2016  19:27] (sec+0006-0004);26440.3;110.004;-13850.1
+ caen ; [13/03/2016  19:27] (sec-0011+0000);-40904.6;54.5;3042.14
+ calais ; [13/03/2016  19:27] (sec-0008-0002);-30243;92.2344;-4985.64
+ carlisle ; [13/03/2016  19:27] (sec-0012-0010);-45889.2;153;-39573.5
+ charleroi ; [13/03/2016  19:27] (sec-0012-0010);-45889.2;153;-39573.5
+ chelmsford ; [13/03/2016  19:27] (sec-0010-0004);-36472.1;98.1016;-12878.6
+ cherb ; [13/03/2016  19:27] (sec-0012-0001);-45091.8;52.5352;-447.961
+ chernivtsi ; [13/03/2016  19:27] (sec-0012-0001);-45091.8;52.5352;-447.961
+ chisinau ; [13/03/2016  19:27] (sec+0017+0004);70134.7;120;16235.3
+ cieszyn ; [13/03/2016  19:27] (sec+0007+0001);29295.3;128.898;6348.3
+ clerm ; [13/03/2016  19:28] (sec+0007+0001);29295.3;128.898;6348.3
+ cluj ; [13/03/2016  19:28] (sec+0012+0005);49554.8;120;20421.1
+ coimbra ; [13/03/2016  19:28] (sec+0012+0005);49554.8;120;20421.1
+ constanta ; [13/03/2016  19:28] (sec+0017+0008);71837.5;120;32816.9
+ cork ; [13/03/2016  19:28] (sec+0017+0008);71837.5;120;32816.9
+ craiova ; [13/03/2016  19:28] (sec+0013+0008);52254.7;120;34444.2
+ croydon ; [13/03/2016  19:28] (sec-0010-0003);-39570.6;152.719;-10454.6
+ czluchow ; [13/03/2016  19:28] (sec-0010-0003);-39570.6;152.719;-10454.6
+ daugavpils ; [13/03/2016  19:28] (sec-0010-0003);-39570.6;152.719;-10454.6
+ dijon ; [13/03/2016  19:28] (sec-0006+0004);-22312;97.3984;16721.5
+ douglas ; [13/03/2016  19:28] (sec-0014+0008);-53789.7;62.7109;34870.4
+ dover ; [13/03/2016  19:28] (sec-0009-0002);-33321.9;99.3984;-7884.36
+ dublin ; [13/03/2016  19:29] (sec-0009-0002);-33321.9;99.3984;-7884.36
+ duisburg ; [13/03/2016  19:29] (sec-0004-0002);-12913.6;50;-6170.93
+ dziwnowek ; [13/03/2016  19:29] (sec-0004-0002);-12913.6;50;-6170.93
+ eindhoven ; [13/03/2016  19:29] (sec-0004-0002);-12913.6;50;-6170.93
+ esbjerg ; [13/03/2016  19:29] (sec-0002-0007);-4699.43;69.6875;-27555.9
+ europoort ; [13/03/2016  19:29] (sec-0006-0003);-21791.1;78.5234;-8987.42
+ evora ; [13/03/2016  19:29] (sec-0006-0003);-21791.1;78.5234;-8987.42
+ falun ; [13/03/2016  19:29] (sec-0006-0003);-21791.1;78.5234;-8987.42
+ felixstowe ; [13/03/2016  19:29] (sec-0008-0004);-31664.6;101.398;-13837.2
+ firenze ; [13/03/2016  19:29] (sec-0008-0004);-31664.6;101.398;-13837.2
+ fjardabyggd ; [13/03/2016  19:29] (sec-0008-0004);-31664.6;101.398;-13837.2
+ flensburg ; [13/03/2016  19:29] (sec-0001-0006);-780.336;50.293;-22997.3
+ frederikshv ; [13/03/2016  19:29] (sec+0000-0010);2711.7;46.6875;-38141.5
+ ftwilliam ; [13/03/2016  19:30] (sec-0013-0015);-50854.3;115.898;-56132.7
+ funchal ; [13/03/2016  19:30] (sec-0013-0015);-50854.3;115.898;-56132.7
+ galway ; [13/03/2016  19:30] (sec-0013-0015);-50854.3;115.898;-56132.7
+ gardermoen ; [13/03/2016  19:30] (sec-0013-0015);-50854.3;115.898;-56132.7
+ gavle ; [13/03/2016  19:30] (sec+0005-0014);23069.2;64.2813;-55929.9
+ gdynia ; [13/03/2016  19:30] (sec+0007-0006);28154.4;124.887;-22045.9
+ gedser ; [13/03/2016  19:30] (sec+0001-0006);6271.11;52.3789;-22000.3
+ geilo ; [13/03/2016  19:30] (sec+0001-0006);6271.11;52.3789;-22000.3
+ genova ; [13/03/2016  19:30] (sec-0002+0008);-7493.95;102.129;35487.7
+ gizycko ; [13/03/2016  19:30] (sec-0002+0008);-7493.95;102.129;35487.7
+ gorzow ; [13/03/2016  19:30] (sec+0004-0003);17502.4;100.926;-11074.3
+ goteborg ; [13/03/2016  19:30] (sec+0001-0011);7235.89;73.875;-40227.5
+ grimsby ; [13/03/2016  19:31] (sec-0010-0007);-36117.9;124.66;-26575.2
+ groedig ; [13/03/2016  19:31] (sec+0002+0004);8008.66;103.914;16688.1
+ grudziadz ; [13/03/2016  19:31] (sec+0007-0005);31238;81.1992;-16550.4
+ gudalajara ; [13/03/2016  19:31] (sec+0007-0005);31238;81.1992;-16550.4
+ hameenlinna ; [13/03/2016  19:31] (sec+0010-0015);42545.3;106.004;-59899.2
+ haparanda ; [13/03/2016  19:31] (sec+0009-0022);37318.5;99.9023;-86889.9
+ harwich ; [13/03/2016  19:31] (sec+0009-0022);37318.5;99.9023;-86889.9
+ havre ; [13/03/2016  19:31] (sec-0010+0000);-38340.7;52;1479.85
+ helsingborg ; [13/03/2016  19:31] (sec+0002-0008);9405.2;66.1016;-29882.4
+ helsinki ; [13/03/2016  19:31] (sec+0011-0014);44357.5;137.906;-55531.1
+ herning ; [13/03/2016  19:31] (sec-0001-0008);-3455.63;50.0469;-30797
+ heysham ; [13/03/2016  19:31] (sec-0001-0008);-3455.63;50.0469;-30797
+ hirtshals ; [13/03/2016  19:32] (sec+0000-0010);1425.47;54.4688;-38873.3
+ hofn ; [13/03/2016  19:32] (sec-0019-0023);-73990.5;50;-88514.8
+ holmavik ; [13/03/2016  19:32] (sec-0022-0027);-84765.7;77.4609;-106902
+ holstebro ; [13/03/2016  19:32] (sec-0001-0009);-3816.61;57.25;-32659.8
+ honefoss ; [13/03/2016  19:32] (sec-0001-0009);-3816.61;57.25;-32659.8
+ hrkr ; [13/03/2016  19:32] (sec-0001-0009);-3816.61;57.25;-32659.8
+ hull ; [13/03/2016  19:32] (sec-0009-0008);-35543.9;121.809;-29239.1
+ iisalmi ; [13/03/2016  19:32] (sec-0009-0008);-35543.9;121.809;-29239.1
+ ijmuiden ; [13/03/2016  19:32] (sec-0005-0004);-19700.3;75.3477;-12077.1
+ ilza ; [13/03/2016  19:32] (sec-0005-0004);-19700.3;75.3477;-12077.1
+ inverness ; [13/03/2016  19:32] (sec-0012-0015);-46444.2;115.898;-59141.8
+ irun ; [13/03/2016  19:32] (sec-0014+0008);-52624.1;64.875;35167.4
+ isafjordur ; [13/03/2016  19:32] (sec-0014+0008);-52624.1;64.875;35167.4
+ ivanofrank ; [13/03/2016  19:33] (sec-0014+0008);-52624.1;64.875;35167.4
+ janow ; [13/03/2016  19:33] (sec-0014+0008);-52624.1;64.875;35167.4
+ joensuu ; [13/03/2016  19:33] (sec+0013-0018);54766.7;112;-70556.7
+ jonkoping ; [13/03/2016  19:33] (sec+0003-0010);14177.3;70.543;-39575.6
+ jonquera ; [13/03/2016  19:33] (sec+0003-0010);14177.3;70.543;-39575.6
+ jyvaskyla ; [13/03/2016  19:33] (sec+0011-0017);44157.9;106.805;-67666.3
+ kajaani ; [13/03/2016  19:33] (sec+0011-0017);44157.9;106.805;-67666.3
+ kalmar ; [13/03/2016  19:33] (sec+0005-0009);20559.5;70.3945;-33634.5
+ kaluga ; [13/03/2016  19:33] (sec+0021-0008);86328.6;67.8984;-31348.2
+ kamianets ; [13/03/2016  19:33] (sec+0021-0008);86328.6;67.8984;-31348.2
+ karlskrona ; [13/03/2016  19:33] (sec+0004-0008);17145.6;46.6875;-30862.4
+ karlstad ; [13/03/2016  19:33] (sec+0003-0013);12989.8;60.5;-48643.2
+ karsamaki ; [13/03/2016  19:33] (sec+0010-0020);43370.3;100.133;-77032.8
+ kaunas ; [13/03/2016  19:34] (sec+0011-0007);45413.9;104;-24878.1
+ keflavik ; [13/03/2016  19:34] (sec-0024-0025);-94118.3;57.3203;-98004
+ kemi ; [13/03/2016  19:34] (sec+0010-0022);40102.5;105.012;-85560.6
+ khmelnytskyi ; [13/03/2016  19:34] (sec+0010-0022);40102.5;105.012;-85560.6
+ kholm ; [13/03/2016  19:34] (sec+0016-0011);67228.7;57.25;-42842.4
+ kielce ; [13/03/2016  19:34] (sec+0009-0001);36896.1;116.113;-1011.63
+ kiruna ; [13/03/2016  19:34] (sec+0009-0001);36896.1;116.113;-1011.63
+ klagenfurt ; [13/03/2016  19:34] (sec+0003+0005);14001.3;49.6523;23027.6
+ klaipeda ; [13/03/2016  19:34] (sec+0003+0005);14001.3;49.6523;23027.6
+ klaksvik ; [13/03/2016  19:34] (sec-0013-0021);-49964;59.8984;-83155.7
+ klin ; [13/03/2016  19:34] (sec+0021-0011);84401.6;57.4492;-42236.8
+ kobenhavn ; [13/03/2016  19:34] (sec+0002-0008);8100.74;58.7266;-28097.8
+ kokkola ; [13/03/2016  19:34] (sec+0002-0008);8100.74;58.7266;-28097.8
+ kolding ; [13/03/2016  19:35] (sec+0002-0008);8100.74;58.7266;-28097.8
+ korosten ; [13/03/2016  19:35] (sec+0002-0008);8100.74;58.7266;-28097.8
+ koszalin ; [13/03/2016  19:35] (sec+0005-0005);20313.1;125.449;-19445.3
+ kouvola ; [13/03/2016  19:35] (sec+0005-0005);20313.1;125.449;-19445.3
+ kovel ; [13/03/2016  19:35] (sec+0005-0005);20313.1;125.449;-19445.3
+ krafla ; [13/03/2016  19:35] (sec-0019-0025);-72508.4;96.1875;-99684.3
+ kristiansand ; [13/03/2016  19:35] (sec-0002-0011);-4638.28;58;-42891.5
+ kristianstad ; [13/03/2016  19:35] (sec+0003-0008);13704.1;55.0781;-29967.9
+ krosno ; [13/03/2016  19:35] (sec+0010+0001);40842.8;176.02;4645.48
+ kuopio ; [13/03/2016  19:35] (sec+0012-0019);48984.6;106.898;-72219.8
+ kursk ; [13/03/2016  19:35] (sec+0022-0005);91396.1;74.1797;-16073.8
+ kuusamo ; [13/03/2016  19:35] (sec+0022-0005);91396.1;74.1797;-16073.8
+ kyiv ; [13/03/2016  19:35] (sec+0022-0005);91396.1;74.1797;-16073.8
+ lahti ; [13/03/2016  19:36] (sec+0011-0016);45112.6;104.199;-60580.5
+ lappeenranta ; [13/03/2016  19:36] (sec+0011-0016);45112.6;104.199;-60580.5
+ laspezia ; [13/03/2016  19:36] (sec+0011-0016);45112.6;104.199;-60580.5
+ lebork ; [13/03/2016  19:36] (sec+0011-0016);45112.6;104.199;-60580.5
+ lellinge ; [13/03/2016  19:36] (sec+0011-0016);45112.6;104.199;-60580.5
+ liege ; [13/03/2016  19:36] (sec-0005-0001);-17181.5;108.012;-1231.25
+ liepaja ; [13/03/2016  19:36] (sec-0005-0001);-17181.5;108.012;-1231.25
+ lille ; [13/03/2016  19:36] (sec-0007-0001);-26495.9;92.6211;-2483.4
+ limerick ; [13/03/2016  19:36] (sec-0007-0001);-26495.9;92.6211;-2483.4
+ limoges ; [13/03/2016  19:36] (sec-0010+0005);-38531.9;97.4023;22567.9
+ linkoping ; [13/03/2016  19:36] (sec+0004-0011);18586.1;61;-43325.2
+ lisboa ; [13/03/2016  19:36] (sec+0004-0011);18586.1;61;-43325.2
+ lisburn ; [13/03/2016  19:36] (sec+0004-0011);18586.1;61;-43325.2
+ livorno ; [13/03/2016  19:37] (sec+0004-0011);18586.1;61;-43325.2
+ ljubljana ; [13/03/2016  19:37] (sec+0003+0006);14709.9;96.9883;26484
+ lleida ; [13/03/2016  19:37] (sec+0003+0006);14709.9;96.9883;26484
+ lomza ; [13/03/2016  19:37] (sec+0003+0006);14709.9;96.9883;26484
+ longyearbyen ; [13/03/2016  19:37] (sec+0003+0006);14709.9;96.9883;26484
+ lorient ; [13/03/2016  19:37] (sec-0014+0002);-54828.6;62;8687.19
+ luga ; [13/03/2016  19:37] (sec+0014-0013);59757.7;91.0195;-50098.2
+ luki ; [13/03/2016  19:37] (sec+0016-0010);65110.6;47.0703;-37441.8
+ lulea ; [13/03/2016  19:37] (sec+0016-0010);65110.6;47.0703;-37441.8
+ lutsk ; [13/03/2016  19:37] (sec+0014-0005);59477.4;55.1211;-16285.8
+ luxembourg ; [13/03/2016  19:37] (sec-0005+0001);-16134.2;152.621;4382.97
+ lviv ; [13/03/2016  19:37] (sec-0005+0001);-16134.2;152.621;4382.97
+ lyon ; [13/03/2016  19:37] (sec-0006+0006);-23869.8;139.359;25892.3
+ maidstone ; [13/03/2016  19:38] (sec-0006+0006);-23869.8;139.359;25892.3
+ malmo ; [13/03/2016  19:38] (sec+0002-0007);10744.9;66.3398;-27481.2
+ malmo ; [13/03/2016  19:38] (sec+0002-0007);10744.9;66.3398;-27481.2
+ manresa ; [13/03/2016  19:38] (sec+0002-0007);10744.9;66.3398;-27481.2
+ mans ; [13/03/2016  19:38] (sec-0011+0002);-40038.6;76;10523.9
+ maribor ; [13/03/2016  19:38] (sec+0004+0006);18319.2;79.1992;24176.3
+ marse ; [13/03/2016  19:38] (sec+0004+0006);18319.2;79.1992;24176.3
+ metz ; [13/03/2016  19:38] (sec-0005+0001);-16294.5;104.516;7463.71
+ miedzyzdroje ; [13/03/2016  19:38] (sec-0005+0001);-16294.5;104.516;7463.71
+ mikkeli ; [13/03/2016  19:38] (sec+0012-0017);49304.6;111.875;-65111
+ mikolajki ; [13/03/2016  19:38] (sec+0012-0017);49304.6;111.875;-65111
+ minsk ; [13/03/2016  19:38] (sec+0014-0006);58358.6;31.0117;-22095.2
+ modena ; [13/03/2016  19:38] (sec+0000+0008);662.281;82.9961;34036.3
+ mogilev ; [13/03/2016  19:39] (sec+0016-0006);67307.6;39.5039;-23216.2
+ montp ; [13/03/2016  19:39] (sec+0016-0006);67307.6;39.5039;-23216.2
+ moscow ; [13/03/2016  19:39] (sec+0022-0010);88533.5;46.5;-39575.5
+ moskushamn ; [13/03/2016  19:39] (sec+0022-0010);88533.5;46.5;-39575.5
+ mozir ; [13/03/2016  19:39] (sec+0016-0004);65983;53.5898;-12548.9
+ mstislavl ; [13/03/2016  19:39] (sec+0017-0007);71206.8;65.4023;-26136.8
+ mukacheve ; [13/03/2016  19:39] (sec+0011+0002);45497.1;124.898;11834.6
+ nantes ; [13/03/2016  19:39] (sec-0012+0003);-47921.5;54;13123.5
+ napapiiri ; [13/03/2016  19:39] (sec+0010-0024);41580.4;120;-92240.3
+ narva ; [13/03/2016  19:39] (sec+0013-0014);54064.4;68.1758;-52405.2
+ nevel ; [13/03/2016  19:39] (sec+0015-0009);63689.5;44.1406;-35678.8
+ nice ; [13/03/2016  19:39] (sec+0015-0009);63689.5;44.1406;-35678.8
+ novgorod ; [13/03/2016  19:39] (sec+0016-0013);65052.4;85.5625;-49111.5
+ novohradvol ; [13/03/2016  19:40] (sec+0016-0013);65052.4;85.5625;-49111.5
+ novovolynsk ; [13/03/2016  19:40] (sec+0016-0013);65052.4;85.5625;-49111.5
+ nowogard ; [13/03/2016  19:40] (sec+0004-0005);17888.8;98.0313;-16557.9
+ nynashamn ; [13/03/2016  19:40] (sec+0006-0012);26448.2;62.6484;-46165.7
+ oban ; [13/03/2016  19:40] (sec-0014-0014);-53420.4;111.898;-53500.1
+ oberhausen ; [13/03/2016  19:40] (sec-0003-0002);-11793.2;93.957;-5322.95
+ obninsk ; [13/03/2016  19:40] (sec+0021-0009);85332.9;66.6289;-35073.1
+ odda ; [13/03/2016  19:40] (sec+0021-0009);85332.9;66.6289;-35073.1
+ odense ; [13/03/2016  19:40] (sec+0000-0007);1617.69;69.9023;-26700.4
+ odessa ; [13/03/2016  19:40] (sec+0000-0007);1617.69;69.9023;-26700.4
+ olafsvik ; [13/03/2016  19:40] (sec+0000-0007);1617.69;69.9023;-26700.4
+ olbia ; [13/03/2016  19:40] (sec+0000-0007);1617.69;69.9023;-26700.4
+ opole ; [13/03/2016  19:41] (sec+0006-0001);27536.9;139.586;-679.391
+ oradea ; [13/03/2016  19:41] (sec+0010+0004);43493.9;120;19439.1
+ orebro ; [13/03/2016  19:41] (sec+0004-0013);17087.8;62;-48374.7
+ orel ; [13/03/2016  19:41] (sec+0021-0006);87658.2;61.8633;-23228
+ orlea ; [13/03/2016  19:41] (sec-0009+0002);-33526.4;78.9414;11781.6
+ ornskoldsvik ; [13/03/2016  19:41] (sec-0009+0002);-33526.4;78.9414;11781.6
+ orsha ; [13/03/2016  19:41] (sec+0016-0007);67891.2;40.5039;-26320.7
+ oslo ; [13/03/2016  19:41] (sec+0001-0014);4390.91;52.5117;-53410.5
+ ostashkov ; [13/03/2016  19:41] (sec+0017-0012);71691.7;67.3633;-44016.8
+ ostersund ; [13/03/2016  19:41] (sec+0017-0012);71691.7;67.3633;-44016.8
+ ostroleka ; [13/03/2016  19:41] (sec+0009-0004);38890.4;95.2539;-14259.3
+ oulu ; [13/03/2016  19:41] (sec+0010-0021);40906.9;98;-81971.1
+ padborg ; [13/03/2016  19:41] (sec-0001-0007);-1608.62;55.5469;-24340.2
+ pamplona ; [13/03/2016  19:42] (sec-0001-0007);-1608.62;55.5469;-24340.2
+ panevezys ; [13/03/2016  19:42] (sec+0011-0008);46296.1;111.961;-30215.8
+ paris ; [13/03/2016  19:42] (sec-0008+0001);-30494.9;92.6211;6998.41
+ parma ; [13/03/2016  19:42] (sec-0001+0008);-2194.13;81.6328;32558.9
+ parnu ; [13/03/2016  19:42] (sec+0011-0012);44787.3;74.5859;-44526.4
+ pau ; [13/03/2016  19:42] (sec-0012+0009);-47944.2;111.109;36082.7
+ perpi ; [13/03/2016  19:42] (sec-0012+0009);-47944.2;111.109;36082.7
+ peterburg ; [13/03/2016  19:42] (sec+0015-0015);60356.8;96.6836;-56936
+ piatra ; [13/03/2016  19:42] (sec+0014+0004);59568.8;120;17749.3
+ pila ; [13/03/2016  19:42] (sec+0005-0004);21276.1;86.2734;-14380.2
+ pinsk ; [13/03/2016  19:42] (sec+0013-0003);55678.1;62.3516;-10592.7
+ plock ; [13/03/2016  19:42] (sec+0008-0003);32370.5;90.1992;-10795.9
+ plymouth ; [13/03/2016  19:42] (sec-0016-0002);-60041.4;101.398;-7882.32
+ plzen ; [13/03/2016  19:42] (sec-0016-0002);-60041.4;101.398;-7882.32
+ poitiers ; [13/03/2016  19:43] (sec-0011+0004);-41108;90.1406;18442.8
+ pori ; [13/03/2016  19:43] (sec+0008-0016);34896.6;109.898;-61757.5
+ porkhov ; [13/03/2016  19:43] (sec+0015-0012);60948.5;72.5273;-44020.6
+ portimao ; [13/03/2016  19:43] (sec+0015-0012);60948.5;72.5273;-44020.6
+ porto ; [13/03/2016  19:43] (sec+0015-0012);60948.5;72.5273;-44020.6
+ portsmouth ; [13/03/2016  19:43] (sec-0011-0002);-43034.2;121.809;-5752.09
+ porvoo ; [13/03/2016  19:43] (sec+0011-0015);47431.8;107.949;-57017.7
+ przemysl ; [13/03/2016  19:43] (sec+0011+0000);44638.9;110.391;3969.67
+ pskov ; [13/03/2016  19:43] (sec+0014-0011);56542.8;71.1953;-43761.7
+ puttgarden ; [13/03/2016  19:43] (sec+0001-0006);4001.17;43.8906;-21612.7
+ radom ; [13/03/2016  19:43] (sec+0009-0002);38543.6;115.695;-4837.94
+ ramsey ; [13/03/2016  19:43] (sec+0009-0002);38543.6;115.695;-4837.94
+ reda ; [13/03/2016  19:43] (sec+0009-0002);38543.6;115.695;-4837.94
+ reims ; [13/03/2016  19:44] (sec-0007+0001);-24021.9;96.3086;5799.34
+ renne ; [13/03/2016  19:44] (sec-0013+0002);-48307.4;63.7969;8223.08
+ reydar ; [13/03/2016  19:44] (sec-0018-0024);-69235.1;50;-92368.9
+ reydarfjordur ; [13/03/2016  19:44] (sec-0018-0024);-69235.1;50;-92368.9
+ reykjanes ; [13/03/2016  19:44] (sec-0018-0024);-69235.1;50;-92368.9
+ reykjavik ; [13/03/2016  19:44] (sec-0023-0025);-90723.9;57.3203;-98482.6
+ rezekne ; [13/03/2016  19:44] (sec-0023-0025);-90723.9;57.3203;-98482.6
+ rgev ; [13/03/2016  19:44] (sec+0019-0010);77040.4;36.4648;-39807.6
+ riga ; [13/03/2016  19:44] (sec+0011-0010);44351.2;68.1758;-36490.8
+ rimini ; [13/03/2016  19:44] (sec+0011-0010);44351.2;68.1758;-36490.8
+ rivne ; [13/03/2016  19:44] (sec+0011-0010);44351.2;68.1758;-36490.8
+ rodbyhavn ; [13/03/2016  19:44] (sec+0001-0006);4378.43;49.1719;-22326.5
+ roslavl ; [13/03/2016  19:44] (sec+0019-0007);77169.5;61.0352;-25261.4
+ rouen ; [13/03/2016  19:45] (sec-0009+0000);-34886.4;57;2583.58
+ rovaniemi ; [13/03/2016  19:45] (sec+0010-0023);40795.2;104.375;-91202.9
+ rumia ; [13/03/2016  19:45] (sec+0010-0023);40795.2;104.375;-91202.9
+ ruse ; [13/03/2016  19:45] (sec+0015+0009);61661.9;120;36399.5
+ rzeszow ; [13/03/2016  19:45] (sec+0010+0000);42993.9;110.492;2919.09
+ saldus ; [13/03/2016  19:45] (sec+0010+0000);42993.9;110.492;2919.09
+ sanfernando ; [13/03/2016  19:45] (sec+0010+0000);42993.9;110.492;2919.09
+ sanok ; [13/03/2016  19:45] (sec+0010+0001);43027.8;153.367;5134.43
+ santarem ; [13/03/2016  19:45] (sec+0010+0001);43027.8;153.367;5134.43
+ satumare ; [13/03/2016  19:45] (sec+0010+0001);43027.8;153.367;5134.43
+ selfoss ; [13/03/2016  19:45] (sec-0023-0024);-89796.2;49.3047;-95809.1
+ sevilla ; [13/03/2016  19:45] (sec-0023-0024);-89796.2;49.3047;-95809.1
+ seydis ; [13/03/2016  19:45] (sec-0018-0024);-68112.5;46.3789;-93717.5
+ shlisselburg ; [13/03/2016  19:46] (sec+0016-0015);64110.6;113.523;-59343.8
+ siauliai ; [13/03/2016  19:46] (sec+0016-0015);64110.6;113.523;-59343.8
+ sibiu ; [13/03/2016  19:46] (sec+0013+0006);52251.6;132.074;26325.7
+ siedlce ; [13/03/2016  19:46] (sec+0013+0006);52251.6;132.074;26325.7
+ skelleftea ; [13/03/2016  19:46] (sec+0013+0006);52251.6;132.074;26325.7
+ skovde ; [13/03/2016  19:46] (sec+0013+0006);52251.6;132.074;26325.7
+ slavgorod ; [13/03/2016  19:46] (sec+0013+0006);52251.6;132.074;26325.7
+ sluck ; [13/03/2016  19:46] (sec+0014-0005);59477.4;55.1211;-16285.8
+ smolensk ; [13/03/2016  19:46] (sec+0018-0008);73118.6;34.2422;-29374.4
+ soderhamn ; [13/03/2016  19:46] (sec+0005-0015);21956.2;84.3828;-59633.3
+ sodertalje ; [13/03/2016  19:46] (sec+0005-0012);23525.2;50.9922;-46319.9
+ sopot ; [13/03/2016  19:46] (sec+0005-0012);23525.2;50.9922;-46319.9
+ stargard ; [13/03/2016  19:47] (sec+0005-0012);23525.2;50.9922;-46319.9
+ stavanger ; [13/03/2016  19:47] (sec-0003-0013);-10553.7;62.6094;-48126.8
+ stockholm ; [13/03/2016  19:47] (sec+0006-0012);24747.3;68.7656;-47131.9
+ strasbourg ; [13/03/2016  19:47] (sec-0003+0002);-10786.9;100;11198.7
+ stryi ; [13/03/2016  19:47] (sec-0003+0002);-10786.9;100;11198.7
+ strzelcekraj ; [13/03/2016  19:47] (sec-0003+0002);-10786.9;100;11198.7
+ sundsvall ; [13/03/2016  19:47] (sec+0005-0017);21950.3;84;-65749.8
+ suwalki ; [13/03/2016  19:47] (sec+0010-0006);43448.6;118.813;-21045.2
+ swansea ; [13/03/2016  19:47] (sec-0015-0005);-56896;71.3984;-16881.9
+ swinoujscie ; [13/03/2016  19:47] (sec+0003-0005);13488.7;145.68;-17184.3
+ szczecin ; [13/03/2016  19:47] (sec+0003-0004);14764.7;96.5508;-15366.7
+ tallinn ; [13/03/2016  19:47] (sec+0011-0013);44770.9;78.0703;-50731.6
+ tampere ; [13/03/2016  19:55] (sec+0010-0016);40069.1;137.168;-62656.5
+ tartu ; [13/03/2016  19:55] (sec+0012-0012);51198.6;72.8086;-46116.1
+ thurso ; [13/03/2016  19:55] (sec-0011-0017);-41731.6;111.898;-66122.4
+ timisoara ; [13/03/2016  19:48] (sec+0011-0013);44770.9;78.0703;-50731.6
+ tornio ; [13/03/2016  19:48] (sec+0009-0022);37743.5;99.9023;-86984.2
+ torrevieja ; [13/03/2016  19:48] (sec+0009-0022);37743.5;99.9023;-86984.2
+ torshavn ; [13/03/2016  19:48] (sec-0013-0021);-51298.5;59.8984;-81483.6
+ toulouse ; [13/03/2016  19:48] (sec-0010+0008);-39911.4;65;34605.3
+ tours ; [13/03/2016  19:48] (sec-0010+0003);-38487.6;75.3633;14301.3
+ trelleborg ; [13/03/2016  19:48] (sec+0002-0007);10808.3;55.3242;-25887
+ truckstope ; [13/03/2016  19:48] (sec+0002-0007);10808.3;55.3242;-25887
+ europabr ; [13/03/2016  19:49] (sec+0002-0007);10808.3;55.3242;-25887
+ tula ; [13/03/2016  19:49] (sec+0022-0009);91217.5;17.1016;-32713.7
+ turku ; [13/03/2016  19:56] (sec+0009-0015);36549;110.398;-56133.1
+ tver ; [13/03/2016  19:56] (sec+0020-0011);81110.4;39.7695;-43874.4
+ ulm ; [13/03/2016  19:49] (sec+0009-0015);36549;110.398;-56133.1
+ umea ; [13/03/2016  19:49] (sec+0009-0015);36549;110.398;-56133.1
+ uppsala ; [13/03/2016  19:49] (sec+0006-0013);24021.5;77.4219;-51634.5
+ uzhhorod ; [13/03/2016  19:49] (sec+0010+0002);43781;124.5;11200.1
+ vaasa ; [13/03/2016  19:49] (sec+0010+0002);43781;124.5;11200.1
+ vaduz ; [13/03/2016  19:49] (sec-0001+0004);-3865.21;93.3555;18906.6
+ valday ; [13/03/2016  19:49] (sec+0017-0013);70492.6;100.309;-49050
+ valga ; [13/03/2016  19:49] (sec+0012-0011);49770.1;68.3086;-42978.1
+ valka ; [13/03/2016  19:50] (sec+0012-0011);49463.9;68.3086;-42752.1
+ vantaa ; [13/03/2016  19:50] (sec+0011-0015);45004.3;117.699;-56661.7
+ varkaus ; [13/03/2016  19:50] (sec+0012-0018);50510.6;112.898;-68975.5
+ vasteraas ; [13/03/2016  19:50] (sec+0005-0013);20937.7;62.0859;-50468.3
+ vaxjo ; [13/03/2016  19:50] (sec+0004-0009);16044.4;82.3125;-34835.6
+ velig ; [13/03/2016  19:50] (sec+0017-0009);68466.5;38.4023;-34541.6
+ venezia ; [13/03/2016  19:50] (sec+0001+0007);5089.88;77.8789;30078.9
+ ventspils ; [13/03/2016  19:50] (sec+0009-0010);36547.4;59.9883;-37959.7
+ verona ; [13/03/2016  19:50] (sec+0000+0007);39.1094;78.4023;29453.3
+ viborg ; [13/03/2016  19:50] (sec-0001-0009);-1033.26;57.7188;-33233.7
+ vicenza ; [13/03/2016  19:50] (sec+0000+0007);3032.82;75.1328;29533.5
+ viitasaari ; [13/03/2016  19:50] (sec+0011-0019);44214.6;109.898;-72353.1
+ vik ; [13/03/2016  19:50] (sec-0022-0023);-86702.3;65.4219;-89729.3
+ vilnius ; [13/03/2016  19:51] (sec-0022-0023);-86702.3;65.4219;-89729.3
+ vinnytsia ; [13/03/2016  19:51] (sec-0022-0023);-86702.3;65.4219;-89729.3
+ viseu ; [13/03/2016  19:51] (sec-0022-0023);-86702.3;65.4219;-89729.3
+ vitebsk ; [13/03/2016  19:51] (sec+0016-0009);65443.4;57.4766;-32173.2
+ vitoria ; [13/03/2016  19:51] (sec+0016-0009);65443.4;57.4766;-32173.2
+ volochyok ; [13/03/2016  19:51] (sec+0018-0012);75473.5;75.5391;-46654.9
+ volokolamsk ; [13/03/2016  19:51] (sec+0020-0011);82679.4;70.2461;-40014.5
+ voronezh ; [13/03/2016  19:51] (sec+0025-0005);102488;93.0898;-19897.4
+ vyazma ; [13/03/2016  19:51] (sec+0019-0009);78418.8;43.2266;-33964.8
+ vyborg ; [13/03/2016  19:51] (sec+0013-0015);55014;101.477;-59566.4
+ waterford ; [13/03/2016  19:51] (sec+0013-0015);55014;101.477;-59566.4
+ wejherowo ; [13/03/2016  19:51] (sec+0013-0015);55014;101.477;-59566.4
+ wick ; [13/03/2016  19:51] (sec-0010-0017);-39662.3;112.898;-64980.1
+ yukhnov ; [13/03/2016  19:52] (sec+0020-0008);80491.7;52.1523;-30929.9
+ zagreb ; [13/03/2016  19:52] (sec+0020-0008);80491.7;52.1523;-30929.9
+ zamosc ; [13/03/2016  19:52] (sec+0011-0001);46167.3;135.504;-1538.1
+ zgierz ; [13/03/2016  19:52] (sec+0011-0001);46167.3;135.504;-1538.1
+ zhytomyr ; [13/03/2016  19:52] (sec+0011-0001);46167.3;135.504;-1538.1
+ zwolle ; [13/03/2016  19:52] (sec-0004-0004);-14526;105.766;-12292.1
