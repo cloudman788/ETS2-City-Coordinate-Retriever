@@ -97,6 +97,10 @@ namespace ETS2_Log_to_Coordinates
                         city.y = lineContentArray[3];
                         city.z = lineContentArray[4];
                         cities.citiesList.Add(city);
+
+                        previousX = city.z = lineContentArray[2];
+                        previousY = city.z = lineContentArray[3];
+                        previousZ = city.z = lineContentArray[4];
                     }
                     catch (Exception ex)
                     {
