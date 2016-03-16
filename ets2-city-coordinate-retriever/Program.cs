@@ -48,6 +48,7 @@ Once the operation is complete, all coordinates will be stored in:
             }
 
             string cityDirectory = ConfigurationManager.AppSettings["CityDirectory"];
+            double sleepMultiplier = double.Parse(ConfigurationManager.AppSettings["SleepMultiplier"]);
 
             string[] files = Directory.GetFiles(cityDirectory);
             int numberOfCities = files.Length;
@@ -61,8 +62,8 @@ Once the operation is complete, all coordinates will be stored in:
             {
                 //string cityName = Path.GetFileNameWithoutExtension(files[i]);
                 StreamReader read = new StreamReader(files[i]);
-                String output = read.ReadToEnd();
-                String[] outputArray = output.Split(new string[] { Environment.NewLine }, StringSplitOptions.None);
+                string output = read.ReadToEnd();
+                string[] outputArray = output.Split(new string[] { Environment.NewLine }, StringSplitOptions.None);
                 read.Close();
                 try
                 {
@@ -84,9 +85,9 @@ Once the operation is complete, all coordinates will be stored in:
                             }
 
                             Keyboard.KeyPress(Keys.Oemtilde);
-                            Thread.Sleep(250);
+                            Thread.Sleep((int)(250 * sleepMultiplier));
                             Keyboard.KeyPress(Keys.Back);
-                            Thread.Sleep(100);
+                            Thread.Sleep((int)(100 * sleepMultiplier));
                             Keyboard.KeyPress(Keys.G);
                             Thread.Sleep(50);
                             Keyboard.KeyPress(Keys.O);
@@ -107,11 +108,11 @@ Once the operation is complete, all coordinates will be stored in:
                                 }
                             }
                             Keyboard.KeyPress(Keys.Enter);
-                            Thread.Sleep(3000);
+                            Thread.Sleep((int)(3000 * sleepMultiplier));
                             Keyboard.KeyPress(Keys.Oemtilde);
-                            Thread.Sleep(100);
+                            Thread.Sleep((int)(100 * sleepMultiplier));
                             Keyboard.KeyPress(Keys.F11);
-                            Thread.Sleep(100);
+                            Thread.Sleep((int)(100 * sleepMultiplier));
                             foreach (char index in cityName)
                             {
                                 if (CityCharacters.Contains(index.ToString().ToUpper()))
@@ -122,7 +123,7 @@ Once the operation is complete, all coordinates will be stored in:
                                 }
                             }
                             Keyboard.KeyPress(Keys.Enter);
-                            Thread.Sleep(100);
+                            Thread.Sleep((int)(100 * sleepMultiplier));
                             if (!debugMode)
                             {
                                 DrawProgressBar(i + 1, numberOfCities, new decimal(.5)*Console.WindowWidth, '=', '-');
@@ -138,7 +139,7 @@ Once the operation is complete, all coordinates will be stored in:
                     {
                         Keyboard.KeyPress(Keys.Back);
                     }
-                    Thread.Sleep(1000);
+                    Thread.Sleep((int)(1000 * sleepMultiplier));
                 }
             }
 
