@@ -83,28 +83,29 @@ Once the operation is complete, all coordinates will be stored in:
                             {
                                 Console.WriteLine($"Processing city {cityName} ({i + 1} / {numberOfCities})");
                             }
+                            int keyPressTime = (int) (50*sleepMultiplier);
 
                             Keyboard.KeyPress(Keys.Oemtilde);
                             Thread.Sleep((int)(250 * sleepMultiplier));
                             Keyboard.KeyPress(Keys.Back);
                             Thread.Sleep((int)(100 * sleepMultiplier));
                             Keyboard.KeyPress(Keys.G);
-                            Thread.Sleep(50);
+                            Thread.Sleep(keyPressTime);
                             Keyboard.KeyPress(Keys.O);
-                            Thread.Sleep(50);
+                            Thread.Sleep(keyPressTime);
                             Keyboard.KeyPress(Keys.T);
-                            Thread.Sleep(50);
+                            Thread.Sleep(keyPressTime);
                             Keyboard.KeyPress(Keys.O);
-                            Thread.Sleep(50);
-                            Keyboard.KeyPress(Keys.Space, 10);
-                            Thread.Sleep(50);
+                            Thread.Sleep(keyPressTime);
+                            Keyboard.KeyPress(Keys.Space);
+                            Thread.Sleep(keyPressTime);
                             foreach (char index in cityName)
                             {
                                 if (CityCharacters.Contains(index.ToString().ToUpper()))
                                 {
                                     Keyboard.KeyPress(
                                         (Keys) System.Enum.Parse(typeof (Keys), index.ToString().ToUpper()));
-                                    Thread.Sleep(50);
+                                    Thread.Sleep(keyPressTime);
                                 }
                             }
                             Keyboard.KeyPress(Keys.Enter);
@@ -119,7 +120,7 @@ Once the operation is complete, all coordinates will be stored in:
                                 {
                                     Keyboard.KeyPress(
                                         (Keys)System.Enum.Parse(typeof(Keys), index.ToString().ToUpper()));
-                                    Thread.Sleep(50);
+                                    Thread.Sleep(keyPressTime);
                                 }
                             }
                             Keyboard.KeyPress(Keys.Enter);
