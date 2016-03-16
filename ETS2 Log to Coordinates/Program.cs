@@ -21,9 +21,14 @@ namespace ETS2_Log_to_Coordinates
 
         static void Main(string[] args)
         {
+            //Set two dictionaries, so we can later retrieve the real city name and country
             Dictionary<string, string> cityConversionTable = new Dictionary<string, string>();
+            Dictionary<string, string> cityCountryTable = new Dictionary<string, string>();
 
+            //Set city directory (def\city)
             string cityDirectory = ConfigurationManager.AppSettings["CityDirectory"];
+
+            //Find all files
             string[] files = Directory.GetFiles(cityDirectory);
             int numberOfCities = files.Length;
 
@@ -38,8 +43,10 @@ namespace ETS2_Log_to_Coordinates
                 {
                     string cityName = "";
                     string cityRealName = "";
+                    string country = "";
                     while ((line = readCity.ReadLine()) != null)
                     {
+                        //Check ingame city name
                         if (line.Trim().StartsWith("city_data: city."))
                         {
                             //int nameIndex = line.IndexOf("\"");
@@ -52,14 +59,22 @@ namespace ETS2_Log_to_Coordinates
                             }
                             cityName.Replace(" ", "");
                         }
+                        //Check real city name
                         if (line.TrimStart().StartsWith("city_name:"))
                         {
                             int nameIndex = line.IndexOf("\"");
                             cityRealName = line.Substring(nameIndex + 1,
                                 line.IndexOf("\"", nameIndex + 1) - nameIndex - 1);
                         }
+                        //Check country
+                        if (line.TrimStart().StartsWith("country:"))
+                        {
+                            country = line.Trim().Replace("country:", "");
+                        }
                     }
+                    //Add them to the dictionaries
                     cityConversionTable.Add(cityName, cityRealName);
+                    cityCountryTable.Add(cityName, country);
                     Console.WriteLine(cityName + " - " + cityRealName);
                 }
                 catch (Exception ex)
@@ -67,15 +82,17 @@ namespace ETS2_Log_to_Coordinates
                     Console.Write(ex.ToString());
                 }
             }
-
+            //Read log file
             string inputFile = ConfigurationManager.AppSettings["InputFile"];
             StreamReader read = new StreamReader(inputFile);
             string output = read.ReadToEnd();
             string[] outputArray = output.Split(new string[] { Environment.NewLine }, StringSplitOptions.None);
             read.Close();
 
+            //Initiate Cities object
             Cities cities = new Cities();
 
+            //Set previous location for double (non-existent) locations check
             string previousX = "";
             string previousY = "";
             string previousZ = "";
@@ -93,6 +110,7 @@ namespace ETS2_Log_to_Coordinates
                         City city = new City();
                         city.gameName = lineContentArray[0];
                         city.realName = cityConversionTable[lineContentArray[0]];
+                        city.country = cityCountryTable[lineContentArray[0]];
                         city.x = lineContentArray[2];
                         city.y = lineContentArray[3];
                         city.z = lineContentArray[4];
@@ -130,6 +148,8 @@ namespace ETS2_Log_to_Coordinates
     {
         public string gameName = "";
         public string realName = "";
+
+        public string country = "";
 
         public string x = "";
         public string y = "";
