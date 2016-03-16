@@ -69,7 +69,7 @@ namespace ETS2_Log_to_Coordinates
                         //Check country
                         if (line.TrimStart().StartsWith("country:"))
                         {
-                            country = line.Trim().Replace("country:", "");
+                            country = line.Trim().Replace("country: ", "");
                         }
                     }
                     //Add them to the dictionaries
