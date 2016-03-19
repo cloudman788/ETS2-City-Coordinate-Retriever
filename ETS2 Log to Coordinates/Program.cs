@@ -3,9 +3,11 @@ using System.Collections.Generic;
 using System.Linq;
 using System.Text;
 using System.Configuration;
+using System.Drawing;
 using System.IO;
 using System.Runtime.InteropServices;
 using System.Text.RegularExpressions;
+using System.Windows.Forms;
 using Newtonsoft.Json;
 
 namespace ETS2_Log_to_Coordinates
@@ -24,6 +26,8 @@ namespace ETS2_Log_to_Coordinates
             //Set two dictionaries, so we can later retrieve the real city name and country
             Dictionary<string, string> cityConversionTable = new Dictionary<string, string>();
             Dictionary<string, string> cityCountryTable = new Dictionary<string, string>();
+
+            ConflictSolver conflictSolver = new ConflictSolver();
 
             //Set city directory (def\city)
             string cityDirectory = ConfigurationManager.AppSettings["CityDirectory"];
@@ -91,6 +95,7 @@ namespace ETS2_Log_to_Coordinates
 
             //Initiate Cities object
             Cities cities = new Cities();
+            Cities citiesExport = new Cities();
 
             //Set previous location for double (non-existent) locations check
             string previousX = "";
@@ -99,34 +104,61 @@ namespace ETS2_Log_to_Coordinates
 
             foreach (string line in outputArray)
             {
-                string lineContent = line.Replace(" ", "");
-                string[] lineContentArray = lineContent.Split(new char[] { ';' });
-                if (
-                    !(lineContentArray[2] == previousX && lineContentArray[3] == previousY &&
-                      lineContentArray[4] == previousZ))
+                try
                 {
-                    try
-                    {
-                        City city = new City();
-                        city.gameName = lineContentArray[0];
-                        city.realName = cityConversionTable[lineContentArray[0]];
-                        city.country = cityCountryTable[lineContentArray[0]];
-                        city.x = lineContentArray[2];
-                        city.y = lineContentArray[3];
-                        city.z = lineContentArray[4];
-                        cities.citiesList.Add(city);
+                    string lineContent = line.Replace(" ", "");
+                    string[] lineContentArray = lineContent.Split(new char[] { ';' });
 
-                        previousX = city.z = lineContentArray[2];
-                        previousY = city.z = lineContentArray[3];
-                        previousZ = city.z = lineContentArray[4];
-                    }
-                    catch (Exception ex)
+                    City city = new City();
+                                        city.gameName = lineContentArray[0];
+                    city.realName = cityConversionTable[lineContentArray[0]];
+                    city.country = cityCountryTable[lineContentArray[0]];
+                    city.x = lineContentArray[2];
+                    city.y = lineContentArray[3];
+                    city.z = lineContentArray[4];
+                    cities.citiesList.Add(city);
+
+                    ListViewItem listViewItem = new ListViewItem(city.gameName);
+
+                    if (lineContentArray[2] == previousX && lineContentArray[3] == previousY &&
+                        lineContentArray[4] == previousZ)
                     {
-                        Console.WriteLine(ex.ToString());
+                        listViewItem.ForeColor = Color.Red;
                     }
+                    else
+                    {
+                        listViewItem.Checked = true;
+                    }
+                    listViewItem.SubItems.Add(city.realName);
+                    listViewItem.SubItems.Add(city.country);
+                    listViewItem.SubItems.Add(city.x);
+                    listViewItem.SubItems.Add(city.y);
+                    listViewItem.SubItems.Add(city.z);
+                    conflictSolver.listCities.Items.Add(listViewItem);
+
+                    previousX = city.z = lineContentArray[2];
+                    previousY = city.z = lineContentArray[3];
+                    previousZ = city.z = lineContentArray[4];
+                }
+                catch (Exception ex)
+                {
+                    Console.WriteLine(ex.ToString());
+                }
+
+            }
+            citiesExport.citiesList = cities.citiesList;
+
+            conflictSolver.ShowDialog();
+
+            foreach (City city in cities.citiesList.ToList())
+            {
+                if (conflictSolver.uncheckedCities.Contains(city.gameName))
+                {
+                    Console.WriteLine(city.gameName);
+                    citiesExport.citiesList.Remove(city);
                 }
             }
-            string jsonCitiesList = Newtonsoft.Json.JsonConvert.SerializeObject(cities, Formatting.Indented);
+            string jsonCitiesList = Newtonsoft.Json.JsonConvert.SerializeObject(citiesExport, Formatting.Indented);
             Console.Write(jsonCitiesList);
             string outputFile = ConfigurationManager.AppSettings["OutputFile"];
             StreamWriter write = new StreamWriter(outputFile);
