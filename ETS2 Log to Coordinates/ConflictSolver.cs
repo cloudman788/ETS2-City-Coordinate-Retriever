@@ -27,12 +27,24 @@ namespace ETS2_Log_to_Coordinates
                     uncheckedCities.Add(item.Text);
                 }
             }
+            DialogResult = DialogResult.OK;
             Close();
         }
 
         private void ConflictSolver_Load(object sender, EventArgs e)
         {
 
+        }
+        private void ConflictSolver_FormClosing(object sender, EventArgs e)
+        {
+            DialogResult = DialogResult.Abort;
+            Application.Exit();
+        }
+
+        private void btnAbort_Click(object sender, EventArgs e)
+        {
+            DialogResult = DialogResult.Abort;
+            Application.Exit();
         }
     }
 }

@@ -148,26 +148,32 @@ namespace ETS2_Log_to_Coordinates
             }
             citiesExport.citiesList = cities.citiesList;
 
-            conflictSolver.ShowDialog();
-
-            foreach (City city in cities.citiesList.ToList())
+            if (conflictSolver.ShowDialog() == DialogResult.OK)
             {
-                if (conflictSolver.uncheckedCities.Contains(city.gameName))
+
+                foreach (City city in cities.citiesList.ToList())
                 {
-                    Console.WriteLine(city.gameName);
-                    citiesExport.citiesList.Remove(city);
+                    if (conflictSolver.uncheckedCities.Contains(city.gameName))
+                    {
+                        Console.WriteLine(city.gameName);
+                        citiesExport.citiesList.Remove(city);
+                    }
                 }
+                string jsonCitiesList = Newtonsoft.Json.JsonConvert.SerializeObject(citiesExport, Formatting.Indented);
+                Console.Write(jsonCitiesList);
+                string outputFile = ConfigurationManager.AppSettings["OutputFile"];
+                StreamWriter write = new StreamWriter(outputFile);
+                write.Write(jsonCitiesList);
+                write.Close();
+                Console.WriteLine();
+                Console.WriteLine();
+                Console.WriteLine("-- Done, have fun :-)");
+                Console.ReadLine();
             }
-            string jsonCitiesList = Newtonsoft.Json.JsonConvert.SerializeObject(citiesExport, Formatting.Indented);
-            Console.Write(jsonCitiesList);
-            string outputFile = ConfigurationManager.AppSettings["OutputFile"];
-            StreamWriter write = new StreamWriter(outputFile);
-            write.Write(jsonCitiesList);
-            write.Close();
-            Console.WriteLine();
-            Console.WriteLine();
-            Console.WriteLine("-- Done, have fun :-)");
-            Console.ReadLine();
+            else
+            {
+                Console.WriteLine("Aborted");
+            }
         }
     }
 

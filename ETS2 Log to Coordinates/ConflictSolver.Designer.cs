@@ -37,6 +37,7 @@
             this.cmZ = ((System.Windows.Forms.ColumnHeader)(new System.Windows.Forms.ColumnHeader()));
             this.lHeader = new System.Windows.Forms.Label();
             this.btnExport = new System.Windows.Forms.Button();
+            this.btnAbort = new System.Windows.Forms.Button();
             this.SuspendLayout();
             // 
             // listCities
@@ -109,16 +110,29 @@
             this.btnExport.UseVisualStyleBackColor = true;
             this.btnExport.Click += new System.EventHandler(this.btnExport_Click);
             // 
+            // btnAbort
+            // 
+            this.btnAbort.Anchor = ((System.Windows.Forms.AnchorStyles)((System.Windows.Forms.AnchorStyles.Bottom | System.Windows.Forms.AnchorStyles.Right)));
+            this.btnAbort.Location = new System.Drawing.Point(459, 474);
+            this.btnAbort.Name = "btnAbort";
+            this.btnAbort.Size = new System.Drawing.Size(75, 23);
+            this.btnAbort.TabIndex = 3;
+            this.btnAbort.Text = "Abort";
+            this.btnAbort.UseVisualStyleBackColor = true;
+            this.btnAbort.Click += new System.EventHandler(this.btnAbort_Click);
+            // 
             // ConflictSolver
             // 
             this.AutoScaleDimensions = new System.Drawing.SizeF(6F, 13F);
             this.AutoScaleMode = System.Windows.Forms.AutoScaleMode.Font;
             this.ClientSize = new System.Drawing.Size(628, 509);
+            this.Controls.Add(this.btnAbort);
             this.Controls.Add(this.btnExport);
             this.Controls.Add(this.lHeader);
             this.Controls.Add(this.listCities);
             this.Name = "ConflictSolver";
             this.Text = "ConflictSolver";
+            this.FormClosing += new System.Windows.Forms.FormClosingEventHandler(this.ConflictSolver_FormClosing);
             this.Load += new System.EventHandler(this.ConflictSolver_Load);
             this.ResumeLayout(false);
             this.PerformLayout();
@@ -136,5 +150,6 @@
         private System.Windows.Forms.ColumnHeader cmZ;
         private System.Windows.Forms.Label lHeader;
         private System.Windows.Forms.Button btnExport;
+        private System.Windows.Forms.Button btnAbort;
     }
 }
