@@ -86,9 +86,9 @@ Once the operation is complete, all coordinates will be stored in:
                             int keyPressTime = (int) (50*sleepMultiplier);
 
                             Keyboard.KeyPress(Keys.Oemtilde);
-                            Thread.Sleep((int)(250 * sleepMultiplier));
+                            Thread.Sleep((int)(500 * sleepMultiplier));
                             Keyboard.KeyPress(Keys.Back);
-                            Thread.Sleep((int)(100 * sleepMultiplier));
+                            Thread.Sleep((int)(150 * sleepMultiplier));
                             Keyboard.KeyPress(Keys.G);
                             Thread.Sleep(keyPressTime);
                             Keyboard.KeyPress(Keys.O);
