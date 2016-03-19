@@ -169,9 +169,9 @@
       "z": "35291"
     },
     {
-      "gameName": "bor",
-      "realName": "Bor",
-      "country": "czech",
+      "gameName": "borde",
+      "realName": "Bordeaux",
+      "country": "france",
       "x": "-47905.3",
       "y": "62",
       "z": "27492.5"
@@ -863,14 +863,6 @@
       "x": "-23869.8",
       "y": "139.359",
       "z": "25892.3"
-    },
-    {
-      "gameName": "malmo",
-      "realName": "Malmö",
-      "country": "sweden",
-      "x": "10744.9",
-      "y": "66.3398",
-      "z": "-27481.2"
     },
     {
       "gameName": "mans",
