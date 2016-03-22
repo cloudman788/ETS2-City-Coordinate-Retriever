@@ -110,7 +110,7 @@ namespace ETS2_Log_to_Coordinates
                     string[] lineContentArray = lineContent.Split(new char[] { ';' });
 
                     City city = new City();
-                                        city.gameName = lineContentArray[0];
+                    city.gameName = lineContentArray[0];
                     city.realName = cityConversionTable[lineContentArray[0]];
                     city.country = cityCountryTable[lineContentArray[0]];
                     city.x = lineContentArray[2];
@@ -173,6 +173,7 @@ namespace ETS2_Log_to_Coordinates
             else
             {
                 Console.WriteLine("Aborted");
+                Console.ReadLine();
             }
         }
     }

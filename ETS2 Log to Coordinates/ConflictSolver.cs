@@ -37,7 +37,10 @@ namespace ETS2_Log_to_Coordinates
         }
         private void ConflictSolver_FormClosing(object sender, EventArgs e)
         {
-            DialogResult = DialogResult.Abort;
+            if (DialogResult != DialogResult.OK)
+            {
+                DialogResult = DialogResult.Abort;
+            }
             Application.Exit();
         }
 

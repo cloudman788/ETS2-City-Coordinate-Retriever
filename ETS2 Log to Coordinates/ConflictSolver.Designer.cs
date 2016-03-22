@@ -131,6 +131,7 @@
             this.Controls.Add(this.lHeader);
             this.Controls.Add(this.listCities);
             this.Name = "ConflictSolver";
+            this.ShowIcon = false;
             this.Text = "ConflictSolver";
             this.FormClosing += new System.Windows.Forms.FormClosingEventHandler(this.ConflictSolver_FormClosing);
             this.Load += new System.EventHandler(this.ConflictSolver_Load);
