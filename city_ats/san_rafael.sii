@@ -1,0 +1,28 @@
+
+city_data: city.san_rafael
+{
+	city_name: "San Rafael"
+	short_city_name: "San Rafael"
+	city_name_uppercase: "SAN RAFAEL"
+	country: california
+
+	map_x_offsets[]: 0
+	map_x_offsets[]: 0
+	map_x_offsets[]: -40
+	map_x_offsets[]: -60
+	map_x_offsets[]: -42
+	map_x_offsets[]: -49
+	map_x_offsets[]: -42
+	map_x_offsets[]: -49
+
+	map_y_offsets[]: 0
+	map_y_offsets[]: 0
+	map_y_offsets[]: 35
+	map_y_offsets[]: -40
+	map_y_offsets[]: 164
+	map_y_offsets[]: 55
+	map_y_offsets[]: 14
+	map_y_offsets[]: 7
+
+}
+
