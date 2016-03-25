@@ -17,7 +17,7 @@ namespace ets2_city_coordinate_retriever
 
     class Program
     {
-        private const string CityCharacters = "ABCDEFGHIJKLMNOPQRSTUVWXYZ_";
+        private const string CityCharacters = "ABCDEFGHIJKLMNOPQRSTUVWXYZ";
 
         [DllImport("kernel32.dll", ExactSpelling = true)]
         public static extern IntPtr GetConsoleWindow();
@@ -101,7 +101,16 @@ Once the operation is complete, all coordinates will be stored in:
                             Thread.Sleep(keyPressTime);
                             foreach (char index in cityName)
                             {
-                                if (CityCharacters.Contains(index.ToString().ToUpper()))
+                                if (index.ToString() == "_")
+                                {
+                                    Keyboard.KeyDown(Keys.ShiftKey);
+                                    Thread.Sleep(keyPressTime);
+                                    Keyboard.KeyPress(Keys.OemMinus);
+                                    Thread.Sleep(keyPressTime);
+                                    Keyboard.KeyUp(Keys.ShiftKey);
+                                    Thread.Sleep(keyPressTime);
+                                }
+                                else if (CityCharacters.Contains(index.ToString().ToUpper()))
                                 {
                                     Keyboard.KeyPress(
                                         (Keys) System.Enum.Parse(typeof (Keys), index.ToString().ToUpper()));
@@ -116,7 +125,16 @@ Once the operation is complete, all coordinates will be stored in:
                             Thread.Sleep((int)(100 * sleepMultiplier));
                             foreach (char index in cityName)
                             {
-                                if (CityCharacters.Contains(index.ToString().ToUpper()))
+                                if (index.ToString() == "_")
+                                {
+                                    Keyboard.KeyDown(Keys.ShiftKey);
+                                    Thread.Sleep(keyPressTime);
+                                    Keyboard.KeyPress(Keys.OemMinus);
+                                    Thread.Sleep(keyPressTime);
+                                    Keyboard.KeyUp(Keys.ShiftKey);
+                                    Thread.Sleep(keyPressTime);
+                                }
+                                else if (CityCharacters.Contains(index.ToString().ToUpper()))
                                 {
                                     Keyboard.KeyPress(
                                         (Keys)System.Enum.Parse(typeof(Keys), index.ToString().ToUpper()));
