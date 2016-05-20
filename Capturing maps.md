@@ -2,7 +2,7 @@
 This is going to be a rough guide on how to capture maps from ETS2 and ATS. Please bear in mind that this is not an easy process by any means, and you're likely to encounter some issue(s). If you've no idea what you're doing, it may be a difficult process to follow.
 
 ### The basics
-First of all, you need: A map. Besides that, you will need ETS2 or ATS and a few tools.. (These are Windows-only, sorry).
+First of all, you need: A map (that thing you drive on in ETS2 or ATS). You can use any map mod you like, as long as they work in ETS2 or ATS. Besides that, you will need ETS2 or ATS and a few tools.. (These are Windows-only, sorry).
 
 ### The capturing
 Open up ETS2, enable the map mod and capture mod in your profile. Then go to the map, all the roads should be coloured magenta.  Zoom to the zoomlevel that no city names are visible anymore, and go to the upper-left corner of the map. Open Funbit's capturing utility, and follow his instructions. 
@@ -18,7 +18,7 @@ Correct, no idea how to get around that, apart from using triple monitors
 ### After the map has been captured
 You should have a map.png in the folder you selected. Check whether the capturing went right, and edit the map using Photoshop if you wish (will use a lot of memory, 16GB is recommended). When done, please proceed:
 
-Install OSGeo4W and replace the gdal2tiles.py in the install directory with the gdal2tiles-leaflet version. You should now be able to use the -l switch.
+Install OSGeo4W and replace the gdal2tiles.py in the install directory with the gdal2tiles-leaflet version. You should now be able to use the -l switch. (You might be able to use gdal2tiles-leaflet standalone. I have not tried it but it will probably work)
 
 Go to OSGeoW, and use `gdal2tiles -p raster -z 0-7 -l map.png X:\export\folder`, this will create a raster map with eight zoomlevels, using the leaflet structure (inverting y) from map.png to X:\export\folder
 
