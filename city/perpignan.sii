@@ -1,5 +1,5 @@
 ﻿
-city_data: city.perpi
+city_data: city.perpignan
 {
 	city_name: "Perpignan"
 	short_city_name: "Perpignan"
@@ -24,8 +24,8 @@ city_data: city.perpi
 	map_y_offsets[]: -18
 	map_y_offsets[]: -15
 
+	vehicle_brands[]: "volvo"
 	truck_lp_template[]:"11-223-11.0"
-
 	truck_lp_def0[]:"<offset hshift=5 vshift=-5><img src=/material/ui/lp/france/66.mat color=FFFFFFFF width=16 height=32>"
 
 	truck_lp_def1[]:"B"

@@ -9,11 +9,11 @@ city_data: city.karlstad
 	map_x_offsets[]: 0
 	map_x_offsets[]: 0
 	map_x_offsets[]: 0
+	map_x_offsets[]: -28
 	map_x_offsets[]: 0
 	map_x_offsets[]: 0
-	map_x_offsets[]: 0
-	map_x_offsets[]: 0
-	map_x_offsets[]: 0
+	map_x_offsets[]: -28
+	map_x_offsets[]: -28
 
 	map_y_offsets[]: 0
 	map_y_offsets[]: 0
@@ -21,7 +21,7 @@ city_data: city.karlstad
 	map_y_offsets[]: 0
 	map_y_offsets[]: 0
 	map_y_offsets[]: 0
-	map_y_offsets[]: 0
+	map_y_offsets[]: 5
 	map_y_offsets[]: 0
 
 	### MEDIUM CITY ###

@@ -1,9 +1,9 @@
-
+ï»¿
 city_data: city.isafjordur
 {
-	city_name: "Ísafjörğur"
-	short_city_name: "Ísafjörğur"
-	city_name_uppercase: "ÍSAFJÖRĞUR"
+	city_name: "ÃsafjÃ¶rÃ°ur"
+	short_city_name: "ÃsafjÃ¶rÃ°ur"
+	city_name_uppercase: "ÃSAFJÃ–RÃUR"
 	country: iceland
 
 	map_x_offsets[]: 0
@@ -35,6 +35,8 @@ city_data: city.isafjordur
 	city_pin_scale_factor[]: 0.6  // whole world map zoom
 
 	truck_lp_template[]: "0113222"
+	
+	vehicle_brands[]: "volvo"
 	
 	truck_lp_def0[]:"<color value=FF983A17>"
 	truck_lp_def1[]:"A"

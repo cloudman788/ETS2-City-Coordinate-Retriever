@@ -3,8 +3,7 @@
 	city_name: "Cluj-Napoca"
 	short_city_name: "Cluj"
 	city_name_uppercase: "CLUJ"
-	country: romania
-
+	country: romania	
 
 	map_x_offsets[]: 0
 	map_x_offsets[]: 0
@@ -23,6 +22,8 @@
 	map_y_offsets[]: 0
 	map_y_offsets[]: -10
 	map_y_offsets[]: -15
+	
+	vehicle_brands[]: "iveco"	
 
 	truck_lp_template[]:"0 11 222"
 

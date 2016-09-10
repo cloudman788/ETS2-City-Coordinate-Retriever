@@ -6,23 +6,23 @@ city_data: city.firenze
 	city_name_uppercase: "FIRENZE"
 	country: italy
 
-	map_x_offsets[]: 0
-	map_x_offsets[]: 0
-	map_x_offsets[]: 0
-	map_x_offsets[]: 0
-	map_x_offsets[]: 0
-	map_x_offsets[]: 0
-	map_x_offsets[]: 0
-	map_x_offsets[]: 0
+	map_x_offsets[]: 250
+	map_x_offsets[]: 45
+	map_x_offsets[]: -20
+	map_x_offsets[]: -15
+	map_x_offsets[]: 250
+	map_x_offsets[]: 45
+	map_x_offsets[]: -20
+	map_x_offsets[]: -15
 
+	map_y_offsets[]: 80
 	map_y_offsets[]: 0
+	map_y_offsets[]: -8
+	map_y_offsets[]: -5
+	map_y_offsets[]: 80
 	map_y_offsets[]: 0
-	map_y_offsets[]: 0
-	map_y_offsets[]: 0
-	map_y_offsets[]: 0
-	map_y_offsets[]: 0
-	map_y_offsets[]: 0
-	map_y_offsets[]: 0
+	map_y_offsets[]: -8
+	map_y_offsets[]: -5
 
 	vehicle_brands[]: "renault"		
 

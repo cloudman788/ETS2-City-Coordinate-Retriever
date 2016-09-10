@@ -1,4 +1,4 @@
-
+﻿
 city_data: city.sodertalje
 {
 	city_name: "Södertälje"
@@ -35,7 +35,7 @@ city_data: city.sodertalje
 	map_x_offsets[]: -48
 	map_x_offsets[]: -47
 	map_x_offsets[]: -42
-	map_x_offsets[]: -64
+	map_x_offsets[]: -50
 
 	map_y_offsets[]: 0
 	map_y_offsets[]: 0
@@ -44,7 +44,7 @@ city_data: city.sodertalje
 	map_y_offsets[]: -55
 	map_y_offsets[]: -29
 	map_y_offsets[]: -23
-	map_y_offsets[]: -19
+	map_y_offsets[]: -16
 
 	truck_lp_template[]:"000 121"
 	

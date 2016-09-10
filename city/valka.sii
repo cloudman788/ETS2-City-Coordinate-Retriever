@@ -1,4 +1,4 @@
-
+﻿
 city_data: city.valka
 {
 	city_name: "Valka"
@@ -22,20 +22,9 @@ city_data: city.valka
 	map_y_offsets[]: 0
 	map_y_offsets[]: 4
 	map_y_offsets[]: 10
-	map_y_offsets[]: 6
-
-	### SMALL CITY ###
-	city_pin_scale_factor[]: 1.0
-	city_pin_scale_factor[]: 1.0  
-	city_pin_scale_factor[]: 0.6  // close zoom for minimap
-	city_pin_scale_factor[]: 0.6  // far zoom for monimap
-	city_pin_scale_factor[]: 0.8  // city zoom for world map
-	city_pin_scale_factor[]: 0.8  // closest zoom for world map
-	city_pin_scale_factor[]: 0.6  // middle zoom for world map
-	city_pin_scale_factor[]: 0.6  // whole world map zoom
+	map_y_offsets[]: 4
 
 	truck_lp_template[]: "01-3222"
-	truck_lp_template[]: "01- 322"
 	
 	truck_lp_def0[]:"A"
 	truck_lp_def0[]:"B"
@@ -91,6 +80,7 @@ city_data: city.valka
 	truck_lp_def2[]:"8"
 	truck_lp_def2[]:"9"
 
+	truck_lp_def3[]:" "
 	truck_lp_def3[]:"1"
 	truck_lp_def3[]:"2"
 	truck_lp_def3[]:"3"

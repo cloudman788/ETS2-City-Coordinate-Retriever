@@ -31,8 +31,8 @@ city_data: city.dover
 	city_pin_scale_factor[]: 0.8  // far zoom for monimap
 	city_pin_scale_factor[]: 1.0  // city zoom for world map
 	city_pin_scale_factor[]: 1.0  // closest zoom for world map
-	city_pin_scale_factor[]: 1.0  // middle zoom for world map
-	city_pin_scale_factor[]: 0.8  // whole world map zoom
+	city_pin_scale_factor[]: 0.8  // middle zoom for world map
+	city_pin_scale_factor[]: 0.4  // whole world map zoom
 
 
 	truck_lp_template[]: "G02 111"
