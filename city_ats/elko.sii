@@ -22,7 +22,7 @@ city_data: city.elko
 	map_y_offsets[]: -63
 	map_y_offsets[]: -47
 	map_y_offsets[]: -29
-	map_y_offsets[]: -31
+	map_y_offsets[]: -28
 
 
 	vehicle_brands[]: "kenworth"

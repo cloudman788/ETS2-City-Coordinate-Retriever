@@ -12,8 +12,8 @@ city_data: city.sacramento
 	map_x_offsets[]: -3
 	map_x_offsets[]: -64
 	map_x_offsets[]: -54
-	map_x_offsets[]: -48
-	map_x_offsets[]: -48
+	map_x_offsets[]: -38
+	map_x_offsets[]: -28
 
 	map_y_offsets[]: 0
 	map_y_offsets[]: 0
@@ -22,7 +22,7 @@ city_data: city.sacramento
 	map_y_offsets[]: -204
 	map_y_offsets[]: -90
 	map_y_offsets[]: -37
-	map_y_offsets[]: -29
+	map_y_offsets[]: -26
 
 }
 

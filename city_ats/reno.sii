@@ -22,7 +22,7 @@ city_data: city.reno
 	map_y_offsets[]: -81
 	map_y_offsets[]: -34
 	map_y_offsets[]: -29
-	map_y_offsets[]: -30
+	map_y_offsets[]: -28
 
 
 	vehicle_brands[]: "peterbilt"

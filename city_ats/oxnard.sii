@@ -19,10 +19,10 @@ city_data: city.oxnard
 	map_y_offsets[]: 0
 	map_y_offsets[]: 35
 	map_y_offsets[]: -8
-	map_y_offsets[]: -95
-	map_y_offsets[]: -35
+	map_y_offsets[]: -135
+	map_y_offsets[]: -45
 	map_y_offsets[]: -28
-	map_y_offsets[]: -29
+	map_y_offsets[]: -28
 
 }
 

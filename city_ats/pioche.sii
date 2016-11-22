@@ -22,7 +22,7 @@ city_data: city.pioche
 	map_y_offsets[]: -64
 	map_y_offsets[]: -36
 	map_y_offsets[]: -28
-	map_y_offsets[]: -30
+	map_y_offsets[]: -28
 
 }
 

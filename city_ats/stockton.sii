@@ -12,8 +12,8 @@ city_data: city.stockton
 	map_x_offsets[]: -3
 	map_x_offsets[]: -35
 	map_x_offsets[]: -28
-	map_x_offsets[]: -26
-	map_x_offsets[]: -26
+	map_x_offsets[]: -16
+	map_x_offsets[]: 10
 
 	map_y_offsets[]: 0
 	map_y_offsets[]: 0
@@ -21,8 +21,8 @@ city_data: city.stockton
 	map_y_offsets[]: -8
 	map_y_offsets[]: -260
 	map_y_offsets[]: -85
-	map_y_offsets[]: -30
-	map_y_offsets[]: -28
+	map_y_offsets[]: -25
+	map_y_offsets[]: -10
 
 }
 

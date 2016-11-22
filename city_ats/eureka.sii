@@ -22,7 +22,7 @@ city_data: city.eureka
 	map_y_offsets[]: -96
 	map_y_offsets[]: -52
 	map_y_offsets[]: -30
-	map_y_offsets[]: -30
+	map_y_offsets[]: -28
 
 }
 

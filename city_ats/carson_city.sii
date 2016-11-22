@@ -10,10 +10,10 @@ city_data: city.carson_city
 	map_x_offsets[]: 0
 	map_x_offsets[]: 0
 	map_x_offsets[]: -3
-	map_x_offsets[]: -64
-	map_x_offsets[]: -61
-	map_x_offsets[]: -59
-	map_x_offsets[]: -58
+	map_x_offsets[]: -52
+	map_x_offsets[]: -51
+	map_x_offsets[]: -29
+	map_x_offsets[]: -28
 
 	map_y_offsets[]: 0
 	map_y_offsets[]: 0
@@ -22,7 +22,7 @@ city_data: city.carson_city
 	map_y_offsets[]: -59
 	map_y_offsets[]: -29
 	map_y_offsets[]: -30
-	map_y_offsets[]: -30
+	map_y_offsets[]: -28
 
 }
 

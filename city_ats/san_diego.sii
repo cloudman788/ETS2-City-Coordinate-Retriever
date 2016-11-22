@@ -19,10 +19,10 @@ city_data: city.san_diego
 	map_y_offsets[]: 0
 	map_y_offsets[]: 35
 	map_y_offsets[]: -8
-	map_y_offsets[]: -374
-	map_y_offsets[]: -116
-	map_y_offsets[]: -52
-	map_y_offsets[]: -31
+	map_y_offsets[]: 30
+	map_y_offsets[]: 20
+	map_y_offsets[]: 5
+	map_y_offsets[]: 5
 
 
 	vehicle_brands[]: "peterbilt"

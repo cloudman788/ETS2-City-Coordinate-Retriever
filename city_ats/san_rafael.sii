@@ -10,19 +10,19 @@ city_data: city.san_rafael
 	map_x_offsets[]: 0
 	map_x_offsets[]: -40
 	map_x_offsets[]: -60
-	map_x_offsets[]: -42
-	map_x_offsets[]: -49
-	map_x_offsets[]: -42
-	map_x_offsets[]: -49
+	map_x_offsets[]: -197
+	map_x_offsets[]: -99
+	map_x_offsets[]: -97
+	map_x_offsets[]: -108
 
 	map_y_offsets[]: 0
 	map_y_offsets[]: 0
 	map_y_offsets[]: 35
 	map_y_offsets[]: -40
-	map_y_offsets[]: 164
-	map_y_offsets[]: 55
-	map_y_offsets[]: 14
-	map_y_offsets[]: 7
+	map_y_offsets[]: 64
+	map_y_offsets[]: 40
+	map_y_offsets[]: 13
+	map_y_offsets[]: -9
 
 }
 

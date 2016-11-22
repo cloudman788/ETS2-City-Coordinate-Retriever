@@ -21,7 +21,7 @@ city_data: city.jackpot
 	map_y_offsets[]: -8
 	map_y_offsets[]: -115
 	map_y_offsets[]: -53
-	map_y_offsets[]: -33
-	map_y_offsets[]: -33
+	map_y_offsets[]: -30
+	map_y_offsets[]: -28
 }
 

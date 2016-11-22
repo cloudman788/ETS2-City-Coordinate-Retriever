@@ -12,8 +12,8 @@ city_data: city.truckee
 	map_x_offsets[]: -3
 	map_x_offsets[]: -44
 	map_x_offsets[]: -41
-	map_x_offsets[]: -39
-	map_x_offsets[]: -36
+	map_x_offsets[]: -41
+	map_x_offsets[]: -44
 
 	map_y_offsets[]: 0
 	map_y_offsets[]: 0

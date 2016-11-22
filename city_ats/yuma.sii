@@ -17,7 +17,7 @@ city_data: city.yuma
 	map_y_offsets[]: 0
 	map_y_offsets[]: 0
 	map_y_offsets[]: 35
-	map_y_offsets[]: -8
+	map_y_offsets[]: 0
 	map_y_offsets[]: 30
 	map_y_offsets[]: 5
 	map_y_offsets[]: 4

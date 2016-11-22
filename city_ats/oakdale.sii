@@ -12,8 +12,8 @@ city_data: city.oakdale
 	map_x_offsets[]: -3
 	map_x_offsets[]: -38
 	map_x_offsets[]: -32
-	map_x_offsets[]: -33
-	map_x_offsets[]: -31
+	map_x_offsets[]: -23
+	map_x_offsets[]: 10
 
 	map_y_offsets[]: 0
 	map_y_offsets[]: 0
@@ -22,7 +22,7 @@ city_data: city.oakdale
 	map_y_offsets[]: -121
 	map_y_offsets[]: -49
 	map_y_offsets[]: -23
-	map_y_offsets[]: -28
+	map_y_offsets[]: -10
 
 }
 
