@@ -51,12 +51,12 @@ namespace ETS2_Log_to_Coordinates
                     while ((line = readCity.ReadLine()) != null)
                     {
                         //Check ingame city name
-                        if (line.Trim().StartsWith("city_data: city."))
+                        if (line.Trim().StartsWith("city_data: city.") || line.Trim().StartsWith("city_data:city."))
                         {
                             //int nameIndex = line.IndexOf("\"");
                             //string cityName = line.Substring(nameIndex + 1,
                             //    line.IndexOf("\"", nameIndex + 1) - nameIndex - 1);
-                            cityName = line.Replace("city_data: city.", "");
+                            cityName = line.Replace("city_data: city.", "").Replace("city_data:city.", "");
                             if (cityName.Contains("{"))
                             {
                                 cityName = cityName.Remove(cityName.IndexOf("{"));
@@ -73,7 +73,7 @@ namespace ETS2_Log_to_Coordinates
                         //Check country
                         if (line.TrimStart().StartsWith("country:"))
                         {
-                            country = line.Trim().Replace("country: ", "");
+                            country = line.Trim().Replace("country: ", "").Replace("country:", "").Trim();
                         }
                     }
                     //Add them to the dictionaries
