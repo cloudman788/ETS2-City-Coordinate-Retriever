@@ -47,12 +47,12 @@ Y: 13385.4
 
 Please adjust the offset values to match the proper location, the best method is trial and error.
 
-##Capturing the cities
+## Capturing the cities
 See the README for ETS2 City Coordinate Retriever. 
 Replace the variable content in cities.js with the data inside the citiesList from the export. 
 If your map contains countries that were not in the default map, please adjust the `COUNTRY_NAME_TO_CODE` in map.js to include the new countries.
 
-##Tools used:
+## Tools used:
 
  - ETS2/ATS
  - Funbit's MapExtractor (http://forum.scssoft.com/viewtopic.php?p=405122#p405122)
