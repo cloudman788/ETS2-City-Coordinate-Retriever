@@ -1,19 +1,21 @@
-
-city_data: city.ershov
+﻿
+city_data: city.vzletnyy
 {
-	city_name: "Ershov"
-	short_city_name: "Ershov"
-	city_name_uppercase: "ERSHOV"
+	city_name: "Vzletnyy"
+	short_city_name: "Vzletnyy"
+	city_name_uppercase: "VZLETNYY"
 	country: russia
+	
+	
 	
 	city_pin_scale_factor[]: 1.0
 	city_pin_scale_factor[]: 1.0  
 	city_pin_scale_factor[]: 1.0   
-	city_pin_scale_factor[]: 0.8   
+	city_pin_scale_factor[]: 0.4   
 	city_pin_scale_factor[]: 1.0   
 	city_pin_scale_factor[]: 1.0   
 	city_pin_scale_factor[]: 1.0   
-	city_pin_scale_factor[]: 0.8
+	city_pin_scale_factor[]: 0.4
 
 	map_x_offsets[]: 0
 	map_x_offsets[]: 0
@@ -89,4 +91,3 @@ city_data: city.ershov
 
 	ai_lp_def2[]:"<font xscale=0.6 yscale=0.6> 64  </font>"
 }
-

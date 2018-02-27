@@ -1,19 +1,19 @@
 
-city_data: city.shubarkuduk
+city_data: city.temir
 {
-	city_name: "Shubarkuduk"
-	short_city_name: "Shubarkuduk"
-	city_name_uppercase: "SHUBARKUDUK"
+	city_name: "Temir"
+	short_city_name: "Temir"
+	city_name_uppercase: "TEMIR"
 	country: kazakhstan
 
 	city_pin_scale_factor[]: 1.0
 	city_pin_scale_factor[]: 1.0  
 	city_pin_scale_factor[]: 1.0   
-	city_pin_scale_factor[]: 0.6   
+	city_pin_scale_factor[]: 0.8   
 	city_pin_scale_factor[]: 1.0   
 	city_pin_scale_factor[]: 1.0   
 	city_pin_scale_factor[]: 1.0   
-	city_pin_scale_factor[]: 0.6   
+	city_pin_scale_factor[]: 0.8   
 	
 	
 	map_x_offsets[]: 0

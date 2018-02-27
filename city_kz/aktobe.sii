@@ -24,7 +24,7 @@ city_data: city.aktobe
 	map_y_offsets[]: -27
 	map_y_offsets[]: -26
 
-	vehicle_brands[]: "daf"
+	vehicle_brands[]: "man"
 
 	truck_lp_template[]:" 000 111 2"
 
