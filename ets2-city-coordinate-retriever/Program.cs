@@ -11,6 +11,7 @@ using System.IO;
 using System.Windows.Forms;
 using System.Xml;
 using InputManager;
+using System.Windows.Forms;
 
 namespace ets2_city_coordinate_retriever
 {
@@ -35,7 +36,7 @@ namespace ets2_city_coordinate_retriever
 
 Once the operation is complete, all coordinates will be stored in:
 
-%USERPROFILE%\Documents\{ETS2/ATS Folder}\game.log.txt" + "\n");
+%USERPROFILE%\Documents\{ETS2/ATS Folder}\bugs.txt" + "\n");
 
             // Wait until user presses {ENTER}
             Console.ReadLine();
@@ -117,7 +118,10 @@ Once the operation is complete, all coordinates will be stored in:
                                     Thread.Sleep(keyPressTime);
                                 }
                             }
-                            Keyboard.KeyPress(Keys.Enter);
+                            Thread.Sleep((int)(100 * sleepMultiplier));
+                            Keyboard.KeyDown(Keys.Enter);
+                            Thread.Sleep((int)(100 * sleepMultiplier));
+                            Keyboard.KeyUp(Keys.Enter);
                             Thread.Sleep((int)(3000 * sleepMultiplier));
                             Keyboard.KeyPress(Keys.Oemtilde);
                             Thread.Sleep((int)(100 * sleepMultiplier));
