@@ -50,17 +50,17 @@ namespace ETS2_Log_to_Coordinates
                     string country = "";
                     while ((line = readCity.ReadLine()) != null)
                     {
-                        //Check ingame city name
-                        if (line.Trim().StartsWith("city_data: city.") || line.Trim().StartsWith("city_data:city."))
+                        if (line.Trim().StartsWith("city_data: city.") || line.Trim().StartsWith("city_data:city.") || line.Trim().StartsWith("city_data : city."))
                         {
                             //int nameIndex = line.IndexOf("\"");
                             //string cityName = line.Substring(nameIndex + 1,
                             //    line.IndexOf("\"", nameIndex + 1) - nameIndex - 1);
-                            cityName = line.Replace("city_data: city.", "").Replace("city_data:city.", "");
+                            cityName = line.Replace("city_data: city.", "").Replace("city_data:city.", "").Replace("city_data : city.", "");
                             if (cityName.Contains("{"))
                             {
                                 cityName = cityName.Remove(cityName.IndexOf("{"));
                             }
+                            cityName = cityName.Trim();
                             cityName.Replace(" ", "");
                         }
                         //Check real city name

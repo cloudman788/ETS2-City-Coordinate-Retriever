@@ -70,16 +70,17 @@ Once the operation is complete, all coordinates will be stored in:
                 {
                     foreach (var line in outputArray)
                     {
-                        if (line.Trim().StartsWith("city_data: city.") || line.Trim().StartsWith("city_data:city."))
+                        if (line.Trim().StartsWith("city_data: city.") || line.Trim().StartsWith("city_data:city.") || line.Trim().StartsWith("city_data : city."))
                         {
                             //int nameIndex = line.IndexOf("\"");
                             //string cityName = line.Substring(nameIndex + 1,
                             //    line.IndexOf("\"", nameIndex + 1) - nameIndex - 1);
-                            string cityName = line.Replace("city_data: city.", "").Replace("city_data:city.", "");
+                            string cityName = line.Replace("city_data: city.", "").Replace("city_data:city.", "").Replace("city_data : city.", "");
                             if (cityName.Contains("{"))
                             {
                                 cityName = cityName.Remove(cityName.IndexOf("{"));
                             }
+                            cityName = cityName.Trim();
                             if (debugMode)
                             {
                                 Console.WriteLine($"Processing city {cityName} ({i + 1} / {numberOfCities})");
