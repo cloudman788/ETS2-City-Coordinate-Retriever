@@ -1,0 +1,76 @@
+{
+  "citiesList": [
+    {
+      "gameName": "banjaluka",
+      "realName": "Banja Luka",
+      "country": "bosnia",
+      "x": "25041",
+      "y": "90",
+      "z": "35057.3"
+    },
+    {
+      "gameName": "blagoevgrad",
+      "realName": "Благоевград",
+      "country": "bulgaria",
+      "x": "50658.9",
+      "y": "82.375",
+      "z": "47390"
+    },
+    {
+      "gameName": "doboj",
+      "realName": "Doboj",
+      "country": "bosnia",
+      "x": "28894.4",
+      "y": "72.0781",
+      "z": "34697.3"
+    },
+    {
+      "gameName": "jihlava",
+      "realName": "Jihlava",
+      "country": "czech",
+      "x": "18401.4",
+      "y": "117.895",
+      "z": "8814.57"
+    },
+    {
+      "gameName": "pancevo",
+      "realName": "Панчево",
+      "country": "serbia",
+      "x": "41845.8",
+      "y": "81",
+      "z": "32486.7"
+    },
+    {
+      "gameName": "satumare",
+      "realName": "Satu Mare",
+      "country": "romania",
+      "x": "46031.3",
+      "y": "150.387",
+      "z": "15033.6"
+    },
+    {
+      "gameName": "serres",
+      "realName": "Σέρρες",
+      "country": "greece",
+      "x": "54906.5",
+      "y": "55",
+      "z": "52142.8"
+    },
+    {
+      "gameName": "stip",
+      "realName": "Штип",
+      "country": "macedonia",
+      "x": "48143.2",
+      "y": "85",
+      "z": "49575.6"
+    },
+    {
+      "gameName": "virovitica",
+      "realName": "Virovitica",
+      "country": "croatia",
+      "x": "25862.7",
+      "y": "66",
+      "z": "28255.8"
+    }
+  ]
+}
