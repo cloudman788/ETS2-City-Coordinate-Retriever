@@ -1,8 +1,8 @@
-city_data: city.elarish
+city_data: city.ruwaished
 {
-	city_name: "El Arish"
-	city_name_localized: "@@elarish@@"
-	country: egypt
+	city_name: "Ruwaished"
+	city_name_localized: "@@ruwaished@@"
+	country: jordan
 
 	map_x_offsets[]: 0
 	map_x_offsets[]: 0

@@ -1,7 +1,7 @@
-﻿city_data: city.aqaba
+city_data: city.aqaba
 {
 	city_name: "Aqaba"
-        city_name_localized: "@@aqaba@@"
+	city_name_localized: "@@aqaba@@"
 	country: jordan
 
 	map_x_offsets[]: 0
@@ -33,17 +33,4 @@
 	city_pin_scale_factor[]: 0.5  // whole world map zoom
 
 	vehicle_brands[]:"renault"
-
-	truck_lp_template[]:" 00-00000"
-
-	truck_lp_def0[]:"0"
-	truck_lp_def0[]:"1"
-	truck_lp_def0[]:"2"
-	truck_lp_def0[]:"3"
-	truck_lp_def0[]:"4"
-	truck_lp_def0[]:"5"
-	truck_lp_def0[]:"6"
-	truck_lp_def0[]:"7"
-	truck_lp_def0[]:"8"
-	truck_lp_def0[]:"9"
 }

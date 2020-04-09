@@ -1,8 +1,8 @@
-city_data: city.suez
+city_data: city.irbid
 {
-	city_name: "Suez"
-	city_name_localized: "@@suez@@"
-	country: egypt
+	city_name: "Irbid"
+	city_name_localized: "@@irbid@@"
+	country: jordan
 
 	map_x_offsets[]: 0
 	map_x_offsets[]: 0
@@ -21,4 +21,6 @@ city_data: city.suez
 	map_y_offsets[]: 0
 	map_y_offsets[]: 0
 	map_y_offsets[]: 0
+
+	vehicle_brands[]:"man"
 }
