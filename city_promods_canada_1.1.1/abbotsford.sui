@@ -1,0 +1,26 @@
+
+city_data: city.abbotsfrd_bc
+{
+	city_name: "Abbotsford"
+	city_name_localized: "@@abbotsfrd_bc@@"
+	country: bc
+
+	map_x_offsets[]: 0
+	map_x_offsets[]: 0
+	map_x_offsets[]: 0
+	map_x_offsets[]: -3
+	map_x_offsets[]: 0
+	map_x_offsets[]: 0
+	map_x_offsets[]: -45
+	map_x_offsets[]: -50
+
+	map_y_offsets[]: 0
+	map_y_offsets[]: 0
+	map_y_offsets[]: 35
+	map_y_offsets[]: -8
+	map_y_offsets[]: 0
+	map_y_offsets[]: 0
+	map_y_offsets[]: -25
+	map_y_offsets[]: -27
+}
+

@@ -1,0 +1,164 @@
+{
+  "citiesList": [
+    {
+      "gameName": "abbotsfrd_bc",
+      "realName": "Abbotsford",
+      "country": "bc",
+      "x": "-96767.3",
+      "y": "84.1133",
+      "z": "-72870.5"
+    },
+    {
+      "gameName": "bralorne_bc",
+      "realName": "Bralorne",
+      "country": "bc",
+      "x": "-96426",
+      "y": "148.277",
+      "z": "-81006.8"
+    },
+    {
+      "gameName": "cachecrk_bc",
+      "realName": "Cache Creek",
+      "country": "bc",
+      "x": "-90490.4",
+      "y": "97.3828",
+      "z": "-79765.2"
+    },
+    {
+      "gameName": "coquitlam_bc",
+      "realName": "Coquitlam",
+      "country": "bc",
+      "x": "-98857.2",
+      "y": "72.875",
+      "z": "-75070.9"
+    },
+    {
+      "gameName": "delta_bc",
+      "realName": "Delta",
+      "country": "bc",
+      "x": "-102080",
+      "y": "52.5039",
+      "z": "-71947.5"
+    },
+    {
+      "gameName": "hope_bc",
+      "realName": "Hope",
+      "country": "bc",
+      "x": "-93519.3",
+      "y": "51.2422",
+      "z": "-72161.5"
+    },
+    {
+      "gameName": "horseshoe_bc",
+      "realName": "Horseshoe Bay",
+      "country": "bc",
+      "x": "-103858",
+      "y": "106.57",
+      "z": "-75901.8"
+    },
+    {
+      "gameName": "kamloops_bc",
+      "realName": "Kamloops",
+      "country": "bc",
+      "x": "-87872.4",
+      "y": "97.0352",
+      "z": "-78290.7"
+    },
+    {
+      "gameName": "kelowna_bc",
+      "realName": "Kelowna",
+      "country": "bc",
+      "x": "-85241.9",
+      "y": "96.1094",
+      "z": "-72747.3"
+    },
+    {
+      "gameName": "lillooet_bc",
+      "realName": "Lillooet",
+      "country": "bc",
+      "x": "-93234.8",
+      "y": "108.098",
+      "z": "-79834.4"
+    },
+    {
+      "gameName": "merritt_bc",
+      "realName": "Merritt",
+      "country": "bc",
+      "x": "-90932.7",
+      "y": "160.457",
+      "z": "-76564.5"
+    },
+    {
+      "gameName": "osoyoos_bc",
+      "realName": "Osoyoos",
+      "country": "bc",
+      "x": "-86504.2",
+      "y": "83.5898",
+      "z": "-67646.3"
+    },
+    {
+      "gameName": "pemberton_bc",
+      "realName": "Pemberton",
+      "country": "bc",
+      "x": "-97086.9",
+      "y": "106.828",
+      "z": "-78672.3"
+    },
+    {
+      "gameName": "penticton_bc",
+      "realName": "Penticton",
+      "country": "bc",
+      "x": "-86766",
+      "y": "78",
+      "z": "-70269.1"
+    },
+    {
+      "gameName": "princeton_bc",
+      "realName": "Princeton",
+      "country": "bc",
+      "x": "-88925.7",
+      "y": "133",
+      "z": "-70977.4"
+    },
+    {
+      "gameName": "salmonarm_bc",
+      "realName": "Salmon Arm",
+      "country": "bc",
+      "x": "-83668.1",
+      "y": "93.2891",
+      "z": "-77155"
+    },
+    {
+      "gameName": "squamish_bc",
+      "realName": "Squamish",
+      "country": "bc",
+      "x": "-101468",
+      "y": "75.4414",
+      "z": "-78115.9"
+    },
+    {
+      "gameName": "surrey_bc",
+      "realName": "Surrey",
+      "country": "bc",
+      "x": "-99927.6",
+      "y": "68.2188",
+      "z": "-73515.3"
+    },
+    {
+      "gameName": "vancouver_bc",
+      "realName": "Vancouver",
+      "country": "bc",
+      "x": "-101665",
+      "y": "61.7656",
+      "z": "-74033.4"
+    },
+    {
+      "gameName": "vernon_bc",
+      "realName": "Vernon",
+      "country": "bc",
+      "x": "-84585.2",
+      "y": "96.1094",
+      "z": "-74347.4"
+    }
+  ]
+}

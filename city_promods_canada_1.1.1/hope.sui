@@ -1,0 +1,26 @@
+
+city_data: city.hope_bc
+{
+	city_name: "Hope"
+	city_name_localized: "@@hope_bc@@"
+	country: bc
+
+	map_x_offsets[]: 0
+	map_x_offsets[]: 0
+	map_x_offsets[]: 0
+	map_x_offsets[]: -3
+	map_x_offsets[]: 0		//CLOSEST ZOOM WORLD MAP
+	map_x_offsets[]: -10
+	map_x_offsets[]: -10
+	map_x_offsets[]: -10	//FAR ZOOM WORLD MAP
+
+	map_y_offsets[]: 0
+	map_y_offsets[]: 0
+	map_y_offsets[]: 35
+	map_y_offsets[]: -8
+	map_y_offsets[]: 0
+	map_y_offsets[]: 0
+	map_y_offsets[]: -10
+	map_y_offsets[]: -10	
+}
+

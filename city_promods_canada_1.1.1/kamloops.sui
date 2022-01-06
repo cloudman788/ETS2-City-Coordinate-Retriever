@@ -1,0 +1,30 @@
+
+city_data: city.kamloops_bc
+{
+	city_name: "Kamloops"
+	city_name_localized: "@@kamloops_bc@@"
+	country: bc
+
+	map_x_offsets[]: 0
+	map_x_offsets[]: 0
+	map_x_offsets[]: 0
+	map_x_offsets[]: -3
+	map_x_offsets[]: 80
+	map_x_offsets[]: 0
+	map_x_offsets[]: -30
+	map_x_offsets[]: -40
+
+	map_y_offsets[]: 0
+	map_y_offsets[]: 0
+	map_y_offsets[]: 35
+	map_y_offsets[]: -8
+	map_y_offsets[]: 0
+	map_y_offsets[]: -20
+	map_y_offsets[]: -20
+	map_y_offsets[]: -25
+
+
+	vehicle_brands[]: "kenworth"
+
+}
+

@@ -1,0 +1,35 @@
+
+city_data: city.horseshoe_bc
+{
+	city_name: "Horseshoe Bay"
+	city_name_localized: "@@horseshoe_bc@@"
+	country: bc
+
+	map_x_offsets[]: 0
+	map_x_offsets[]: 0
+	map_x_offsets[]: 0
+	map_x_offsets[]: -3
+	map_x_offsets[]: -10
+	map_x_offsets[]: -50
+	map_x_offsets[]: -90
+	map_x_offsets[]: -110
+
+	map_y_offsets[]: 0
+	map_y_offsets[]: 0
+	map_y_offsets[]: 35
+	map_y_offsets[]: -8
+	map_y_offsets[]: -100
+	map_y_offsets[]: -35
+	map_y_offsets[]: -10
+	map_y_offsets[]: -10
+	
+	city_pin_scale_factor[]: 1.0
+	city_pin_scale_factor[]: 1.0  
+	city_pin_scale_factor[]: 0.7  // close zoom for minimap
+	city_pin_scale_factor[]: 0.7  // far zoom for monimap
+	city_pin_scale_factor[]: 0.7  // city zoom for world map
+	city_pin_scale_factor[]: 0.7  // closest zoom for world map
+	city_pin_scale_factor[]: 0.7  // middle zoom for world map
+	city_pin_scale_factor[]: 0.7  // whole world map zoom
+}
+

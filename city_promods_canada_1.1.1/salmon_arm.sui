@@ -1,0 +1,25 @@
+city_data: city.salmonarm_bc
+{
+	city_name: "Salmon Arm"
+	city_name_localized: "@@salmonarm_bc@@"
+	country: bc
+
+	map_x_offsets[]: 0
+	map_x_offsets[]: 0
+	map_x_offsets[]: 0
+	map_x_offsets[]: -3
+	map_x_offsets[]: 20
+	map_x_offsets[]: -20
+	map_x_offsets[]: -30
+	map_x_offsets[]: 0
+
+	map_y_offsets[]: 0
+	map_y_offsets[]: 0
+	map_y_offsets[]: 35
+	map_y_offsets[]: -8
+	map_y_offsets[]: -80
+	map_y_offsets[]: -30
+	map_y_offsets[]: -20
+	map_y_offsets[]: -25
+}
+
