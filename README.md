@@ -3,6 +3,8 @@
 **What is it?**
 ETS2 Log to Coordinates (ETS2LTC) is a small project to both capture the location of ETS2's (and ATS's) cities and convert the information to easily readable JSON. Please bear in mind that this is not meant for a novice user, as it extensively uses hacks to work.
 
+Please note that it uses some low-level keyboard emulation that has only been tested with a US international keyboard layout. If the key to open the console is not tilde (`), and underscore is not shift + dash, then chances are it will not work properly.
+
 **How it works:**
 
  1. Extract the cities from ETS2. These can be found in def\city. For convenience, both ETS2's and ProMods/Rusmap's cities have been included. If you wish to use another map, extract them manually.
