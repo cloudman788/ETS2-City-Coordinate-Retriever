@@ -1,0 +1,124 @@
+{
+  "citiesList": [
+    {
+      "gameName": "billings",
+      "realName": "Billings",
+      "country": "montana",
+      "x": "-48677.9",
+      "y": "100.012",
+      "z": "-42375.1"
+    },
+    {
+      "gameName": "bozeman",
+      "realName": "Bozeman",
+      "country": "montana",
+      "x": "-59779.1",
+      "y": "124.777",
+      "z": "-42966.3"
+    },
+    {
+      "gameName": "butte",
+      "realName": "Butte",
+      "country": "montana",
+      "x": "-64788.6",
+      "y": "128.582",
+      "z": "-45335.3"
+    },
+    {
+      "gameName": "glasgow_mt",
+      "realName": "Glasgow",
+      "country": "montana",
+      "x": "-40268.7",
+      "y": "150",
+      "z": "-54673.6"
+    },
+    {
+      "gameName": "glendive",
+      "realName": "Glendive",
+      "country": "montana",
+      "x": "-33819.1",
+      "y": "89.2656",
+      "z": "-47322.6"
+    },
+    {
+      "gameName": "great_falls",
+      "realName": "Great Falls",
+      "country": "montana",
+      "x": "-57882.9",
+      "y": "99.2813",
+      "z": "-54597.5"
+    },
+    {
+      "gameName": "havre",
+      "realName": "Havre",
+      "country": "montana",
+      "x": "-51179.6",
+      "y": "84.9414",
+      "z": "-58026.8"
+    },
+    {
+      "gameName": "helena",
+      "realName": "Helena",
+      "country": "montana",
+      "x": "-61403.9",
+      "y": "122.141",
+      "z": "-49028.7"
+    },
+    {
+      "gameName": "kalispell",
+      "realName": "Kalispell",
+      "country": "montana",
+      "x": "-69691.6",
+      "y": "95",
+      "z": "-59999.2"
+    },
+    {
+      "gameName": "laurel",
+      "realName": "Laurel",
+      "country": "montana",
+      "x": "-50371.4",
+      "y": "91.3828",
+      "z": "-40981.6"
+    },
+    {
+      "gameName": "lewistown",
+      "realName": "Lewistown",
+      "country": "montana",
+      "x": "-51777.8",
+      "y": "110",
+      "z": "-49878.1"
+    },
+    {
+      "gameName": "miles_city",
+      "realName": "Miles City",
+      "country": "montana",
+      "x": "-38197.5",
+      "y": "78.9609",
+      "z": "-45381.5"
+    },
+    {
+      "gameName": "missoula",
+      "realName": "Missoula",
+      "country": "montana",
+      "x": "-69914.2",
+      "y": "109",
+      "z": "-52575.5"
+    },
+    {
+      "gameName": "sidney",
+      "realName": "Sidney",
+      "country": "montana",
+      "x": "-31754",
+      "y": "78.8789",
+      "z": "-51097.8"
+    },
+    {
+      "gameName": "thompson_f",
+      "realName": "Thompson Falls",
+      "country": "montana",
+      "x": "-72525.9",
+      "y": "83.5703",
+      "z": "-56488.5"
+    }
+  ]
+}
